@@ -1,0 +1,274 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    254,
+                    203
+                ],
+                [
+                    382,
+                    204
+                ],
+                [
+                    384,
+                    113
+                ],
+                [
+                    252,
+                    112
+                ],
+                [
+                    256,
+                    203
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    64,
+                    205
+                ],
+                [
+                    175,
+                    207
+                ],
+                [
+                    174,
+                    119
+                ],
+                [
+                    65,
+                    117
+                ],
+                [
+                    63,
+                    206
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    177,
+                    383
+                ],
+                [
+                    272,
+                    384
+                ],
+                [
+                    273,
+                    288
+                ],
+                [
+                    177,
+                    284
+                ],
+                [
+                    176,
+                    383
+                ]
+            ]
+        },
+        "B3": {
+            "id": "B3",
+            "polygon": [
+                [
+                    457,
+                    203
+                ],
+                [
+                    580,
+                    205
+                ],
+                [
+                    581,
+                    119
+                ],
+                [
+                    458,
+                    116
+                ],
+                [
+                    457,
+                    205
+                ]
+            ]
+        },
+        "B4": {
+            "id": "B4",
+            "polygon": [
+                [
+                    358,
+                    303
+                ],
+                [
+                    487,
+                    305
+                ],
+                [
+                    488,
+                    387
+                ],
+                [
+                    359,
+                    391
+                ],
+                [
+                    356,
+                    305
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T1+B1",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B3": {
+            "category": "intraObjectLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T3+B3",
+            "origin": "T3"
+        },
+        "T4+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T4+B2",
+            "origin": "T4"
+        },
+        "T5+B4": {
+            "category": "intraObjectLabel",
+            "destination": "B4",
+            "hasDirectionality": false,
+            "id": "T5+B4",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    35,
+                    63
+                ],
+                [
+                    288,
+                    85
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Five main types of fossils"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    79,
+                    218
+                ],
+                [
+                    161,
+                    261
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Petrified Fossils"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    270,
+                    219
+                ],
+                [
+                    371,
+                    262
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Molds and Casts"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    483,
+                    217
+                ],
+                [
+                    556,
+                    262
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Carbon Films"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    182,
+                    394
+                ],
+                [
+                    259,
+                    436
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Trace Fossils"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    381,
+                    399
+                ],
+                [
+                    465,
+                    436
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Preserved Remains"
+        }
+    }
+}

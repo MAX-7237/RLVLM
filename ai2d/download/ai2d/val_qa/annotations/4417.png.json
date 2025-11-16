@@ -1,0 +1,333 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    72,
+                    91
+                ],
+                [
+                    68,
+                    82
+                ],
+                [
+                    72,
+                    73
+                ],
+                [
+                    68,
+                    56
+                ],
+                [
+                    51,
+                    22
+                ],
+                [
+                    51,
+                    22
+                ],
+                [
+                    50,
+                    19
+                ],
+                [
+                    96,
+                    21
+                ],
+                [
+                    96,
+                    21
+                ],
+                [
+                    77,
+                    68
+                ],
+                [
+                    75,
+                    91
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    165,
+                    97
+                ],
+                [
+                    165,
+                    88
+                ],
+                [
+                    166,
+                    81
+                ],
+                [
+                    147,
+                    22
+                ],
+                [
+                    147,
+                    22
+                ],
+                [
+                    192,
+                    23
+                ],
+                [
+                    173,
+                    86
+                ],
+                [
+                    174,
+                    99
+                ],
+                [
+                    165,
+                    101
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    272,
+                    93
+                ],
+                [
+                    273,
+                    80
+                ],
+                [
+                    240,
+                    73
+                ],
+                [
+                    239,
+                    69
+                ],
+                [
+                    238,
+                    58
+                ],
+                [
+                    241,
+                    48
+                ],
+                [
+                    251,
+                    25
+                ],
+                [
+                    250,
+                    22
+                ],
+                [
+                    303,
+                    22
+                ],
+                [
+                    304,
+                    22
+                ],
+                [
+                    317,
+                    58
+                ],
+                [
+                    316,
+                    72
+                ],
+                [
+                    300,
+                    75
+                ],
+                [
+                    282,
+                    76
+                ],
+                [
+                    281,
+                    95
+                ],
+                [
+                    274,
+                    96
+                ]
+            ]
+        },
+        "B3": {
+            "id": "B3",
+            "polygon": [
+                [
+                    385,
+                    93
+                ],
+                [
+                    389,
+                    80
+                ],
+                [
+                    375,
+                    77
+                ],
+                [
+                    365,
+                    70
+                ],
+                [
+                    365,
+                    56
+                ],
+                [
+                    364,
+                    39
+                ],
+                [
+                    364,
+                    35
+                ],
+                [
+                    407,
+                    36
+                ],
+                [
+                    407,
+                    36
+                ],
+                [
+                    407,
+                    46
+                ],
+                [
+                    404,
+                    60
+                ],
+                [
+                    395,
+                    72
+                ],
+                [
+                    395,
+                    91
+                ],
+                [
+                    398,
+                    98
+                ],
+                [
+                    382,
+                    98
+                ],
+                [
+                    383,
+                    97
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B3": {
+            "category": "intraObjectLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T0+B3",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+B1",
+            "origin": "T2"
+        },
+        "T3+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T3+B2",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    370,
+                    108
+                ],
+                [
+                    414,
+                    123
+                ]
+            ],
+            "replacementText": "D",
+            "value": "oblique"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    44,
+                    103
+                ],
+                [
+                    101,
+                    118
+                ]
+            ],
+            "replacementText": "C",
+            "value": "attenuate"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    146,
+                    107
+                ],
+                [
+                    197,
+                    132
+                ]
+            ],
+            "replacementText": "B",
+            "value": "narrowly "
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    253,
+                    105
+                ],
+                [
+                    304,
+                    121
+                ]
+            ],
+            "replacementText": "A",
+            "value": "truncate"
+        }
+    }
+}

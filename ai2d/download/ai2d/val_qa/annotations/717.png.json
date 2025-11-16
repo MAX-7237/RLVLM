@@ -1,0 +1,313 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    237,
+                    381
+                ],
+                [
+                    254,
+                    387
+                ],
+                [
+                    290,
+                    290
+                ],
+                [
+                    273,
+                    280
+                ],
+                [
+                    240,
+                    380
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    354,
+                    318
+                ],
+                [
+                    370,
+                    322
+                ],
+                [
+                    352,
+                    392
+                ],
+                [
+                    339,
+                    387
+                ],
+                [
+                    354,
+                    321
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    438,
+                    322
+                ],
+                [
+                    456,
+                    327
+                ],
+                [
+                    435,
+                    393
+                ],
+                [
+                    424,
+                    386
+                ],
+                [
+                    441,
+                    324
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    488,
+                    312
+                ],
+                [
+                    494,
+                    386
+                ],
+                [
+                    506,
+                    384
+                ],
+                [
+                    502,
+                    310
+                ],
+                [
+                    489,
+                    314
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    216,
+                    46
+                ],
+                [
+                    546,
+                    45
+                ],
+                [
+                    543,
+                    165
+                ],
+                [
+                    542,
+                    336
+                ],
+                [
+                    420,
+                    340
+                ],
+                [
+                    297,
+                    340
+                ],
+                [
+                    214,
+                    338
+                ],
+                [
+                    214,
+                    244
+                ],
+                [
+                    214,
+                    132
+                ],
+                [
+                    216,
+                    44
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A0+B0",
+            "origin": "T1"
+        },
+        "T2+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A1+B0",
+            "origin": "T2"
+        },
+        "T3+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A2+B0",
+            "origin": "T3"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A3+B0",
+            "origin": "T4"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T5+I0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    56,
+                    38
+                ],
+                [
+                    142,
+                    64
+                ]
+            ],
+            "replacementText": "F",
+            "value": "GRANITE"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    210,
+                    393
+                ],
+                [
+                    306,
+                    432
+                ]
+            ],
+            "replacementText": "D",
+            "value": "FELDSPAR (Plagioclase)"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    309,
+                    392
+                ],
+                [
+                    375,
+                    410
+                ]
+            ],
+            "replacementText": "E",
+            "value": "QUARTZ"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    386,
+                    392
+                ],
+                [
+                    480,
+                    430
+                ]
+            ],
+            "replacementText": "B",
+            "value": "FELDSPAR (Orthoclase)"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    488,
+                    393
+                ],
+                [
+                    550,
+                    434
+                ]
+            ],
+            "replacementText": "C",
+            "value": "MICA (Biotite)"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    3,
+                    471
+                ],
+                [
+                    417,
+                    486
+                ]
+            ],
+            "replacementText": "A",
+            "value": "2007-2010 The University of Waikato I www.sciencelearn.org.nz"
+        }
+    }
+}

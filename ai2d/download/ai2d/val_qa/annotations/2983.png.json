@@ -1,0 +1,501 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    632,
+                    133
+                ],
+                [
+                    868,
+                    109
+                ],
+                [
+                    865,
+                    109
+                ],
+                [
+                    867,
+                    96
+                ],
+                [
+                    628,
+                    120
+                ],
+                [
+                    631,
+                    131
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    724,
+                    263
+                ],
+                [
+                    727,
+                    280
+                ],
+                [
+                    833,
+                    261
+                ],
+                [
+                    832,
+                    248
+                ],
+                [
+                    721,
+                    261
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    663,
+                    367
+                ],
+                [
+                    791,
+                    403
+                ],
+                [
+                    793,
+                    393
+                ],
+                [
+                    667,
+                    356
+                ],
+                [
+                    660,
+                    364
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    377,
+                    352
+                ],
+                [
+                    579,
+                    352
+                ],
+                [
+                    579,
+                    340
+                ],
+                [
+                    377,
+                    339
+                ],
+                [
+                    375,
+                    348
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    363,
+                    176
+                ],
+                [
+                    473,
+                    199
+                ],
+                [
+                    473,
+                    199
+                ],
+                [
+                    473,
+                    199
+                ],
+                [
+                    477,
+                    188
+                ],
+                [
+                    365,
+                    167
+                ],
+                [
+                    360,
+                    173
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    433,
+                    164
+                ],
+                [
+                    453,
+                    141
+                ],
+                [
+                    477,
+                    129
+                ],
+                [
+                    500,
+                    101
+                ],
+                [
+                    521,
+                    91
+                ],
+                [
+                    543,
+                    89
+                ],
+                [
+                    575,
+                    80
+                ],
+                [
+                    587,
+                    77
+                ],
+                [
+                    592,
+                    81
+                ],
+                [
+                    608,
+                    79
+                ],
+                [
+                    625,
+                    83
+                ],
+                [
+                    643,
+                    88
+                ],
+                [
+                    668,
+                    89
+                ],
+                [
+                    691,
+                    103
+                ],
+                [
+                    703,
+                    116
+                ],
+                [
+                    725,
+                    132
+                ],
+                [
+                    745,
+                    149
+                ],
+                [
+                    771,
+                    183
+                ],
+                [
+                    789,
+                    213
+                ],
+                [
+                    801,
+                    241
+                ],
+                [
+                    804,
+                    263
+                ],
+                [
+                    804,
+                    292
+                ],
+                [
+                    796,
+                    328
+                ],
+                [
+                    783,
+                    351
+                ],
+                [
+                    745,
+                    383
+                ],
+                [
+                    735,
+                    397
+                ],
+                [
+                    683,
+                    417
+                ],
+                [
+                    649,
+                    424
+                ],
+                [
+                    620,
+                    419
+                ],
+                [
+                    599,
+                    400
+                ],
+                [
+                    588,
+                    412
+                ],
+                [
+                    560,
+                    425
+                ],
+                [
+                    496,
+                    411
+                ],
+                [
+                    463,
+                    392
+                ],
+                [
+                    447,
+                    380
+                ],
+                [
+                    413,
+                    349
+                ],
+                [
+                    391,
+                    297
+                ],
+                [
+                    389,
+                    239
+                ],
+                [
+                    407,
+                    203
+                ],
+                [
+                    432,
+                    169
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A0+B0",
+            "origin": "T3"
+        },
+        "T4+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A4+B0",
+            "origin": "T4"
+        },
+        "T5+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A3+B0",
+            "origin": "T5"
+        },
+        "T6+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+A2+B0",
+            "origin": "T6"
+        },
+        "T7+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+A1+B0",
+            "origin": "T7"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    379,
+                    455
+                ],
+                [
+                    803,
+                    492
+                ]
+            ],
+            "replacementText": "C",
+            "value": "www.BANDHAYOGA.COM"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    204,
+                    17
+                ],
+                [
+                    560,
+                    49
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Descending (Motor)Tracts"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    607,
+                    11
+                ],
+                [
+                    991,
+                    56
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Ascending(Sensory)Tracts"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    747,
+                    97
+                ],
+                [
+                    1187,
+                    151
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Dorsal Columns(Proprioception,Deep Touch,Vibration)"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    45,
+                    152
+                ],
+                [
+                    361,
+                    211
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Lateral Coticospinal Tract(Motor)"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    56,
+                    331
+                ],
+                [
+                    376,
+                    389
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Ventral Coticospinal Tract(Motor)"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    795,
+                    383
+                ],
+                [
+                    1135,
+                    445
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Ventral Spinothalamic Tract (Light touch)"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    829,
+                    239
+                ],
+                [
+                    1167,
+                    303
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Lateral Spinothalamic Tract(Pain,Temperature)"
+        }
+    }
+}

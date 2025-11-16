@@ -1,0 +1,238 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    173,
+                    157
+                ],
+                [
+                    129,
+                    201
+                ],
+                [
+                    96,
+                    271
+                ],
+                [
+                    88,
+                    339
+                ],
+                [
+                    111,
+                    429
+                ],
+                [
+                    170,
+                    500
+                ],
+                [
+                    239,
+                    531
+                ],
+                [
+                    293,
+                    543
+                ],
+                [
+                    344,
+                    541
+                ],
+                [
+                    389,
+                    531
+                ],
+                [
+                    454,
+                    502
+                ],
+                [
+                    500,
+                    452
+                ],
+                [
+                    534,
+                    375
+                ],
+                [
+                    534,
+                    297
+                ],
+                [
+                    516,
+                    239
+                ],
+                [
+                    480,
+                    186
+                ],
+                [
+                    420,
+                    142
+                ],
+                [
+                    352,
+                    118
+                ],
+                [
+                    289,
+                    116
+                ],
+                [
+                    225,
+                    132
+                ],
+                [
+                    174,
+                    160
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    238,
+                    168
+                ],
+                [
+                    387,
+                    188
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Convective Zone"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    253,
+                    232
+                ],
+                [
+                    389,
+                    256
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Radiative Zone"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    292,
+                    315
+                ],
+                [
+                    337,
+                    333
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Core"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    270,
+                    392
+                ],
+                [
+                    365,
+                    413
+                ]
+            ],
+            "replacementText": "B",
+            "value": "PHOTOSHERE"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    251,
+                    479
+                ],
+                [
+                    376,
+                    502
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Chromosphere"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    283,
+                    556
+                ],
+                [
+                    355,
+                    577
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Corona"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "imageName": "4444.png",
+    "questions": {
+        "Image A represents": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Simple leaf",
+                "none of above",
+                "Opposite leaf",
+                "Alternate leaf"
+            ],
+            "correctAnswer": 0,
+            "questionId": "4444.png-3"
+        },
+        "Image B represents": {
+            "abcLabel": true,
+            "answerTexts": [
+                "simple leaf",
+                "Compound leaf",
+                "none of above",
+                "opposite leaf"
+            ],
+            "correctAnswer": 1,
+            "questionId": "4444.png-1"
+        },
+        "Which has 5 leaves?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "neither",
+                "both",
+                "simple",
+                "compoud"
+            ],
+            "correctAnswer": 3,
+            "questionId": "4444.png-0"
+        },
+        "Which has just one leaf?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "compound",
+                "simple",
+                "both",
+                "neither"
+            ],
+            "correctAnswer": 1,
+            "questionId": "4444.png-2"
+        }
+    }
+}

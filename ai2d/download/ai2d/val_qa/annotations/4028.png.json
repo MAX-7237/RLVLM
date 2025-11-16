@@ -1,0 +1,402 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 135.0,
+            "rectangle": [
+                [
+                    650,
+                    127
+                ],
+                [
+                    687,
+                    164
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 157.5,
+            "rectangle": [
+                [
+                    690,
+                    197
+                ],
+                [
+                    712,
+                    219
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    646,
+                    120
+                ],
+                [
+                    651,
+                    159
+                ],
+                [
+                    686,
+                    169
+                ],
+                [
+                    683,
+                    154
+                ],
+                [
+                    714,
+                    126
+                ],
+                [
+                    694,
+                    104
+                ],
+                [
+                    663,
+                    128
+                ],
+                [
+                    647,
+                    120
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    689,
+                    212
+                ],
+                [
+                    698,
+                    194
+                ],
+                [
+                    707,
+                    196
+                ],
+                [
+                    739,
+                    184
+                ],
+                [
+                    740,
+                    195
+                ],
+                [
+                    713,
+                    210
+                ],
+                [
+                    716,
+                    218
+                ],
+                [
+                    692,
+                    219
+                ],
+                [
+                    689,
+                    214
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    343,
+                    83
+                ],
+                [
+                    414,
+                    73
+                ],
+                [
+                    469,
+                    73
+                ],
+                [
+                    537,
+                    85
+                ],
+                [
+                    575,
+                    102
+                ],
+                [
+                    607,
+                    117
+                ],
+                [
+                    645,
+                    144
+                ],
+                [
+                    692,
+                    198
+                ],
+                [
+                    717,
+                    250
+                ],
+                [
+                    737,
+                    314
+                ],
+                [
+                    745,
+                    363
+                ],
+                [
+                    741,
+                    434
+                ],
+                [
+                    710,
+                    516
+                ],
+                [
+                    660,
+                    567
+                ],
+                [
+                    621,
+                    610
+                ],
+                [
+                    563,
+                    644
+                ],
+                [
+                    507,
+                    660
+                ],
+                [
+                    448,
+                    667
+                ],
+                [
+                    386,
+                    660
+                ],
+                [
+                    302,
+                    632
+                ],
+                [
+                    238,
+                    580
+                ],
+                [
+                    199,
+                    531
+                ],
+                [
+                    178,
+                    490
+                ],
+                [
+                    157,
+                    428
+                ],
+                [
+                    151,
+                    376
+                ],
+                [
+                    151,
+                    315
+                ],
+                [
+                    174,
+                    244
+                ],
+                [
+                    198,
+                    202
+                ],
+                [
+                    256,
+                    136
+                ],
+                [
+                    299,
+                    110
+                ],
+                [
+                    343,
+                    86
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A1+H1",
+            "origin": "A1"
+        },
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A0+B0",
+            "origin": "T3"
+        },
+        "T4+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A1+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    375,
+                    128
+                ],
+                [
+                    520,
+                    170
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Mantle"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    388,
+                    212
+                ],
+                [
+                    500,
+                    292
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Outer Core"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    399,
+                    320
+                ],
+                [
+                    504,
+                    403
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Inner Core"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    703,
+                    87
+                ],
+                [
+                    835,
+                    139
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Crust"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    732,
+                    153
+                ],
+                [
+                    844,
+                    185
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Moho"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    152,
+                    187
+                ],
+                [
+                    239,
+                    349
+                ]
+            ],
+            "replacementText": "E",
+            "value": "asthenosphere"
+        }
+    }
+}

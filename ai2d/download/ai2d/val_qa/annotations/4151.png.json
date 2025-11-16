@@ -1,0 +1,325 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 180.0,
+            "rectangle": [
+                [
+                    152,
+                    160
+                ],
+                [
+                    170,
+                    178
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 45.0,
+            "rectangle": [
+                [
+                    290,
+                    139
+                ],
+                [
+                    308,
+                    157
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": 315.0,
+            "rectangle": [
+                [
+                    201,
+                    66
+                ],
+                [
+                    215,
+                    80
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    137,
+                    148
+                ],
+                [
+                    211,
+                    63
+                ],
+                [
+                    220,
+                    72
+                ],
+                [
+                    144,
+                    160
+                ],
+                [
+                    135,
+                    151
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    289,
+                    160
+                ],
+                [
+                    288,
+                    171
+                ],
+                [
+                    182,
+                    172
+                ],
+                [
+                    175,
+                    170
+                ],
+                [
+                    172,
+                    176
+                ],
+                [
+                    170,
+                    178
+                ],
+                [
+                    148,
+                    168
+                ],
+                [
+                    170,
+                    156
+                ],
+                [
+                    175,
+                    161
+                ],
+                [
+                    286,
+                    159
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    233,
+                    64
+                ],
+                [
+                    227,
+                    73
+                ],
+                [
+                    287,
+                    142
+                ],
+                [
+                    287,
+                    152
+                ],
+                [
+                    311,
+                    158
+                ],
+                [
+                    306,
+                    138
+                ],
+                [
+                    303,
+                    135
+                ],
+                [
+                    297,
+                    136
+                ],
+                [
+                    296,
+                    138
+                ],
+                [
+                    233,
+                    63
+                ]
+            ]
+        }
+    },
+    "blobs": {},
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A0+H2",
+            "origin": "A0"
+        },
+        "A1+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A1+H0",
+            "origin": "A1"
+        },
+        "A2+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A2+H1",
+            "origin": "A2"
+        },
+        "T2+A1+T4": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "T4",
+            "hasDirectionality": true,
+            "id": "T2+A1+T4",
+            "origin": "T2"
+        },
+        "T4+A0+T5": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "T5",
+            "hasDirectionality": true,
+            "id": "T4+A0+T5",
+            "origin": "T4"
+        },
+        "T5+A2+T2": {
+            "category": "interObjectLinkage",
+            "connector": "A2",
+            "destination": "T2",
+            "hasDirectionality": true,
+            "id": "T5+A2+T2",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    126,
+                    2
+                ],
+                [
+                    314,
+                    25
+                ]
+            ],
+            "replacementText": "C",
+            "value": "THE ROCK CYCLE"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    281,
+                    97
+                ],
+                [
+                    420,
+                    112
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Pressure & Temperature"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    296,
+                    160
+                ],
+                [
+                    420,
+                    180
+                ]
+            ],
+            "replacementText": "E",
+            "value": "METAMORPHIC"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    161,
+                    180
+                ],
+                [
+                    283,
+                    208
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Melt Rock; Crystallize Molten Rock"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    66,
+                    161
+                ],
+                [
+                    141,
+                    179
+                ]
+            ],
+            "replacementText": "F",
+            "value": "IGNEOUS"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    164,
+                    42
+                ],
+                [
+                    285,
+                    61
+                ]
+            ],
+            "replacementText": "G",
+            "value": "SEDIMENTARY"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    0,
+                    76
+                ],
+                [
+                    191,
+                    148
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Compact & Cement Sediments Deposit Sediments Transport Sediments Weather and Erode Rock"
+        }
+    }
+}

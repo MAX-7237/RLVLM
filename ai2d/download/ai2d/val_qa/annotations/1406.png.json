@@ -1,0 +1,307 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    146,
+                    341
+                ],
+                [
+                    146,
+                    356
+                ],
+                [
+                    174,
+                    356
+                ],
+                [
+                    174,
+                    340
+                ],
+                [
+                    148,
+                    341
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    148,
+                    261
+                ],
+                [
+                    148,
+                    276
+                ],
+                [
+                    173,
+                    276
+                ],
+                [
+                    174,
+                    262
+                ],
+                [
+                    152,
+                    262
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    148,
+                    190
+                ],
+                [
+                    148,
+                    204
+                ],
+                [
+                    174,
+                    205
+                ],
+                [
+                    174,
+                    192
+                ],
+                [
+                    150,
+                    192
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    150,
+                    132
+                ],
+                [
+                    150,
+                    142
+                ],
+                [
+                    175,
+                    143
+                ],
+                [
+                    175,
+                    134
+                ],
+                [
+                    151,
+                    134
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    149,
+                    96
+                ],
+                [
+                    149,
+                    110
+                ],
+                [
+                    174,
+                    110
+                ],
+                [
+                    174,
+                    98
+                ],
+                [
+                    150,
+                    96
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    9,
+                    8
+                ],
+                [
+                    148,
+                    9
+                ],
+                [
+                    150,
+                    78
+                ],
+                [
+                    148,
+                    312
+                ],
+                [
+                    149,
+                    404
+                ],
+                [
+                    86,
+                    405
+                ],
+                [
+                    41,
+                    410
+                ],
+                [
+                    18,
+                    411
+                ],
+                [
+                    17,
+                    241
+                ],
+                [
+                    12,
+                    127
+                ],
+                [
+                    9,
+                    10
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A4+B0",
+            "origin": "T0"
+        },
+        "T1+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A3+B0",
+            "origin": "T1"
+        },
+        "T2+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A2+B0",
+            "origin": "T2"
+        },
+        "T3+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A1+B0",
+            "origin": "T3"
+        },
+        "T4+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A0+B0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    174,
+                    93
+                ],
+                [
+                    295,
+                    115
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Organic Layer"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    167,
+                    125
+                ],
+                [
+                    249,
+                    149
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Top Soil"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    174,
+                    183
+                ],
+                [
+                    252,
+                    207
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Sub Soil"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    174,
+                    257
+                ],
+                [
+                    314,
+                    280
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Parent Material"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    173,
+                    338
+                ],
+                [
+                    256,
+                    357
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Bedrock"
+        }
+    }
+}

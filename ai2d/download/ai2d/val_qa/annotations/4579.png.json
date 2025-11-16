@@ -1,0 +1,235 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    38,
+                    105
+                ],
+                [
+                    83,
+                    69
+                ],
+                [
+                    128,
+                    60
+                ],
+                [
+                    171,
+                    70
+                ],
+                [
+                    201,
+                    89
+                ],
+                [
+                    226,
+                    130
+                ],
+                [
+                    231,
+                    185
+                ],
+                [
+                    206,
+                    226
+                ],
+                [
+                    173,
+                    252
+                ],
+                [
+                    121,
+                    261
+                ],
+                [
+                    89,
+                    252
+                ],
+                [
+                    59,
+                    233
+                ],
+                [
+                    35,
+                    205
+                ],
+                [
+                    25,
+                    169
+                ],
+                [
+                    25,
+                    139
+                ],
+                [
+                    41,
+                    105
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    326,
+                    176
+                ],
+                [
+                    332,
+                    144
+                ],
+                [
+                    332,
+                    144
+                ],
+                [
+                    348,
+                    122
+                ],
+                [
+                    384,
+                    115
+                ],
+                [
+                    411,
+                    123
+                ],
+                [
+                    431,
+                    152
+                ],
+                [
+                    431,
+                    175
+                ],
+                [
+                    427,
+                    190
+                ],
+                [
+                    411,
+                    210
+                ],
+                [
+                    383,
+                    220
+                ],
+                [
+                    354,
+                    217
+                ],
+                [
+                    338,
+                    204
+                ],
+                [
+                    325,
+                    178
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T2+I0",
+            "origin": "T2"
+        },
+        "T3+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T3+B1",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    47,
+                    290
+                ],
+                [
+                    208,
+                    312
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Diameter: 12,756 km"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    98,
+                    264
+                ],
+                [
+                    158,
+                    286
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Earth"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    302,
+                    291
+                ],
+                [
+                    452,
+                    309
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Diameter: 6,792 km"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    349,
+                    262
+                ],
+                [
+                    400,
+                    284
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Mars"
+        }
+    }
+}

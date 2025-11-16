@@ -1,0 +1,354 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    415,
+                    53
+                ],
+                [
+                    381,
+                    55
+                ],
+                [
+                    347,
+                    57
+                ],
+                [
+                    306,
+                    58
+                ],
+                [
+                    257,
+                    77
+                ],
+                [
+                    200,
+                    110
+                ],
+                [
+                    189,
+                    135
+                ],
+                [
+                    176,
+                    168
+                ],
+                [
+                    171,
+                    203
+                ],
+                [
+                    189,
+                    246
+                ],
+                [
+                    210,
+                    262
+                ],
+                [
+                    249,
+                    263
+                ],
+                [
+                    278,
+                    260
+                ],
+                [
+                    283,
+                    268
+                ],
+                [
+                    283,
+                    294
+                ],
+                [
+                    297,
+                    302
+                ],
+                [
+                    330,
+                    308
+                ],
+                [
+                    358,
+                    313
+                ],
+                [
+                    388,
+                    303
+                ],
+                [
+                    400,
+                    309
+                ],
+                [
+                    412,
+                    318
+                ],
+                [
+                    423,
+                    346
+                ],
+                [
+                    439,
+                    362
+                ],
+                [
+                    457,
+                    399
+                ],
+                [
+                    485,
+                    401
+                ],
+                [
+                    479,
+                    381
+                ],
+                [
+                    469,
+                    364
+                ],
+                [
+                    480,
+                    356
+                ],
+                [
+                    498,
+                    356
+                ],
+                [
+                    537,
+                    349
+                ],
+                [
+                    563,
+                    334
+                ],
+                [
+                    575,
+                    314
+                ],
+                [
+                    580,
+                    292
+                ],
+                [
+                    571,
+                    270
+                ],
+                [
+                    551,
+                    258
+                ],
+                [
+                    531,
+                    250
+                ],
+                [
+                    554,
+                    246
+                ],
+                [
+                    576,
+                    248
+                ],
+                [
+                    611,
+                    241
+                ],
+                [
+                    625,
+                    211
+                ],
+                [
+                    621,
+                    189
+                ],
+                [
+                    607,
+                    163
+                ],
+                [
+                    592,
+                    141
+                ],
+                [
+                    578,
+                    121
+                ],
+                [
+                    565,
+                    104
+                ],
+                [
+                    544,
+                    87
+                ],
+                [
+                    516,
+                    72
+                ],
+                [
+                    477,
+                    59
+                ],
+                [
+                    439,
+                    55
+                ],
+                [
+                    419,
+                    53
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    274,
+                    17
+                ],
+                [
+                    370,
+                    39
+                ]
+            ],
+            "replacementText": "C",
+            "value": "actions"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    402,
+                    19
+                ],
+                [
+                    542,
+                    39
+                ]
+            ],
+            "replacementText": "D",
+            "value": "sensations"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    522,
+                    57
+                ],
+                [
+                    618,
+                    83
+                ]
+            ],
+            "replacementText": "A",
+            "value": "objects"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    627,
+                    161
+                ],
+                [
+                    706,
+                    184
+                ]
+            ],
+            "replacementText": "B",
+            "value": "vision"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    296,
+                    332
+                ],
+                [
+                    382,
+                    386
+                ]
+            ],
+            "replacementText": "F",
+            "value": "names places"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    28,
+                    167
+                ],
+                [
+                    140,
+                    221
+                ]
+            ],
+            "replacementText": "E",
+            "value": "planning context"
+        }
+    }
+}

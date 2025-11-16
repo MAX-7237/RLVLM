@@ -1,0 +1,393 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    527,
+                    97
+                ],
+                [
+                    527,
+                    122
+                ],
+                [
+                    610,
+                    122
+                ],
+                [
+                    610,
+                    101
+                ],
+                [
+                    531,
+                    97
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    495,
+                    148
+                ],
+                [
+                    495,
+                    166
+                ],
+                [
+                    610,
+                    169
+                ],
+                [
+                    612,
+                    155
+                ],
+                [
+                    498,
+                    148
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    462,
+                    250
+                ],
+                [
+                    462,
+                    277
+                ],
+                [
+                    610,
+                    277
+                ],
+                [
+                    610,
+                    255
+                ],
+                [
+                    462,
+                    252
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    441,
+                    295
+                ],
+                [
+                    441,
+                    320
+                ],
+                [
+                    610,
+                    322
+                ],
+                [
+                    610,
+                    299
+                ],
+                [
+                    443,
+                    295
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    86,
+                    77
+                ],
+                [
+                    157,
+                    72
+                ],
+                [
+                    202,
+                    88
+                ],
+                [
+                    257,
+                    77
+                ],
+                [
+                    282,
+                    81
+                ],
+                [
+                    304,
+                    90
+                ],
+                [
+                    342,
+                    83
+                ],
+                [
+                    376,
+                    85
+                ],
+                [
+                    399,
+                    90
+                ],
+                [
+                    437,
+                    76
+                ],
+                [
+                    486,
+                    83
+                ],
+                [
+                    498,
+                    86
+                ],
+                [
+                    527,
+                    81
+                ],
+                [
+                    563,
+                    81
+                ],
+                [
+                    563,
+                    139
+                ],
+                [
+                    540,
+                    149
+                ],
+                [
+                    525,
+                    151
+                ],
+                [
+                    527,
+                    180
+                ],
+                [
+                    498,
+                    178
+                ],
+                [
+                    475,
+                    209
+                ],
+                [
+                    475,
+                    232
+                ],
+                [
+                    489,
+                    254
+                ],
+                [
+                    489,
+                    282
+                ],
+                [
+                    479,
+                    302
+                ],
+                [
+                    471,
+                    300
+                ],
+                [
+                    448,
+                    326
+                ],
+                [
+                    443,
+                    333
+                ],
+                [
+                    461,
+                    358
+                ],
+                [
+                    461,
+                    383
+                ],
+                [
+                    394,
+                    390
+                ],
+                [
+                    286,
+                    398
+                ],
+                [
+                    237,
+                    385
+                ],
+                [
+                    182,
+                    363
+                ],
+                [
+                    130,
+                    320
+                ],
+                [
+                    112,
+                    300
+                ],
+                [
+                    101,
+                    254
+                ],
+                [
+                    86,
+                    194
+                ],
+                [
+                    86,
+                    128
+                ],
+                [
+                    83,
+                    77
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A0+B0",
+            "origin": "T1"
+        },
+        "T2+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A1+B0",
+            "origin": "T2"
+        },
+        "T3+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A2+B0",
+            "origin": "T3"
+        },
+        "T4+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A3+B0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    194,
+                    20
+                ],
+                [
+                    703,
+                    47
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Figure 2. Cross-section of the Petal Near the Spot"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    615,
+                    90
+                ],
+                [
+                    763,
+                    140
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Epidermal Cells, Weakly Colored"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    615,
+                    155
+                ],
+                [
+                    795,
+                    210
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Subepidermal Cells, Strongly Colored"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    615,
+                    250
+                ],
+                [
+                    806,
+                    273
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Mesophyll, No Color"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    621,
+                    299
+                ],
+                [
+                    700,
+                    327
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Lacunae"
+        }
+    }
+}

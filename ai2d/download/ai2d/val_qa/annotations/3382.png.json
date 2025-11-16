@@ -1,0 +1,467 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    106,
+                    29
+                ],
+                [
+                    120,
+                    24
+                ],
+                [
+                    135,
+                    60
+                ],
+                [
+                    121,
+                    71
+                ],
+                [
+                    106,
+                    31
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    53,
+                    87
+                ],
+                [
+                    64,
+                    73
+                ],
+                [
+                    88,
+                    101
+                ],
+                [
+                    81,
+                    109
+                ],
+                [
+                    57,
+                    88
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    137,
+                    190
+                ],
+                [
+                    139,
+                    181
+                ],
+                [
+                    198,
+                    213
+                ],
+                [
+                    196,
+                    224
+                ],
+                [
+                    139,
+                    194
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    151,
+                    232
+                ],
+                [
+                    157,
+                    222
+                ],
+                [
+                    179,
+                    249
+                ],
+                [
+                    169,
+                    253
+                ],
+                [
+                    150,
+                    233
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    57,
+                    237
+                ],
+                [
+                    70,
+                    242
+                ],
+                [
+                    112,
+                    183
+                ],
+                [
+                    112,
+                    174
+                ],
+                [
+                    106,
+                    174
+                ],
+                [
+                    57,
+                    239
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    120,
+                    291
+                ],
+                [
+                    105,
+                    279
+                ],
+                [
+                    114,
+                    270
+                ],
+                [
+                    118,
+                    259
+                ],
+                [
+                    109,
+                    241
+                ],
+                [
+                    114,
+                    232
+                ],
+                [
+                    90,
+                    235
+                ],
+                [
+                    99,
+                    219
+                ],
+                [
+                    62,
+                    201
+                ],
+                [
+                    46,
+                    185
+                ],
+                [
+                    38,
+                    165
+                ],
+                [
+                    35,
+                    136
+                ],
+                [
+                    35,
+                    121
+                ],
+                [
+                    35,
+                    108
+                ],
+                [
+                    36,
+                    92
+                ],
+                [
+                    71,
+                    110
+                ],
+                [
+                    75,
+                    102
+                ],
+                [
+                    84,
+                    97
+                ],
+                [
+                    92,
+                    101
+                ],
+                [
+                    100,
+                    86
+                ],
+                [
+                    115,
+                    77
+                ],
+                [
+                    114,
+                    64
+                ],
+                [
+                    124,
+                    58
+                ],
+                [
+                    162,
+                    47
+                ],
+                [
+                    167,
+                    73
+                ],
+                [
+                    184,
+                    61
+                ],
+                [
+                    191,
+                    52
+                ],
+                [
+                    233,
+                    3
+                ],
+                [
+                    249,
+                    0
+                ],
+                [
+                    249,
+                    4
+                ],
+                [
+                    218,
+                    59
+                ],
+                [
+                    200,
+                    76
+                ],
+                [
+                    192,
+                    95
+                ],
+                [
+                    182,
+                    98
+                ],
+                [
+                    192,
+                    102
+                ],
+                [
+                    212,
+                    94
+                ],
+                [
+                    225,
+                    94
+                ],
+                [
+                    226,
+                    110
+                ],
+                [
+                    223,
+                    155
+                ],
+                [
+                    212,
+                    183
+                ],
+                [
+                    193,
+                    203
+                ],
+                [
+                    181,
+                    208
+                ],
+                [
+                    163,
+                    214
+                ],
+                [
+                    168,
+                    222
+                ],
+                [
+                    155,
+                    240
+                ],
+                [
+                    150,
+                    232
+                ],
+                [
+                    140,
+                    251
+                ],
+                [
+                    140,
+                    264
+                ],
+                [
+                    135,
+                    291
+                ],
+                [
+                    122,
+                    291
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A1+B0",
+            "origin": "T0"
+        },
+        "T1+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A0+B0",
+            "origin": "T1"
+        },
+        "T2+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A2+B0",
+            "origin": "T2"
+        },
+        "T3+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A3+B0",
+            "origin": "T3"
+        },
+        "T4+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A4+B0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    0,
+                    36
+                ],
+                [
+                    112,
+                    80
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Anther- creates Pollen, male reproductive cells"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    77,
+                    0
+                ],
+                [
+                    174,
+                    29
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Stigma-receives pollen"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    196,
+                    209
+                ],
+                [
+                    236,
+                    225
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Seeds"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    170,
+                    247
+                ],
+                [
+                    215,
+                    264
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Sepals"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    3,
+                    237
+                ],
+                [
+                    114,
+                    268
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Ovary -female reproductive cells"
+        }
+    }
+}

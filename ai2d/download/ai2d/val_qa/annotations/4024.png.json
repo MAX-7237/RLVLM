@@ -1,0 +1,303 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": -1,
+            "rectangle": [
+                [
+                    115,
+                    482
+                ],
+                [
+                    120,
+                    487
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    115,
+                    479
+                ],
+                [
+                    118,
+                    488
+                ],
+                [
+                    159,
+                    475
+                ],
+                [
+                    157,
+                    468
+                ],
+                [
+                    115,
+                    479
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    60,
+                    136
+                ],
+                [
+                    107,
+                    81
+                ],
+                [
+                    168,
+                    34
+                ],
+                [
+                    251,
+                    10
+                ],
+                [
+                    339,
+                    10
+                ],
+                [
+                    404,
+                    31
+                ],
+                [
+                    462,
+                    68
+                ],
+                [
+                    517,
+                    125
+                ],
+                [
+                    551,
+                    187
+                ],
+                [
+                    566,
+                    269
+                ],
+                [
+                    560,
+                    349
+                ],
+                [
+                    539,
+                    405
+                ],
+                [
+                    501,
+                    460
+                ],
+                [
+                    440,
+                    515
+                ],
+                [
+                    361,
+                    548
+                ],
+                [
+                    295,
+                    556
+                ],
+                [
+                    233,
+                    551
+                ],
+                [
+                    165,
+                    525
+                ],
+                [
+                    106,
+                    482
+                ],
+                [
+                    58,
+                    424
+                ],
+                [
+                    33,
+                    368
+                ],
+                [
+                    20,
+                    306
+                ],
+                [
+                    21,
+                    238
+                ],
+                [
+                    35,
+                    186
+                ],
+                [
+                    61,
+                    135
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A0+B0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    252,
+                    244
+                ],
+                [
+                    322,
+                    305
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Inner Core"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    0,
+                    80
+                ],
+                [
+                    109,
+                    246
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Radius = 6371 km Radius = 6336 km"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    224,
+                    353
+                ],
+                [
+                    359,
+                    376
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Outer Core"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    126,
+                    150
+                ],
+                [
+                    200,
+                    284
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Radius=3486km"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    416,
+                    388
+                ],
+                [
+                    504,
+                    418
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Mantle "
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    151,
+                    449
+                ],
+                [
+                    355,
+                    517
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Crust (thickness exaggerated)"
+        }
+    }
+}

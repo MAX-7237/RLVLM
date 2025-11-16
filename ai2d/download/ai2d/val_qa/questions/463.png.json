@@ -1,0 +1,38 @@
+{
+    "imageName": "463.png",
+    "questions": {
+        "What type of animal is show at label B?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Seahorse",
+                "Dolphin",
+                "Shark",
+                "Fish"
+            ],
+            "correctAnswer": 1,
+            "questionId": "463.png-1"
+        },
+        "What type of animal is shown at label A?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Bird",
+                "Fish",
+                "Mammal",
+                "Crustacean"
+            ],
+            "correctAnswer": 1,
+            "questionId": "463.png-0"
+        },
+        "Which of the above is a mammal?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "Neither",
+                "Both",
+                "Dolphin",
+                "Fish"
+            ],
+            "correctAnswer": 2,
+            "questionId": "463.png-2"
+        }
+    }
+}

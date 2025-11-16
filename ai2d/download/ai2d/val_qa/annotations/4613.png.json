@@ -1,0 +1,180 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    82,
+                    203
+                ],
+                [
+                    81,
+                    433
+                ],
+                [
+                    394,
+                    433
+                ],
+                [
+                    388,
+                    202
+                ],
+                [
+                    83,
+                    201
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    619,
+                    218
+                ],
+                [
+                    855,
+                    215
+                ],
+                [
+                    855,
+                    458
+                ],
+                [
+                    615,
+                    455
+                ],
+                [
+                    617,
+                    217
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    327,
+                    694
+                ],
+                [
+                    332,
+                    531
+                ],
+                [
+                    606,
+                    531
+                ],
+                [
+                    606,
+                    694
+                ],
+                [
+                    327,
+                    693
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+B1",
+            "origin": "T2"
+        },
+        "T3+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T3+B2",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    273,
+                    60
+                ],
+                [
+                    686,
+                    122
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Types of Rocks"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    124,
+                    151
+                ],
+                [
+                    338,
+                    189
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Igneous Rocks"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    571,
+                    150
+                ],
+                [
+                    864,
+                    195
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Metamorphic Rocks"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    303,
+                    471
+                ],
+                [
+                    575,
+                    519
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Sedimentary Rocks"
+        }
+    }
+}

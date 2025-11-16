@@ -1,0 +1,391 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    87,
+                    123
+                ],
+                [
+                    93,
+                    123
+                ],
+                [
+                    103,
+                    138
+                ],
+                [
+                    99,
+                    140
+                ],
+                [
+                    88,
+                    126
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    319,
+                    166
+                ],
+                [
+                    326,
+                    164
+                ],
+                [
+                    336,
+                    183
+                ],
+                [
+                    328,
+                    182
+                ],
+                [
+                    321,
+                    169
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    9,
+                    9
+                ],
+                [
+                    38,
+                    10
+                ],
+                [
+                    90,
+                    13
+                ],
+                [
+                    111,
+                    12
+                ],
+                [
+                    148,
+                    11
+                ],
+                [
+                    186,
+                    13
+                ],
+                [
+                    223,
+                    13
+                ],
+                [
+                    242,
+                    13
+                ],
+                [
+                    252,
+                    11
+                ],
+                [
+                    280,
+                    10
+                ],
+                [
+                    298,
+                    8
+                ],
+                [
+                    321,
+                    8
+                ],
+                [
+                    354,
+                    10
+                ],
+                [
+                    372,
+                    6
+                ],
+                [
+                    398,
+                    6
+                ],
+                [
+                    424,
+                    6
+                ],
+                [
+                    425,
+                    351
+                ],
+                [
+                    425,
+                    355
+                ],
+                [
+                    411,
+                    355
+                ],
+                [
+                    369,
+                    355
+                ],
+                [
+                    319,
+                    355
+                ],
+                [
+                    295,
+                    356
+                ],
+                [
+                    271,
+                    354
+                ],
+                [
+                    254,
+                    353
+                ],
+                [
+                    207,
+                    358
+                ],
+                [
+                    151,
+                    358
+                ],
+                [
+                    103,
+                    357
+                ],
+                [
+                    74,
+                    354
+                ],
+                [
+                    38,
+                    352
+                ],
+                [
+                    12,
+                    351
+                ],
+                [
+                    10,
+                    310
+                ],
+                [
+                    10,
+                    209
+                ],
+                [
+                    9,
+                    109
+                ],
+                [
+                    10,
+                    41
+                ],
+                [
+                    9,
+                    9
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A0+B0",
+            "origin": "T3"
+        },
+        "T4+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A1+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        },
+        "T6+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+B0",
+            "origin": "T6"
+        },
+        "T7+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+B0",
+            "origin": "T7"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    118,
+                    25
+                ],
+                [
+                    320,
+                    52
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Root zone or vadose zone"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    426,
+                    68
+                ],
+                [
+                    448,
+                    210
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Unsaturated zone"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    113,
+                    79
+                ],
+                [
+                    314,
+                    104
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Intermediate vadose zone"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    94,
+                    147
+                ],
+                [
+                    165,
+                    173
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Clay lens"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    328,
+                    184
+                ],
+                [
+                    403,
+                    211
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Clay lens"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    141,
+                    248
+                ],
+                [
+                    263,
+                    277
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Capillary fringe"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    58,
+                    276
+                ],
+                [
+                    143,
+                    291
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Water table"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    178,
+                    315
+                ],
+                [
+                    245,
+                    337
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Aquifer"
+        }
+    }
+}

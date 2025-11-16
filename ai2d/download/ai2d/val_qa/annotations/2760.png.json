@@ -1,0 +1,308 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 337.5,
+            "rectangle": [
+                [
+                    242,
+                    374
+                ],
+                [
+                    272,
+                    404
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 146.25,
+            "rectangle": [
+                [
+                    248,
+                    134
+                ],
+                [
+                    277,
+                    163
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    138,
+                    437
+                ],
+                [
+                    266,
+                    364
+                ],
+                [
+                    278,
+                    378
+                ],
+                [
+                    145,
+                    452
+                ],
+                [
+                    134,
+                    435
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    242,
+                    139
+                ],
+                [
+                    248,
+                    164
+                ],
+                [
+                    354,
+                    108
+                ],
+                [
+                    341,
+                    93
+                ],
+                [
+                    245,
+                    139
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    344,
+                    325
+                ],
+                [
+                    359,
+                    298
+                ],
+                [
+                    367,
+                    261
+                ],
+                [
+                    357,
+                    223
+                ],
+                [
+                    338,
+                    196
+                ],
+                [
+                    319,
+                    173
+                ],
+                [
+                    280,
+                    154
+                ],
+                [
+                    243,
+                    153
+                ],
+                [
+                    203,
+                    161
+                ],
+                [
+                    172,
+                    183
+                ],
+                [
+                    148,
+                    225
+                ],
+                [
+                    144,
+                    285
+                ],
+                [
+                    162,
+                    324
+                ],
+                [
+                    194,
+                    355
+                ],
+                [
+                    232,
+                    371
+                ],
+                [
+                    302,
+                    365
+                ],
+                [
+                    327,
+                    348
+                ],
+                [
+                    347,
+                    328
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A1+H1",
+            "origin": "A1"
+        },
+        "T1+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A0+B0",
+            "origin": "T1"
+        },
+        "T3+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T3+I0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    330,
+                    352
+                ],
+                [
+                    467,
+                    426
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Axis of Rotation"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    14,
+                    452
+                ],
+                [
+                    177,
+                    492
+                ]
+            ],
+            "replacementText": "E",
+            "value": "New current location of the tropic of capricorn"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    46,
+                    313
+                ],
+                [
+                    142,
+                    381
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Plane of the Ecliptic"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    2,
+                    184
+                ],
+                [
+                    119,
+                    245
+                ]
+            ],
+            "replacementText": "B",
+            "value": "26 degree increase"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    123,
+                    114
+                ],
+                [
+                    180,
+                    151
+                ]
+            ],
+            "replacementText": "F",
+            "value": "23.5"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    315,
+                    41
+                ],
+                [
+                    478,
+                    79
+                ]
+            ],
+            "replacementText": "G",
+            "value": "New current location of tropic of cancer"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    416,
+                    232
+                ],
+                [
+                    518,
+                    252
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Current Eliptic"
+        }
+    }
+}

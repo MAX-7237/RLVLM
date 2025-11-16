@@ -1,0 +1,228 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    9,
+                    257
+                ],
+                [
+                    101,
+                    243
+                ],
+                [
+                    188,
+                    230
+                ],
+                [
+                    286,
+                    213
+                ],
+                [
+                    362,
+                    206
+                ],
+                [
+                    443,
+                    209
+                ],
+                [
+                    525,
+                    216
+                ],
+                [
+                    622,
+                    229
+                ],
+                [
+                    733,
+                    249
+                ],
+                [
+                    801,
+                    263
+                ],
+                [
+                    804,
+                    611
+                ],
+                [
+                    9,
+                    615
+                ],
+                [
+                    7,
+                    258
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        },
+        "T6+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+B0",
+            "origin": "T6"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    314,
+                    348
+                ],
+                [
+                    486,
+                    377
+                ]
+            ],
+            "replacementText": "C",
+            "value": "NATURAL GAS"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    374,
+                    381
+                ],
+                [
+                    428,
+                    411
+                ]
+            ],
+            "replacementText": "B",
+            "value": "OIL"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    308,
+                    426
+                ],
+                [
+                    491,
+                    459
+                ]
+            ],
+            "replacementText": "E",
+            "value": "POROUS ROCK"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    277,
+                    499
+                ],
+                [
+                    527,
+                    535
+                ]
+            ],
+            "replacementText": "D",
+            "value": "NONPOROUS ROCK"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    301,
+                    560
+                ],
+                [
+                    494,
+                    598
+                ]
+            ],
+            "replacementText": "F",
+            "value": "POROUS ROCK"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    314,
+                    228
+                ],
+                [
+                    496,
+                    255
+                ]
+            ],
+            "replacementText": "G",
+            "value": "POROUS ROCK"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    279,
+                    297
+                ],
+                [
+                    520,
+                    326
+                ]
+            ],
+            "replacementText": "A",
+            "value": "NONPOROUS ROCK"
+        }
+    }
+}

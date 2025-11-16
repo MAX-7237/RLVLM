@@ -1,0 +1,170 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    484,
+                    6
+                ],
+                [
+                    627,
+                    9
+                ],
+                [
+                    629,
+                    132
+                ],
+                [
+                    443,
+                    129
+                ],
+                [
+                    443,
+                    8
+                ],
+                [
+                    482,
+                    6
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    226,
+                    9
+                ],
+                [
+                    410,
+                    12
+                ],
+                [
+                    411,
+                    134
+                ],
+                [
+                    228,
+                    134
+                ],
+                [
+                    227,
+                    9
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    14,
+                    10
+                ],
+                [
+                    196,
+                    9
+                ],
+                [
+                    196,
+                    129
+                ],
+                [
+                    10,
+                    132
+                ],
+                [
+                    9,
+                    10
+                ],
+                [
+                    9,
+                    10
+                ],
+                [
+                    15,
+                    10
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T0+B2",
+            "origin": "T0"
+        },
+        "T1+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T1+B1",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    78,
+                    141
+                ],
+                [
+                    127,
+                    162
+                ]
+            ],
+            "replacementText": "C",
+            "value": "solid"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    290,
+                    141
+                ],
+                [
+                    349,
+                    163
+                ]
+            ],
+            "replacementText": "B",
+            "value": "liquid"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    515,
+                    135
+                ],
+                [
+                    553,
+                    162
+                ]
+            ],
+            "replacementText": "A",
+            "value": "gas"
+        }
+    }
+}

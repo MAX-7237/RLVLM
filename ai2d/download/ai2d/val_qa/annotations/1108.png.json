@@ -1,0 +1,479 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 180.0,
+            "rectangle": [
+                [
+                    362,
+                    102
+                ],
+                [
+                    387,
+                    119
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 180.0,
+            "rectangle": [
+                [
+                    308,
+                    161
+                ],
+                [
+                    331,
+                    182
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    359,
+                    120
+                ],
+                [
+                    423,
+                    118
+                ],
+                [
+                    422,
+                    100
+                ],
+                [
+                    367,
+                    101
+                ],
+                [
+                    360,
+                    116
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    308,
+                    179
+                ],
+                [
+                    404,
+                    182
+                ],
+                [
+                    405,
+                    163
+                ],
+                [
+                    314,
+                    163
+                ],
+                [
+                    310,
+                    177
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    152,
+                    8
+                ],
+                [
+                    103,
+                    33
+                ],
+                [
+                    101,
+                    34
+                ],
+                [
+                    58,
+                    74
+                ],
+                [
+                    41,
+                    106
+                ],
+                [
+                    41,
+                    106
+                ],
+                [
+                    44,
+                    134
+                ],
+                [
+                    44,
+                    134
+                ],
+                [
+                    71,
+                    149
+                ],
+                [
+                    88,
+                    138
+                ],
+                [
+                    88,
+                    138
+                ],
+                [
+                    72,
+                    188
+                ],
+                [
+                    72,
+                    188
+                ],
+                [
+                    75,
+                    192
+                ],
+                [
+                    79,
+                    190
+                ],
+                [
+                    81,
+                    186
+                ],
+                [
+                    92,
+                    135
+                ],
+                [
+                    92,
+                    135
+                ],
+                [
+                    99,
+                    158
+                ],
+                [
+                    99,
+                    158
+                ],
+                [
+                    125,
+                    164
+                ],
+                [
+                    153,
+                    146
+                ],
+                [
+                    153,
+                    146
+                ],
+                [
+                    172,
+                    108
+                ],
+                [
+                    172,
+                    108
+                ],
+                [
+                    172,
+                    61
+                ],
+                [
+                    167,
+                    44
+                ],
+                [
+                    166,
+                    7
+                ],
+                [
+                    162,
+                    5
+                ],
+                [
+                    153,
+                    5
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    265,
+                    22
+                ],
+                [
+                    249,
+                    66
+                ],
+                [
+                    249,
+                    66
+                ],
+                [
+                    267,
+                    105
+                ],
+                [
+                    267,
+                    105
+                ],
+                [
+                    310,
+                    147
+                ],
+                [
+                    296,
+                    192
+                ],
+                [
+                    301,
+                    191
+                ],
+                [
+                    313,
+                    146
+                ],
+                [
+                    360,
+                    114
+                ],
+                [
+                    359,
+                    114
+                ],
+                [
+                    385,
+                    65
+                ],
+                [
+                    374,
+                    23
+                ],
+                [
+                    343,
+                    14
+                ],
+                [
+                    338,
+                    16
+                ],
+                [
+                    330,
+                    24
+                ],
+                [
+                    317,
+                    11
+                ],
+                [
+                    312,
+                    6
+                ],
+                [
+                    308,
+                    5
+                ],
+                [
+                    299,
+                    5
+                ],
+                [
+                    292,
+                    4
+                ],
+                [
+                    285,
+                    5
+                ],
+                [
+                    284,
+                    6
+                ],
+                [
+                    279,
+                    8
+                ],
+                [
+                    269,
+                    17
+                ],
+                [
+                    267,
+                    19
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A1+H1",
+            "origin": "A1"
+        },
+        "T0+A0+B1": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T0+A0+B1",
+            "origin": "T0"
+        },
+        "T1+A1+B1": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T1+A1+B1",
+            "origin": "T1"
+        },
+        "T2+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T2+I0",
+            "origin": "T2"
+        },
+        "T3+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T3+B1",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T5+I0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    422,
+                    100
+                ],
+                [
+                    475,
+                    121
+                ]
+            ],
+            "replacementText": "F",
+            "value": "blade"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    406,
+                    162
+                ],
+                [
+                    469,
+                    187
+                ]
+            ],
+            "replacementText": "D",
+            "value": "petiole"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    158,
+                    156
+                ],
+                [
+                    284,
+                    177
+                ]
+            ],
+            "replacementText": "E",
+            "value": "E.M. Armstrong 2002"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    264,
+                    202
+                ],
+                [
+                    371,
+                    226
+                ]
+            ],
+            "replacementText": "B",
+            "value": "obcordate"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    62,
+                    203
+                ],
+                [
+                    148,
+                    225
+                ]
+            ],
+            "replacementText": "C",
+            "value": "cordate"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    0,
+                    246
+                ],
+                [
+                    523,
+                    292
+                ]
+            ],
+            "replacementText": "A",
+            "value": "The descriptive term \"cordate\" refers to a heart-shaped leaf. The prefix \"ob\" refers to a blade that is widest near the apex"
+        }
+    }
+}

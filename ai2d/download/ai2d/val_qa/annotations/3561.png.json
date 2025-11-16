@@ -1,0 +1,533 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    176,
+                    222
+                ],
+                [
+                    233,
+                    223
+                ],
+                [
+                    277,
+                    203
+                ],
+                [
+                    267,
+                    193
+                ],
+                [
+                    229,
+                    211
+                ],
+                [
+                    173,
+                    213
+                ],
+                [
+                    173,
+                    221
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    78,
+                    216
+                ],
+                [
+                    166,
+                    199
+                ],
+                [
+                    166,
+                    211
+                ],
+                [
+                    75,
+                    231
+                ],
+                [
+                    80,
+                    217
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    103,
+                    174
+                ],
+                [
+                    158,
+                    171
+                ],
+                [
+                    154,
+                    183
+                ],
+                [
+                    105,
+                    183
+                ],
+                [
+                    104,
+                    176
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    85,
+                    154
+                ],
+                [
+                    164,
+                    153
+                ],
+                [
+                    162,
+                    143
+                ],
+                [
+                    86,
+                    141
+                ],
+                [
+                    85,
+                    155
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    52,
+                    103
+                ],
+                [
+                    159,
+                    128
+                ],
+                [
+                    160,
+                    136
+                ],
+                [
+                    52,
+                    116
+                ],
+                [
+                    51,
+                    103
+                ]
+            ]
+        },
+        "A5": {
+            "id": "A5",
+            "polygon": [
+                [
+                    188,
+                    137
+                ],
+                [
+                    188,
+                    148
+                ],
+                [
+                    279,
+                    147
+                ],
+                [
+                    276,
+                    135
+                ],
+                [
+                    190,
+                    139
+                ]
+            ]
+        },
+        "A6": {
+            "id": "A6",
+            "polygon": [
+                [
+                    185,
+                    173
+                ],
+                [
+                    280,
+                    176
+                ],
+                [
+                    275,
+                    165
+                ],
+                [
+                    181,
+                    164
+                ],
+                [
+                    182,
+                    173
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    161,
+                    1
+                ],
+                [
+                    189,
+                    0
+                ],
+                [
+                    204,
+                    9
+                ],
+                [
+                    210,
+                    19
+                ],
+                [
+                    210,
+                    32
+                ],
+                [
+                    206,
+                    45
+                ],
+                [
+                    200,
+                    55
+                ],
+                [
+                    202,
+                    65
+                ],
+                [
+                    213,
+                    73
+                ],
+                [
+                    229,
+                    79
+                ],
+                [
+                    240,
+                    89
+                ],
+                [
+                    244,
+                    112
+                ],
+                [
+                    243,
+                    127
+                ],
+                [
+                    245,
+                    155
+                ],
+                [
+                    245,
+                    169
+                ],
+                [
+                    248,
+                    193
+                ],
+                [
+                    244,
+                    205
+                ],
+                [
+                    222,
+                    206
+                ],
+                [
+                    226,
+                    238
+                ],
+                [
+                    183,
+                    239
+                ],
+                [
+                    132,
+                    239
+                ],
+                [
+                    130,
+                    239
+                ],
+                [
+                    134,
+                    211
+                ],
+                [
+                    114,
+                    209
+                ],
+                [
+                    113,
+                    200
+                ],
+                [
+                    116,
+                    165
+                ],
+                [
+                    118,
+                    126
+                ],
+                [
+                    118,
+                    100
+                ],
+                [
+                    124,
+                    86
+                ],
+                [
+                    138,
+                    75
+                ],
+                [
+                    160,
+                    70
+                ],
+                [
+                    150,
+                    67
+                ],
+                [
+                    142,
+                    57
+                ],
+                [
+                    142,
+                    48
+                ],
+                [
+                    139,
+                    39
+                ],
+                [
+                    160,
+                    3
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A4+B0",
+            "origin": "T0"
+        },
+        "T1+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A3+B0",
+            "origin": "T1"
+        },
+        "T2+A5+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A5",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A5+B0",
+            "origin": "T2"
+        },
+        "T3+A6+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A6",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A6+B0",
+            "origin": "T3"
+        },
+        "T4+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A0+B0",
+            "origin": "T4"
+        },
+        "T5+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A1+B0",
+            "origin": "T5"
+        },
+        "T6+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+A2+B0",
+            "origin": "T6"
+        },
+        "T7+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T7+I0",
+            "origin": "T7"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    11,
+                    101
+                ],
+                [
+                    53,
+                    117
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Liver"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    14,
+                    137
+                ],
+                [
+                    85,
+                    157
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Gallbladder"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    272,
+                    136
+                ],
+                [
+                    329,
+                    152
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Stomach"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    271,
+                    160
+                ],
+                [
+                    361,
+                    178
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Small intestine"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    273,
+                    192
+                ],
+                [
+                    323,
+                    206
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Rectum"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    6,
+                    215
+                ],
+                [
+                    79,
+                    238
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Appendix"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    7,
+                    168
+                ],
+                [
+                    110,
+                    201
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Large intestine (colon)"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    256,
+                    227
+                ],
+                [
+                    367,
+                    239
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Healthwise, incorporated"
+        }
+    }
+}

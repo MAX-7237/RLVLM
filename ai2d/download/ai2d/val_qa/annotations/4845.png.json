@@ -1,0 +1,344 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    8,
+                    96
+                ],
+                [
+                    76,
+                    45
+                ],
+                [
+                    261,
+                    49
+                ],
+                [
+                    241,
+                    101
+                ],
+                [
+                    239,
+                    110
+                ],
+                [
+                    227,
+                    109
+                ],
+                [
+                    3,
+                    112
+                ],
+                [
+                    7,
+                    101
+                ],
+                [
+                    11,
+                    96
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    281,
+                    51
+                ],
+                [
+                    281,
+                    67
+                ],
+                [
+                    506,
+                    67
+                ],
+                [
+                    538,
+                    15
+                ],
+                [
+                    534,
+                    7
+                ],
+                [
+                    338,
+                    6
+                ],
+                [
+                    282,
+                    51
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    282,
+                    173
+                ],
+                [
+                    283,
+                    157
+                ],
+                [
+                    350,
+                    101
+                ],
+                [
+                    532,
+                    100
+                ],
+                [
+                    536,
+                    112
+                ],
+                [
+                    484,
+                    175
+                ],
+                [
+                    282,
+                    175
+                ]
+            ]
+        },
+        "B3": {
+            "id": "B3",
+            "polygon": [
+                [
+                    281,
+                    254
+                ],
+                [
+                    280,
+                    274
+                ],
+                [
+                    485,
+                    273
+                ],
+                [
+                    535,
+                    215
+                ],
+                [
+                    535,
+                    202
+                ],
+                [
+                    353,
+                    199
+                ],
+                [
+                    282,
+                    252
+                ]
+            ]
+        },
+        "B4": {
+            "id": "B4",
+            "polygon": [
+                [
+                    78,
+                    154
+                ],
+                [
+                    4,
+                    211
+                ],
+                [
+                    5,
+                    227
+                ],
+                [
+                    212,
+                    230
+                ],
+                [
+                    263,
+                    168
+                ],
+                [
+                    262,
+                    156
+                ],
+                [
+                    80,
+                    154
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T1+I0",
+            "origin": "T1"
+        },
+        "T2+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+B1",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T4+B2",
+            "origin": "T4"
+        },
+        "T5+B3": {
+            "category": "intraObjectLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T5+B3",
+            "origin": "T5"
+        },
+        "T6+B4": {
+            "category": "intraObjectLabel",
+            "destination": "B4",
+            "hasDirectionality": false,
+            "id": "T6+B4",
+            "origin": "T6"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    3,
+                    284
+                ],
+                [
+                    183,
+                    297
+                ]
+            ],
+            "replacementText": "G",
+            "value": "\u00a9 2006 Encyclopaedia Britannica, Inc."
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    3,
+                    3
+                ],
+                [
+                    139,
+                    17
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Volcanic Landforms"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    281,
+                    72
+                ],
+                [
+                    372,
+                    82
+                ]
+            ],
+            "replacementText": "A",
+            "value": "complex volcano"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    3,
+                    118
+                ],
+                [
+                    82,
+                    130
+                ]
+            ],
+            "replacementText": "E",
+            "value": "shield volcano"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    272,
+                    177
+                ],
+                [
+                    327,
+                    193
+                ]
+            ],
+            "replacementText": "C",
+            "value": "caldera"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    281,
+                    279
+                ],
+                [
+                    366,
+                    291
+                ]
+            ],
+            "replacementText": "D",
+            "value": "somma volcano"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    0,
+                    231
+                ],
+                [
+                    91,
+                    255
+                ]
+            ],
+            "replacementText": "F",
+            "value": "stratovolcano"
+        }
+    }
+}

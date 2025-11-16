@@ -1,0 +1,553 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    229,
+                    403
+                ],
+                [
+                    419,
+                    420
+                ],
+                [
+                    416,
+                    431
+                ],
+                [
+                    226,
+                    414
+                ],
+                [
+                    228,
+                    406
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    269,
+                    312
+                ],
+                [
+                    418,
+                    344
+                ],
+                [
+                    418,
+                    351
+                ],
+                [
+                    186,
+                    356
+                ],
+                [
+                    177,
+                    338
+                ],
+                [
+                    359,
+                    342
+                ],
+                [
+                    267,
+                    323
+                ],
+                [
+                    269,
+                    315
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    206,
+                    280
+                ],
+                [
+                    410,
+                    287
+                ],
+                [
+                    406,
+                    272
+                ],
+                [
+                    201,
+                    267
+                ],
+                [
+                    204,
+                    279
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    207,
+                    243
+                ],
+                [
+                    409,
+                    236
+                ],
+                [
+                    411,
+                    247
+                ],
+                [
+                    206,
+                    256
+                ],
+                [
+                    204,
+                    245
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    203,
+                    216
+                ],
+                [
+                    405,
+                    206
+                ],
+                [
+                    401,
+                    194
+                ],
+                [
+                    202,
+                    205
+                ],
+                [
+                    202,
+                    215
+                ]
+            ]
+        },
+        "A5": {
+            "id": "A5",
+            "polygon": [
+                [
+                    255,
+                    176
+                ],
+                [
+                    408,
+                    157
+                ],
+                [
+                    411,
+                    166
+                ],
+                [
+                    253,
+                    192
+                ],
+                [
+                    252,
+                    177
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    67,
+                    403
+                ],
+                [
+                    73,
+                    381
+                ],
+                [
+                    70,
+                    317
+                ],
+                [
+                    83,
+                    289
+                ],
+                [
+                    107,
+                    268
+                ],
+                [
+                    154,
+                    254
+                ],
+                [
+                    174,
+                    239
+                ],
+                [
+                    172,
+                    217
+                ],
+                [
+                    166,
+                    199
+                ],
+                [
+                    156,
+                    186
+                ],
+                [
+                    147,
+                    172
+                ],
+                [
+                    145,
+                    149
+                ],
+                [
+                    154,
+                    128
+                ],
+                [
+                    167,
+                    117
+                ],
+                [
+                    199,
+                    108
+                ],
+                [
+                    222,
+                    104
+                ],
+                [
+                    241,
+                    110
+                ],
+                [
+                    254,
+                    119
+                ],
+                [
+                    262,
+                    137
+                ],
+                [
+                    271,
+                    153
+                ],
+                [
+                    272,
+                    168
+                ],
+                [
+                    277,
+                    178
+                ],
+                [
+                    284,
+                    187
+                ],
+                [
+                    279,
+                    195
+                ],
+                [
+                    277,
+                    203
+                ],
+                [
+                    275,
+                    212
+                ],
+                [
+                    269,
+                    226
+                ],
+                [
+                    266,
+                    231
+                ],
+                [
+                    253,
+                    234
+                ],
+                [
+                    239,
+                    237
+                ],
+                [
+                    236,
+                    240
+                ],
+                [
+                    236,
+                    242
+                ],
+                [
+                    237,
+                    247
+                ],
+                [
+                    244,
+                    249
+                ],
+                [
+                    266,
+                    256
+                ],
+                [
+                    312,
+                    269
+                ],
+                [
+                    329,
+                    282
+                ],
+                [
+                    348,
+                    338
+                ],
+                [
+                    358,
+                    417
+                ],
+                [
+                    327,
+                    422
+                ],
+                [
+                    310,
+                    420
+                ],
+                [
+                    300,
+                    419
+                ],
+                [
+                    302,
+                    442
+                ],
+                [
+                    286,
+                    448
+                ],
+                [
+                    125,
+                    445
+                ],
+                [
+                    118,
+                    434
+                ],
+                [
+                    115,
+                    423
+                ],
+                [
+                    107,
+                    424
+                ],
+                [
+                    87,
+                    420
+                ],
+                [
+                    75,
+                    416
+                ],
+                [
+                    67,
+                    408
+                ],
+                [
+                    67,
+                    404
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A3+B0",
+            "origin": "T0"
+        },
+        "T1+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A2+B0",
+            "origin": "T1"
+        },
+        "T2+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A1+B0",
+            "origin": "T2"
+        },
+        "T3+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A0+B0",
+            "origin": "T3"
+        },
+        "T4+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T4+I0",
+            "origin": "T4"
+        },
+        "T5+A5+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A5",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A5+B0",
+            "origin": "T5"
+        },
+        "T6+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+A4+B0",
+            "origin": "T6"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    409,
+                    226
+                ],
+                [
+                    598,
+                    256
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Larynx ('voice box')"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    409,
+                    266
+                ],
+                [
+                    607,
+                    296
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Trachea (' windpipe')"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    416,
+                    338
+                ],
+                [
+                    477,
+                    365
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Lungs"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    416,
+                    391
+                ],
+                [
+                    588,
+                    467
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Diaphragm - separates chest from abdomen"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    25,
+                    42
+                ],
+                [
+                    526,
+                    83
+                ]
+            ],
+            "replacementText": "C",
+            "value": "The Human Respiratory System"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    408,
+                    149
+                ],
+                [
+                    531,
+                    174
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Nasal cavity"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    409,
+                    183
+                ],
+                [
+                    494,
+                    207
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Pharynx"
+        }
+    }
+}

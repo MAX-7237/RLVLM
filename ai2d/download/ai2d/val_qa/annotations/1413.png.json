@@ -1,0 +1,228 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    448,
+                    163
+                ],
+                [
+                    450,
+                    582
+                ],
+                [
+                    272,
+                    584
+                ],
+                [
+                    178,
+                    530
+                ],
+                [
+                    176,
+                    106
+                ],
+                [
+                    280,
+                    102
+                ],
+                [
+                    238,
+                    62
+                ],
+                [
+                    229,
+                    45
+                ],
+                [
+                    237,
+                    43
+                ],
+                [
+                    275,
+                    66
+                ],
+                [
+                    290,
+                    83
+                ],
+                [
+                    298,
+                    98
+                ],
+                [
+                    306,
+                    61
+                ],
+                [
+                    322,
+                    35
+                ],
+                [
+                    346,
+                    11
+                ],
+                [
+                    347,
+                    27
+                ],
+                [
+                    331,
+                    64
+                ],
+                [
+                    371,
+                    22
+                ],
+                [
+                    394,
+                    19
+                ],
+                [
+                    389,
+                    37
+                ],
+                [
+                    352,
+                    74
+                ],
+                [
+                    333,
+                    102
+                ],
+                [
+                    357,
+                    104
+                ],
+                [
+                    445,
+                    157
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    477,
+                    154
+                ],
+                [
+                    637,
+                    203
+                ]
+            ],
+            "replacementText": "E",
+            "value": "O HORIZON : HUMUS. (SURFACE LITTER, DECOMPOSING PLANT MATTER)"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    483,
+                    227
+                ],
+                [
+                    637,
+                    278
+                ]
+            ],
+            "replacementText": "D",
+            "value": "A Horizon: Topsoil. (mixed humus and leached mineral soil)"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    480,
+                    318
+                ],
+                [
+                    659,
+                    374
+                ]
+            ],
+            "replacementText": "A",
+            "value": "E Horizon:Zone of leaching. (less humus, minerals resistant to leaching)"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    478,
+                    410
+                ],
+                [
+                    622,
+                    477
+                ]
+            ],
+            "replacementText": "C",
+            "value": "B Horizon: Subsoil. (accumulation of leached minerals like iron and aluminum oxides)"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    478,
+                    512
+                ],
+                [
+                    635,
+                    566
+                ]
+            ],
+            "replacementText": "B",
+            "value": "C Horizon: Weathered parent material. (partly broken-down minerals)"
+        }
+    }
+}

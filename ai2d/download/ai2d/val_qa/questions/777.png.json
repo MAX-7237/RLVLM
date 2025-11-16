@@ -1,0 +1,38 @@
+{
+    "imageName": "777.png",
+    "questions": {
+        "In the illustration, which moon phase is closest to the light from the sun?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "waxing gibbous",
+                "full",
+                "first quarter",
+                "new"
+            ],
+            "correctAnswer": 3,
+            "questionId": "777.png-1"
+        },
+        "In which moon phase is the moon between the earth and the sun?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "New",
+                "First Quarter",
+                "Full",
+                "Last Quarter"
+            ],
+            "correctAnswer": 0,
+            "questionId": "777.png-2"
+        },
+        "Which moon phase is depicted by the letter A?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "full moon",
+                "last quarter",
+                "waning crescent",
+                "waning gibbons"
+            ],
+            "correctAnswer": 1,
+            "questionId": "777.png-0"
+        }
+    }
+}

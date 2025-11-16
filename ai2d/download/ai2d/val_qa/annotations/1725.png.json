@@ -1,0 +1,277 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 112.5,
+            "rectangle": [
+                [
+                    195,
+                    234
+                ],
+                [
+                    209,
+                    248
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 270.0,
+            "rectangle": [
+                [
+                    141,
+                    8
+                ],
+                [
+                    164,
+                    31
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": -1,
+            "rectangle": [
+                [
+                    195,
+                    194
+                ],
+                [
+                    208,
+                    207
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    139,
+                    28
+                ],
+                [
+                    153,
+                    4
+                ],
+                [
+                    165,
+                    26
+                ],
+                [
+                    157,
+                    26
+                ],
+                [
+                    159,
+                    82
+                ],
+                [
+                    158,
+                    87
+                ],
+                [
+                    147,
+                    87
+                ],
+                [
+                    146,
+                    27
+                ],
+                [
+                    138,
+                    27
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    302,
+                    56
+                ],
+                [
+                    323,
+                    45
+                ],
+                [
+                    326,
+                    56
+                ],
+                [
+                    306,
+                    64
+                ],
+                [
+                    302,
+                    55
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    178,
+                    235
+                ],
+                [
+                    188,
+                    238
+                ],
+                [
+                    207,
+                    197
+                ],
+                [
+                    200,
+                    191
+                ],
+                [
+                    178,
+                    228
+                ],
+                [
+                    179,
+                    232
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    190,
+                    248
+                ],
+                [
+                    200,
+                    255
+                ],
+                [
+                    219,
+                    212
+                ],
+                [
+                    209,
+                    204
+                ],
+                [
+                    190,
+                    243
+                ],
+                [
+                    189,
+                    247
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    344,
+                    352
+                ],
+                [
+                    417,
+                    271
+                ],
+                [
+                    416,
+                    84
+                ],
+                [
+                    297,
+                    85
+                ],
+                [
+                    317,
+                    39
+                ],
+                [
+                    76,
+                    37
+                ],
+                [
+                    7,
+                    117
+                ],
+                [
+                    5,
+                    298
+                ],
+                [
+                    161,
+                    301
+                ],
+                [
+                    141,
+                    349
+                ],
+                [
+                    343,
+                    352
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A0+H1",
+            "origin": "A0"
+        },
+        "A2+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A2+H2",
+            "origin": "A2"
+        },
+        "A3+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A3+H0",
+            "origin": "A3"
+        },
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    323,
+                    35
+                ],
+                [
+                    417,
+                    67
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Fault Plane"
+        }
+    }
+}

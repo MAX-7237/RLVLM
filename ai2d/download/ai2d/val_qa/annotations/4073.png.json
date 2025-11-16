@@ -1,0 +1,395 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    105,
+                    9
+                ],
+                [
+                    104,
+                    15
+                ],
+                [
+                    188,
+                    15
+                ],
+                [
+                    188,
+                    8
+                ],
+                [
+                    106,
+                    7
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    152,
+                    29
+                ],
+                [
+                    153,
+                    36
+                ],
+                [
+                    188,
+                    36
+                ],
+                [
+                    188,
+                    28
+                ],
+                [
+                    152,
+                    29
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    189,
+                    85
+                ],
+                [
+                    189,
+                    92
+                ],
+                [
+                    97,
+                    92
+                ],
+                [
+                    97,
+                    86
+                ],
+                [
+                    188,
+                    85
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    188,
+                    98
+                ],
+                [
+                    188,
+                    105
+                ],
+                [
+                    124,
+                    105
+                ],
+                [
+                    123,
+                    99
+                ],
+                [
+                    187,
+                    99
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    141,
+                    112
+                ],
+                [
+                    142,
+                    119
+                ],
+                [
+                    189,
+                    120
+                ],
+                [
+                    189,
+                    111
+                ],
+                [
+                    142,
+                    111
+                ]
+            ]
+        },
+        "A5": {
+            "id": "A5",
+            "polygon": [
+                [
+                    154,
+                    143
+                ],
+                [
+                    154,
+                    149
+                ],
+                [
+                    189,
+                    149
+                ],
+                [
+                    187,
+                    142
+                ],
+                [
+                    154,
+                    142
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    0,
+                    81
+                ],
+                [
+                    10,
+                    51
+                ],
+                [
+                    35,
+                    22
+                ],
+                [
+                    60,
+                    7
+                ],
+                [
+                    95,
+                    3
+                ],
+                [
+                    115,
+                    5
+                ],
+                [
+                    143,
+                    18
+                ],
+                [
+                    164,
+                    39
+                ],
+                [
+                    180,
+                    69
+                ],
+                [
+                    182,
+                    93
+                ],
+                [
+                    172,
+                    128
+                ],
+                [
+                    149,
+                    155
+                ],
+                [
+                    105,
+                    173
+                ],
+                [
+                    90,
+                    171
+                ],
+                [
+                    87,
+                    180
+                ],
+                [
+                    77,
+                    183
+                ],
+                [
+                    55,
+                    177
+                ],
+                [
+                    29,
+                    159
+                ],
+                [
+                    11,
+                    137
+                ],
+                [
+                    0,
+                    101
+                ],
+                [
+                    0,
+                    81
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        },
+        "T2+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A2+B0",
+            "origin": "T2"
+        },
+        "T3+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A3+B0",
+            "origin": "T3"
+        },
+        "T4+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A4+B0",
+            "origin": "T4"
+        },
+        "T5+A5+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A5",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A5+B0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    190,
+                    6
+                ],
+                [
+                    267,
+                    20
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Oceanic crust"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    187,
+                    25
+                ],
+                [
+                    285,
+                    44
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Continental crust"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    189,
+                    81
+                ],
+                [
+                    245,
+                    95
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Solid core"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    189,
+                    97
+                ],
+                [
+                    250,
+                    109
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Liquid core"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    189,
+                    112
+                ],
+                [
+                    228,
+                    125
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Mantle"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    189,
+                    140
+                ],
+                [
+                    331,
+                    184
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Lithosphere (crust and upper mantle) broken into tectonic plates"
+        }
+    }
+}

@@ -1,0 +1,464 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 56.25,
+            "rectangle": [
+                [
+                    95,
+                    51
+                ],
+                [
+                    102,
+                    60
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 135.0,
+            "rectangle": [
+                [
+                    188,
+                    42
+                ],
+                [
+                    197,
+                    51
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    86,
+                    40
+                ],
+                [
+                    98,
+                    58
+                ],
+                [
+                    106,
+                    55
+                ],
+                [
+                    92,
+                    37
+                ],
+                [
+                    84,
+                    38
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    206,
+                    31
+                ],
+                [
+                    184,
+                    48
+                ],
+                [
+                    191,
+                    58
+                ],
+                [
+                    222,
+                    34
+                ],
+                [
+                    207,
+                    33
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    53,
+                    53
+                ],
+                [
+                    96,
+                    55
+                ],
+                [
+                    89,
+                    41
+                ],
+                [
+                    93,
+                    39
+                ],
+                [
+                    102,
+                    53
+                ],
+                [
+                    129,
+                    55
+                ],
+                [
+                    138,
+                    48
+                ],
+                [
+                    151,
+                    47
+                ],
+                [
+                    163,
+                    45
+                ],
+                [
+                    170,
+                    45
+                ],
+                [
+                    176,
+                    42
+                ],
+                [
+                    182,
+                    28
+                ],
+                [
+                    189,
+                    23
+                ],
+                [
+                    192,
+                    27
+                ],
+                [
+                    195,
+                    25
+                ],
+                [
+                    201,
+                    25
+                ],
+                [
+                    203,
+                    36
+                ],
+                [
+                    209,
+                    41
+                ],
+                [
+                    215,
+                    32
+                ],
+                [
+                    222,
+                    37
+                ],
+                [
+                    226,
+                    45
+                ],
+                [
+                    243,
+                    54
+                ],
+                [
+                    240,
+                    69
+                ],
+                [
+                    160,
+                    316
+                ],
+                [
+                    138,
+                    316
+                ],
+                [
+                    53,
+                    57
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A1+H1",
+            "origin": "A1"
+        },
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A0+B0",
+            "origin": "T1"
+        },
+        "T10+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T10+I0",
+            "origin": "T10"
+        },
+        "T2+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A1+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        },
+        "T6+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+B0",
+            "origin": "T6"
+        },
+        "T7+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+B0",
+            "origin": "T7"
+        },
+        "T8+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T8+B0",
+            "origin": "T8"
+        },
+        "T9+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T9+B0",
+            "origin": "T9"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    0,
+                    6
+                ],
+                [
+                    54,
+                    41
+                ]
+            ],
+            "replacementText": "I",
+            "value": "Oceanic Plate"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    59,
+                    21
+                ],
+                [
+                    147,
+                    39
+                ]
+            ],
+            "replacementText": "H",
+            "value": "3-5 miles thick"
+        },
+        "T10": {
+            "id": "T10",
+            "rectangle": [
+                [
+                    5,
+                    301
+                ],
+                [
+                    113,
+                    313
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Diagram not drawn to scale"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    200,
+                    8
+                ],
+                [
+                    298,
+                    26
+                ]
+            ],
+            "replacementText": "E",
+            "value": "5-25 miles thick"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    244,
+                    36
+                ],
+                [
+                    318,
+                    67
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Continental Plate"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    112,
+                    94
+                ],
+                [
+                    209,
+                    114
+                ]
+            ],
+            "replacementText": "C",
+            "value": "1800 miles thick"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    234,
+                    108
+                ],
+                [
+                    366,
+                    150
+                ]
+            ],
+            "replacementText": "J",
+            "value": "Mantle (Flows with the consistancy of asphalt)"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    106,
+                    191
+                ],
+                [
+                    174,
+                    225
+                ]
+            ],
+            "replacementText": "G",
+            "value": "1400 MILES THICK"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    204,
+                    198
+                ],
+                [
+                    391,
+                    231
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Outer Core(Iron and nickel in the liquid state)"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    123,
+                    264
+                ],
+                [
+                    171,
+                    294
+                ]
+            ],
+            "replacementText": "A",
+            "value": "800 miles thick"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    179,
+                    273
+                ],
+                [
+                    362,
+                    306
+                ]
+            ],
+            "replacementText": "K",
+            "value": "INNER CORE (IRON AND NICKEL IN THE SOLID STATE)"
+        }
+    }
+}

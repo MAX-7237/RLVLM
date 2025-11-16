@@ -1,0 +1,384 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": -1,
+            "rectangle": [
+                [
+                    195,
+                    116
+                ],
+                [
+                    209,
+                    130
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    209,
+                    127
+                ],
+                [
+                    227,
+                    65
+                ],
+                [
+                    217,
+                    63
+                ],
+                [
+                    202,
+                    127
+                ],
+                [
+                    209,
+                    127
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    213,
+                    127
+                ],
+                [
+                    170,
+                    77
+                ],
+                [
+                    159,
+                    79
+                ],
+                [
+                    209,
+                    130
+                ],
+                [
+                    210,
+                    128
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    198,
+                    127
+                ],
+                [
+                    117,
+                    90
+                ],
+                [
+                    118,
+                    78
+                ],
+                [
+                    206,
+                    122
+                ],
+                [
+                    198,
+                    125
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    327,
+                    160
+                ],
+                [
+                    337,
+                    148
+                ],
+                [
+                    302,
+                    115
+                ],
+                [
+                    297,
+                    129
+                ],
+                [
+                    326,
+                    161
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    292,
+                    190
+                ],
+                [
+                    319,
+                    188
+                ],
+                [
+                    317,
+                    209
+                ],
+                [
+                    291,
+                    210
+                ],
+                [
+                    291,
+                    191
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    199,
+                    18
+                ],
+                [
+                    210,
+                    62
+                ],
+                [
+                    252,
+                    129
+                ],
+                [
+                    255,
+                    152
+                ],
+                [
+                    272,
+                    162
+                ],
+                [
+                    273,
+                    219
+                ],
+                [
+                    302,
+                    220
+                ],
+                [
+                    309,
+                    174
+                ],
+                [
+                    308,
+                    155
+                ],
+                [
+                    402,
+                    87
+                ],
+                [
+                    393,
+                    16
+                ],
+                [
+                    347,
+                    9
+                ],
+                [
+                    197,
+                    12
+                ],
+                [
+                    197,
+                    17
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    173,
+                    14
+                ],
+                [
+                    115,
+                    15
+                ],
+                [
+                    118,
+                    165
+                ],
+                [
+                    152,
+                    278
+                ],
+                [
+                    234,
+                    424
+                ],
+                [
+                    254,
+                    421
+                ],
+                [
+                    254,
+                    407
+                ],
+                [
+                    217,
+                    343
+                ],
+                [
+                    188,
+                    235
+                ],
+                [
+                    173,
+                    16
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A1+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A1+H0",
+            "origin": "A1"
+        },
+        "T0+A2+B1": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T0+A2+B1",
+            "origin": "T0"
+        },
+        "T1+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A3+B0",
+            "origin": "T1"
+        },
+        "T2+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A4+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T4+I0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    189,
+                    129
+                ],
+                [
+                    233,
+                    141
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Needles"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    331,
+                    149
+                ],
+                [
+                    385,
+                    160
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Scale leaf"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    317,
+                    193
+                ],
+                [
+                    372,
+                    208
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Long shoot"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    281,
+                    218
+                ],
+                [
+                    291,
+                    234
+                ]
+            ],
+            "replacementText": "C",
+            "value": "A"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    12,
+                    439
+                ],
+                [
+                    520,
+                    456
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Fig. B.22. A, B-Long and dwarf shoots of Pinus roxburghi showing needle-like leaves and scales."
+        }
+    }
+}

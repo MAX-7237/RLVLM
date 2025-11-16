@@ -1,0 +1,262 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    76,
+                    136
+                ],
+                [
+                    87,
+                    138
+                ],
+                [
+                    116,
+                    45
+                ],
+                [
+                    105,
+                    42
+                ],
+                [
+                    72,
+                    135
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    410,
+                    66
+                ],
+                [
+                    426,
+                    60
+                ],
+                [
+                    464,
+                    218
+                ],
+                [
+                    454,
+                    222
+                ],
+                [
+                    409,
+                    64
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    13,
+                    81
+                ],
+                [
+                    25,
+                    78
+                ],
+                [
+                    31,
+                    72
+                ],
+                [
+                    37,
+                    66
+                ],
+                [
+                    51,
+                    66
+                ],
+                [
+                    55,
+                    76
+                ],
+                [
+                    65,
+                    89
+                ],
+                [
+                    81,
+                    121
+                ],
+                [
+                    96,
+                    154
+                ],
+                [
+                    123,
+                    182
+                ],
+                [
+                    214,
+                    183
+                ],
+                [
+                    214,
+                    242
+                ],
+                [
+                    15,
+                    243
+                ],
+                [
+                    14,
+                    83
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    293,
+                    80
+                ],
+                [
+                    302,
+                    80
+                ],
+                [
+                    311,
+                    66
+                ],
+                [
+                    324,
+                    66
+                ],
+                [
+                    342,
+                    82
+                ],
+                [
+                    342,
+                    82
+                ],
+                [
+                    368,
+                    131
+                ],
+                [
+                    389,
+                    171
+                ],
+                [
+                    401,
+                    182
+                ],
+                [
+                    489,
+                    184
+                ],
+                [
+                    492,
+                    241
+                ],
+                [
+                    295,
+                    243
+                ],
+                [
+                    294,
+                    243
+                ],
+                [
+                    294,
+                    243
+                ],
+                [
+                    292,
+                    78
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "B1+A1+T1": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "T1",
+            "hasDirectionality": false,
+            "id": "B1+A1+T1",
+            "origin": "B1"
+        },
+        "T0+A0+B0": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T2+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T2+I0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    16,
+                    16
+                ],
+                [
+                    171,
+                    48
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Weathering causes the rocks to break down"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    301,
+                    6
+                ],
+                [
+                    494,
+                    56
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Erosion (water) and transport moves the sediments downhill to another place"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    268,
+                    100
+                ],
+                [
+                    289,
+                    221
+                ]
+            ],
+            "replacementText": "B",
+            "value": "eschooltoday.com"
+        }
+    }
+}

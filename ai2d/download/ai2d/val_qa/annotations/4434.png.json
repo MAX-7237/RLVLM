@@ -1,0 +1,368 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    52,
+                    180
+                ],
+                [
+                    46,
+                    173
+                ],
+                [
+                    47,
+                    152
+                ],
+                [
+                    57,
+                    139
+                ],
+                [
+                    84,
+                    138
+                ],
+                [
+                    99,
+                    162
+                ],
+                [
+                    92,
+                    177
+                ],
+                [
+                    89,
+                    186
+                ],
+                [
+                    85,
+                    188
+                ],
+                [
+                    72,
+                    192
+                ],
+                [
+                    54,
+                    181
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    260,
+                    178
+                ],
+                [
+                    252,
+                    169
+                ],
+                [
+                    255,
+                    154
+                ],
+                [
+                    276,
+                    141
+                ],
+                [
+                    305,
+                    137
+                ],
+                [
+                    328,
+                    144
+                ],
+                [
+                    335,
+                    152
+                ],
+                [
+                    338,
+                    162
+                ],
+                [
+                    338,
+                    172
+                ],
+                [
+                    327,
+                    182
+                ],
+                [
+                    311,
+                    190
+                ],
+                [
+                    288,
+                    189
+                ],
+                [
+                    264,
+                    182
+                ],
+                [
+                    263,
+                    181
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    427,
+                    158
+                ],
+                [
+                    410,
+                    156
+                ],
+                [
+                    420,
+                    162
+                ],
+                [
+                    425,
+                    176
+                ],
+                [
+                    421,
+                    196
+                ],
+                [
+                    413,
+                    202
+                ],
+                [
+                    419,
+                    203
+                ],
+                [
+                    448,
+                    189
+                ],
+                [
+                    463,
+                    181
+                ],
+                [
+                    481,
+                    175
+                ],
+                [
+                    501,
+                    172
+                ],
+                [
+                    500,
+                    186
+                ],
+                [
+                    500,
+                    190
+                ],
+                [
+                    513,
+                    187
+                ],
+                [
+                    526,
+                    175
+                ],
+                [
+                    544,
+                    158
+                ],
+                [
+                    564,
+                    146
+                ],
+                [
+                    570,
+                    134
+                ],
+                [
+                    577,
+                    125
+                ],
+                [
+                    577,
+                    120
+                ],
+                [
+                    569,
+                    117
+                ],
+                [
+                    557,
+                    119
+                ],
+                [
+                    546,
+                    124
+                ],
+                [
+                    532,
+                    133
+                ],
+                [
+                    505,
+                    139
+                ],
+                [
+                    490,
+                    133
+                ],
+                [
+                    484,
+                    133
+                ],
+                [
+                    490,
+                    145
+                ],
+                [
+                    490,
+                    149
+                ],
+                [
+                    469,
+                    155
+                ],
+                [
+                    456,
+                    150
+                ],
+                [
+                    449,
+                    150
+                ],
+                [
+                    445,
+                    150
+                ],
+                [
+                    445,
+                    150
+                ],
+                [
+                    447,
+                    157
+                ],
+                [
+                    440,
+                    156
+                ],
+                [
+                    430,
+                    158
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T1+B1",
+            "origin": "T1"
+        },
+        "T2+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T2+B2",
+            "origin": "T2"
+        },
+        "T3+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T3+I0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    17,
+                    251
+                ],
+                [
+                    186,
+                    294
+                ]
+            ],
+            "replacementText": "B",
+            "value": "During early stages, bamboo sharks are sealed in a pigmented egg case"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    216,
+                    250
+                ],
+                [
+                    383,
+                    295
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Most vulnerable stage: egg case weakens, embryo begins respiratory movements"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    407,
+                    250
+                ],
+                [
+                    589,
+                    297
+                ]
+            ],
+            "replacementText": "C",
+            "value": "After hatching,shark mimics unpalatable or poisonous prey;high contrasting banding pattern"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    46,
+                    313
+                ],
+                [
+                    554,
+                    335
+                ]
+            ],
+            "replacementText": "A",
+            "value": "PREDATOR AVOIDANCE MECHANISMS OF BAMBOO SHARK EMBRYOS"
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 22.5,
+            "rectangle": [
+                [
+                    121,
+                    69
+                ],
+                [
+                    130,
+                    78
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    68,
+                    59
+                ],
+                [
+                    106,
+                    62
+                ],
+                [
+                    117,
+                    67
+                ],
+                [
+                    121,
+                    69
+                ],
+                [
+                    125,
+                    64
+                ],
+                [
+                    133,
+                    76
+                ],
+                [
+                    119,
+                    82
+                ],
+                [
+                    119,
+                    76
+                ],
+                [
+                    92,
+                    71
+                ],
+                [
+                    70,
+                    72
+                ],
+                [
+                    68,
+                    63
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    23,
+                    110
+                ],
+                [
+                    227,
+                    109
+                ],
+                [
+                    273,
+                    66
+                ],
+                [
+                    273,
+                    13
+                ],
+                [
+                    184,
+                    9
+                ],
+                [
+                    181,
+                    5
+                ],
+                [
+                    177,
+                    7
+                ],
+                [
+                    170,
+                    4
+                ],
+                [
+                    164,
+                    5
+                ],
+                [
+                    158,
+                    1
+                ],
+                [
+                    155,
+                    7
+                ],
+                [
+                    79,
+                    7
+                ],
+                [
+                    22,
+                    49
+                ],
+                [
+                    22,
+                    111
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "T0+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    4,
+                    133
+                ],
+                [
+                    290,
+                    175
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Where plates converge, one plate is drawn slowly beneath the other. This takes place over thousands of years. "
+        }
+    }
+}

@@ -1,0 +1,371 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    344,
+                    291
+                ],
+                [
+                    347,
+                    306
+                ],
+                [
+                    554,
+                    275
+                ],
+                [
+                    544,
+                    259
+                ],
+                [
+                    347,
+                    293
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    341,
+                    352
+                ],
+                [
+                    349,
+                    363
+                ],
+                [
+                    557,
+                    309
+                ],
+                [
+                    546,
+                    296
+                ],
+                [
+                    342,
+                    349
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    6,
+                    160
+                ],
+                [
+                    10,
+                    96
+                ],
+                [
+                    126,
+                    99
+                ],
+                [
+                    182,
+                    133
+                ],
+                [
+                    262,
+                    162
+                ],
+                [
+                    282,
+                    174
+                ],
+                [
+                    349,
+                    170
+                ],
+                [
+                    376,
+                    187
+                ],
+                [
+                    502,
+                    245
+                ],
+                [
+                    586,
+                    250
+                ],
+                [
+                    634,
+                    272
+                ],
+                [
+                    653,
+                    290
+                ],
+                [
+                    707,
+                    291
+                ],
+                [
+                    738,
+                    310
+                ],
+                [
+                    742,
+                    373
+                ],
+                [
+                    634,
+                    379
+                ],
+                [
+                    469,
+                    318
+                ],
+                [
+                    472,
+                    302
+                ],
+                [
+                    395,
+                    304
+                ],
+                [
+                    354,
+                    283
+                ],
+                [
+                    280,
+                    261
+                ],
+                [
+                    243,
+                    242
+                ],
+                [
+                    243,
+                    230
+                ],
+                [
+                    165,
+                    229
+                ],
+                [
+                    5,
+                    165
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    304,
+                    270
+                ],
+                [
+                    349,
+                    270
+                ],
+                [
+                    349,
+                    315
+                ],
+                [
+                    304,
+                    323
+                ],
+                [
+                    307,
+                    272
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    304,
+                    331
+                ],
+                [
+                    350,
+                    334
+                ],
+                [
+                    352,
+                    381
+                ],
+                [
+                    301,
+                    374
+                ],
+                [
+                    307,
+                    334
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "B0+A0+B1": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "B0+A0+B1",
+            "origin": "B0"
+        },
+        "B0+A1+B2": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "B0+A1+B2",
+            "origin": "B0"
+        },
+        "T0+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T1+I0",
+            "origin": "T1"
+        },
+        "T2+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T2+I0",
+            "origin": "T2"
+        },
+        "T3+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T3+B1",
+            "origin": "T3"
+        },
+        "T4+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T4+B2",
+            "origin": "T4"
+        },
+        "T5+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T5+I0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    197,
+                    6
+                ],
+                [
+                    405,
+                    75
+                ]
+            ],
+            "replacementText": "C",
+            "value": "1 Rivers bring sediment to the ocean.sedimentary rocks containing fossils from on the ocean floor."
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    410,
+                    80
+                ],
+                [
+                    626,
+                    134
+                ]
+            ],
+            "replacementText": "D",
+            "value": "2 Over time, additional strata are added, containing fossils from each time period."
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    606,
+                    141
+                ],
+                [
+                    799,
+                    245
+                ]
+            ],
+            "replacementText": "A",
+            "value": "3 As sea levels change and the seafloor is pushed upward, sedimentary rocks are exposed. Erosion by rivers reveals strata; older strata contain older fossils."
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    128,
+                    274
+                ],
+                [
+                    294,
+                    310
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Younger stratum with more recent fossils"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    131,
+                    341
+                ],
+                [
+                    275,
+                    374
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Older stratum with older fossils"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    6,
+                    382
+                ],
+                [
+                    346,
+                    403
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Copyright Pearson Education, Inc., published as Benjamin Cummings."
+        }
+    }
+}

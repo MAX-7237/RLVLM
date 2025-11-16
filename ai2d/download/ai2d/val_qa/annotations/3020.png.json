@@ -1,0 +1,363 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    150,
+                    81
+                ],
+                [
+                    148,
+                    19
+                ],
+                [
+                    153,
+                    18
+                ],
+                [
+                    154,
+                    81
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    110,
+                    118
+                ],
+                [
+                    77,
+                    56
+                ],
+                [
+                    81,
+                    51
+                ],
+                [
+                    114,
+                    116
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    138,
+                    189
+                ],
+                [
+                    154,
+                    192
+                ],
+                [
+                    154,
+                    188
+                ],
+                [
+                    138,
+                    185
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    83,
+                    250
+                ],
+                [
+                    105,
+                    252
+                ],
+                [
+                    106,
+                    247
+                ],
+                [
+                    83,
+                    246
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    122,
+                    259
+                ],
+                [
+                    126,
+                    198
+                ],
+                [
+                    145,
+                    191
+                ],
+                [
+                    152,
+                    163
+                ],
+                [
+                    179,
+                    171
+                ],
+                [
+                    192,
+                    168
+                ],
+                [
+                    196,
+                    148
+                ],
+                [
+                    190,
+                    141
+                ],
+                [
+                    162,
+                    133
+                ],
+                [
+                    172,
+                    121
+                ],
+                [
+                    169,
+                    104
+                ],
+                [
+                    166,
+                    71
+                ],
+                [
+                    160,
+                    66
+                ],
+                [
+                    152,
+                    76
+                ],
+                [
+                    141,
+                    86
+                ],
+                [
+                    132,
+                    69
+                ],
+                [
+                    121,
+                    57
+                ],
+                [
+                    117,
+                    52
+                ],
+                [
+                    106,
+                    77
+                ],
+                [
+                    104,
+                    91
+                ],
+                [
+                    101,
+                    91
+                ],
+                [
+                    79,
+                    74
+                ],
+                [
+                    73,
+                    77
+                ],
+                [
+                    74,
+                    97
+                ],
+                [
+                    81,
+                    108
+                ],
+                [
+                    74,
+                    116
+                ],
+                [
+                    78,
+                    128
+                ],
+                [
+                    72,
+                    133
+                ],
+                [
+                    60,
+                    138
+                ],
+                [
+                    51,
+                    154
+                ],
+                [
+                    51,
+                    164
+                ],
+                [
+                    58,
+                    171
+                ],
+                [
+                    70,
+                    168
+                ],
+                [
+                    84,
+                    158
+                ],
+                [
+                    82,
+                    169
+                ],
+                [
+                    87,
+                    193
+                ],
+                [
+                    95,
+                    218
+                ],
+                [
+                    102,
+                    239
+                ],
+                [
+                    101,
+                    258
+                ],
+                [
+                    101,
+                    260
+                ],
+                [
+                    121,
+                    261
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        },
+        "T2+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A3+B0",
+            "origin": "T2"
+        },
+        "T3+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A2+B0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    114,
+                    0
+                ],
+                [
+                    187,
+                    19
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Standard"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    7,
+                    35
+                ],
+                [
+                    104,
+                    55
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Style Branch"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    42,
+                    238
+                ],
+                [
+                    86,
+                    259
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Stem"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    156,
+                    180
+                ],
+                [
+                    187,
+                    198
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Fall"
+        }
+    }
+}

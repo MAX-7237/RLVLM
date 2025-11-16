@@ -1,0 +1,267 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 225.0,
+            "rectangle": [
+                [
+                    66,
+                    66
+                ],
+                [
+                    72,
+                    72
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 45.0,
+            "rectangle": [
+                [
+                    200,
+                    190
+                ],
+                [
+                    206,
+                    196
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    107,
+                    112
+                ],
+                [
+                    61,
+                    65
+                ],
+                [
+                    68,
+                    56
+                ],
+                [
+                    114,
+                    105
+                ],
+                [
+                    109,
+                    112
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    155,
+                    159
+                ],
+                [
+                    200,
+                    197
+                ],
+                [
+                    211,
+                    191
+                ],
+                [
+                    173,
+                    151
+                ],
+                [
+                    156,
+                    153
+                ],
+                [
+                    154,
+                    157
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    112,
+                    144
+                ],
+                [
+                    118,
+                    156
+                ],
+                [
+                    129,
+                    161
+                ],
+                [
+                    147,
+                    162
+                ],
+                [
+                    159,
+                    157
+                ],
+                [
+                    164,
+                    148
+                ],
+                [
+                    169,
+                    134
+                ],
+                [
+                    157,
+                    115
+                ],
+                [
+                    142,
+                    107
+                ],
+                [
+                    130,
+                    107
+                ],
+                [
+                    119,
+                    115
+                ],
+                [
+                    114,
+                    124
+                ],
+                [
+                    113,
+                    134
+                ],
+                [
+                    113,
+                    146
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    46,
+                    45
+                ],
+                [
+                    50,
+                    37
+                ],
+                [
+                    50,
+                    31
+                ],
+                [
+                    43,
+                    26
+                ],
+                [
+                    34,
+                    25
+                ],
+                [
+                    29,
+                    28
+                ],
+                [
+                    26,
+                    36
+                ],
+                [
+                    31,
+                    44
+                ],
+                [
+                    36,
+                    46
+                ],
+                [
+                    42,
+                    45
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A1+H1",
+            "origin": "A1"
+        },
+        "B0+A0+B1": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "B1",
+            "hasDirectionality": true,
+            "id": "B0+A0+B1",
+            "origin": "B0"
+        },
+        "B0+A1+T1": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "T1",
+            "hasDirectionality": true,
+            "id": "B0+A1+T1",
+            "origin": "B0"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    76,
+                    61
+                ],
+                [
+                    162,
+                    87
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Gravitational pull /from moon"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    116,
+                    178
+                ],
+                [
+                    175,
+                    205
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Centrifugal \"force\""
+        }
+    }
+}

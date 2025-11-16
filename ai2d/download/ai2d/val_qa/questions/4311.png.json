@@ -1,0 +1,49 @@
+{
+    "imageName": "4311.png",
+    "questions": {
+        "Which label is the sun?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Label I",
+                "Label C",
+                "Label J",
+                "Label B"
+            ],
+            "correctAnswer": 2,
+            "questionId": "4311.png-1"
+        },
+        "Which planet is closer to the Sun than Earth is?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "Neptune",
+                "Venus",
+                "Mars",
+                "Jupiter"
+            ],
+            "correctAnswer": 1,
+            "questionId": "4311.png-3"
+        },
+        "Which planet is label I?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Mars",
+                "Neptune",
+                "Pluto",
+                "Uranus"
+            ],
+            "correctAnswer": 3,
+            "questionId": "4311.png-0"
+        },
+        "Which planet is the closest to the sun?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "Mercury",
+                "Earth",
+                "Venus",
+                "Pluto"
+            ],
+            "correctAnswer": 0,
+            "questionId": "4311.png-2"
+        }
+    }
+}

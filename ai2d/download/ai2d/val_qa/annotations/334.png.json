@@ -1,0 +1,174 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    153,
+                    312
+                ],
+                [
+                    270,
+                    318
+                ],
+                [
+                    327,
+                    300
+                ],
+                [
+                    552,
+                    303
+                ],
+                [
+                    591,
+                    315
+                ],
+                [
+                    792,
+                    309
+                ],
+                [
+                    786,
+                    279
+                ],
+                [
+                    822,
+                    249
+                ],
+                [
+                    873,
+                    255
+                ],
+                [
+                    888,
+                    276
+                ],
+                [
+                    900,
+                    303
+                ],
+                [
+                    1194,
+                    312
+                ],
+                [
+                    1341,
+                    291
+                ],
+                [
+                    1347,
+                    1002
+                ],
+                [
+                    159,
+                    1005
+                ],
+                [
+                    150,
+                    315
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    297,
+                    363
+                ],
+                [
+                    546,
+                    423
+                ]
+            ],
+            "replacementText": "B",
+            "value": "sandstone"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    285,
+                    558
+                ],
+                [
+                    582,
+                    606
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Conglomerate"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    282,
+                    609
+                ],
+                [
+                    696,
+                    651
+                ]
+            ],
+            "replacementText": "C",
+            "value": "with rounded granite pebbles"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    336,
+                    849
+                ],
+                [
+                    474,
+                    891
+                ]
+            ],
+            "replacementText": "A",
+            "value": "granite"
+        }
+    }
+}

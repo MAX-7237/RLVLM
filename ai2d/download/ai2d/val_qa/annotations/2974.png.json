@@ -1,0 +1,627 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 348.75,
+            "rectangle": [
+                [
+                    213,
+                    151
+                ],
+                [
+                    222,
+                    160
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 326.25,
+            "rectangle": [
+                [
+                    235,
+                    198
+                ],
+                [
+                    244,
+                    207
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": 326.25,
+            "rectangle": [
+                [
+                    236,
+                    172
+                ],
+                [
+                    249,
+                    185
+                ]
+            ]
+        },
+        "H3": {
+            "id": "H3",
+            "orientation": 337.5,
+            "rectangle": [
+                [
+                    241,
+                    229
+                ],
+                [
+                    252,
+                    240
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    114,
+                    182
+                ],
+                [
+                    225,
+                    147
+                ],
+                [
+                    226,
+                    158
+                ],
+                [
+                    114,
+                    190
+                ],
+                [
+                    111,
+                    182
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    114,
+                    99
+                ],
+                [
+                    237,
+                    111
+                ],
+                [
+                    237,
+                    120
+                ],
+                [
+                    112,
+                    108
+                ],
+                [
+                    112,
+                    100
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    114,
+                    289
+                ],
+                [
+                    252,
+                    228
+                ],
+                [
+                    254,
+                    234
+                ],
+                [
+                    116,
+                    298
+                ],
+                [
+                    113,
+                    291
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    115,
+                    59
+                ],
+                [
+                    231,
+                    91
+                ],
+                [
+                    228,
+                    98
+                ],
+                [
+                    112,
+                    68
+                ],
+                [
+                    114,
+                    60
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    113,
+                    251
+                ],
+                [
+                    245,
+                    169
+                ],
+                [
+                    252,
+                    176
+                ],
+                [
+                    117,
+                    260
+                ],
+                [
+                    114,
+                    253
+                ]
+            ]
+        },
+        "A5": {
+            "id": "A5",
+            "polygon": [
+                [
+                    113,
+                    274
+                ],
+                [
+                    242,
+                    196
+                ],
+                [
+                    247,
+                    200
+                ],
+                [
+                    249,
+                    207
+                ],
+                [
+                    239,
+                    211
+                ],
+                [
+                    235,
+                    214
+                ],
+                [
+                    116,
+                    281
+                ],
+                [
+                    112,
+                    277
+                ]
+            ]
+        },
+        "A6": {
+            "id": "A6",
+            "polygon": [
+                [
+                    113,
+                    136
+                ],
+                [
+                    247,
+                    136
+                ],
+                [
+                    247,
+                    144
+                ],
+                [
+                    112,
+                    145
+                ],
+                [
+                    111,
+                    137
+                ]
+            ]
+        },
+        "A7": {
+            "id": "A7",
+            "polygon": [
+                [
+                    113,
+                    221
+                ],
+                [
+                    205,
+                    180
+                ],
+                [
+                    208,
+                    186
+                ],
+                [
+                    115,
+                    228
+                ],
+                [
+                    115,
+                    221
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    288,
+                    274
+                ],
+                [
+                    283,
+                    247
+                ],
+                [
+                    332,
+                    244
+                ],
+                [
+                    361,
+                    230
+                ],
+                [
+                    363,
+                    193
+                ],
+                [
+                    375,
+                    134
+                ],
+                [
+                    349,
+                    75
+                ],
+                [
+                    251,
+                    43
+                ],
+                [
+                    156,
+                    55
+                ],
+                [
+                    125,
+                    106
+                ],
+                [
+                    121,
+                    138
+                ],
+                [
+                    154,
+                    179
+                ],
+                [
+                    179,
+                    188
+                ],
+                [
+                    227,
+                    220
+                ],
+                [
+                    255,
+                    276
+                ],
+                [
+                    284,
+                    275
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A2+H3": {
+            "category": "arrowHeadTail",
+            "destination": "H3",
+            "hasDirectionality": false,
+            "id": "A2+H3",
+            "origin": "A2"
+        },
+        "A4+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A4+H2",
+            "origin": "A4"
+        },
+        "A5+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A5+H1",
+            "origin": "A5"
+        },
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A3+B0",
+            "origin": "T1"
+        },
+        "T10+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T10+I0",
+            "origin": "T10"
+        },
+        "T2+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A1+B0",
+            "origin": "T2"
+        },
+        "T3+A6+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A6",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A6+B0",
+            "origin": "T3"
+        },
+        "T4+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A0+B0",
+            "origin": "T4"
+        },
+        "T5+A7+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A7",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A7+B0",
+            "origin": "T5"
+        },
+        "T6+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+A4+B0",
+            "origin": "T6"
+        },
+        "T7+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+A2+B0",
+            "origin": "T7"
+        },
+        "T8+A5+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A5",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T8+A5+B0",
+            "origin": "T8"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    19,
+                    11
+                ],
+                [
+                    379,
+                    32
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Major Internal Parts of the Human Brain"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    50,
+                    48
+                ],
+                [
+                    114,
+                    75
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Cingulate Sulcus"
+        },
+        "T10": {
+            "id": "T10",
+            "rectangle": [
+                [
+                    285,
+                    310
+                ],
+                [
+                    384,
+                    321
+                ]
+            ],
+            "replacementText": "C",
+            "value": "\u00a92001 HowStuffWorks"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    48,
+                    88
+                ],
+                [
+                    116,
+                    117
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Corpus Callosum"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    22,
+                    129
+                ],
+                [
+                    113,
+                    148
+                ]
+            ],
+            "replacementText": "J",
+            "value": "Diencephalon"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    31,
+                    174
+                ],
+                [
+                    114,
+                    200
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Anterior Commissure"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    53,
+                    209
+                ],
+                [
+                    113,
+                    237
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Temporal Lobe"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    52,
+                    247
+                ],
+                [
+                    113,
+                    263
+                ]
+            ],
+            "replacementText": "I",
+            "value": "Midbrain"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    60,
+                    286
+                ],
+                [
+                    114,
+                    300
+                ]
+            ],
+            "replacementText": "K",
+            "value": "Medulla"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    80,
+                    266
+                ],
+                [
+                    111,
+                    278
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Pons"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    297,
+                    289
+                ],
+                [
+                    371,
+                    302
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Cerebellum"
+        }
+    }
+}

@@ -1,0 +1,291 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    61,
+                    69
+                ],
+                [
+                    69,
+                    63
+                ],
+                [
+                    107,
+                    121
+                ],
+                [
+                    100,
+                    121
+                ],
+                [
+                    61,
+                    71
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    354,
+                    203
+                ],
+                [
+                    363,
+                    206
+                ],
+                [
+                    394,
+                    111
+                ],
+                [
+                    389,
+                    109
+                ],
+                [
+                    354,
+                    205
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    511,
+                    153
+                ],
+                [
+                    467,
+                    121
+                ],
+                [
+                    428,
+                    136
+                ],
+                [
+                    397,
+                    152
+                ],
+                [
+                    380,
+                    148
+                ],
+                [
+                    370,
+                    147
+                ],
+                [
+                    333,
+                    115
+                ],
+                [
+                    329,
+                    106
+                ],
+                [
+                    318,
+                    93
+                ],
+                [
+                    308,
+                    74
+                ],
+                [
+                    296,
+                    64
+                ],
+                [
+                    279,
+                    53
+                ],
+                [
+                    270,
+                    40
+                ],
+                [
+                    258,
+                    36
+                ],
+                [
+                    235,
+                    43
+                ],
+                [
+                    229,
+                    50
+                ],
+                [
+                    219,
+                    40
+                ],
+                [
+                    210,
+                    31
+                ],
+                [
+                    186,
+                    36
+                ],
+                [
+                    173,
+                    50
+                ],
+                [
+                    150,
+                    70
+                ],
+                [
+                    127,
+                    95
+                ],
+                [
+                    113,
+                    102
+                ],
+                [
+                    112,
+                    110
+                ],
+                [
+                    89,
+                    119
+                ],
+                [
+                    78,
+                    135
+                ],
+                [
+                    59,
+                    143
+                ],
+                [
+                    41,
+                    142
+                ],
+                [
+                    2,
+                    120
+                ],
+                [
+                    1,
+                    258
+                ],
+                [
+                    511,
+                    258
+                ],
+                [
+                    511,
+                    153
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A1+B0",
+            "origin": "T0"
+        },
+        "T1+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A0+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    344,
+                    58
+                ],
+                [
+                    504,
+                    112
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Intrusive Igneous Rock (Magma cools off beneath the surface)"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    7,
+                    9
+                ],
+                [
+                    164,
+                    64
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Extrusive Igneous Rock ( Magma comes out as lava and cools on the surface )"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    4,
+                    183
+                ],
+                [
+                    100,
+                    205
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Earth's surface"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    179,
+                    231
+                ],
+                [
+                    239,
+                    254
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Magma"
+        }
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 236.25,
+            "rectangle": [
+                [
+                    41,
+                    75
+                ],
+                [
+                    51,
+                    85
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 326.25,
+            "rectangle": [
+                [
+                    48,
+                    11
+                ],
+                [
+                    57,
+                    20
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": 78.75,
+            "rectangle": [
+                [
+                    121,
+                    44
+                ],
+                [
+                    130,
+                    53
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    21,
+                    38
+                ],
+                [
+                    54,
+                    42
+                ],
+                [
+                    65,
+                    12
+                ],
+                [
+                    47,
+                    4
+                ],
+                [
+                    20,
+                    34
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    116,
+                    6
+                ],
+                [
+                    136,
+                    54
+                ],
+                [
+                    116,
+                    56
+                ],
+                [
+                    104,
+                    21
+                ],
+                [
+                    116,
+                    12
+                ],
+                [
+                    116,
+                    12
+                ],
+                [
+                    115,
+                    7
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    34,
+                    72
+                ],
+                [
+                    120,
+                    74
+                ],
+                [
+                    117,
+                    94
+                ],
+                [
+                    32,
+                    101
+                ],
+                [
+                    35,
+                    74
+                ]
+            ]
+        }
+    },
+    "blobs": {},
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A0+H1",
+            "origin": "A0"
+        },
+        "A1+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A1+H2",
+            "origin": "A1"
+        },
+        "A2+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A2+H0",
+            "origin": "A2"
+        },
+        "T0+A1+T2": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "T2",
+            "hasDirectionality": true,
+            "id": "T0+A1+T2",
+            "origin": "T0"
+        },
+        "T1+A0+T0": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "T0",
+            "hasDirectionality": true,
+            "id": "T1+A0+T0",
+            "origin": "T1"
+        },
+        "T2+A2+T1": {
+            "category": "interObjectLinkage",
+            "connector": "A2",
+            "destination": "T1",
+            "hasDirectionality": true,
+            "id": "T2+A2+T1",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    65,
+                    5
+                ],
+                [
+                    95,
+                    21
+                ]
+            ],
+            "replacementText": "C",
+            "value": "egg"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    0,
+                    39
+                ],
+                [
+                    91,
+                    77
+                ]
+            ],
+            "replacementText": "A",
+            "value": "adult nematode capable of reproduction"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    93,
+                    51
+                ],
+                [
+                    149,
+                    77
+                ]
+            ],
+            "replacementText": "B",
+            "value": "4 juvenile stages"
+        }
+    }
+}

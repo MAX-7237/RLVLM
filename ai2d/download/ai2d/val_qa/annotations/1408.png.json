@@ -1,0 +1,253 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    6,
+                    65
+                ],
+                [
+                    5,
+                    155
+                ],
+                [
+                    197,
+                    157
+                ],
+                [
+                    193,
+                    67
+                ],
+                [
+                    7,
+                    68
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    4,
+                    159
+                ],
+                [
+                    6,
+                    282
+                ],
+                [
+                    194,
+                    281
+                ],
+                [
+                    195,
+                    159
+                ],
+                [
+                    194,
+                    155
+                ],
+                [
+                    6,
+                    162
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    3,
+                    414
+                ],
+                [
+                    195,
+                    414
+                ],
+                [
+                    194,
+                    281
+                ],
+                [
+                    7,
+                    283
+                ],
+                [
+                    6,
+                    413
+                ]
+            ]
+        },
+        "B3": {
+            "id": "B3",
+            "polygon": [
+                [
+                    4,
+                    515
+                ],
+                [
+                    196,
+                    522
+                ],
+                [
+                    195,
+                    413
+                ],
+                [
+                    7,
+                    415
+                ],
+                [
+                    4,
+                    515
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B1": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T3+B1",
+            "origin": "T3"
+        },
+        "T4+B2": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T4+B2",
+            "origin": "T4"
+        },
+        "T5+B3": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T5+B3",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    25,
+                    6
+                ],
+                [
+                    158,
+                    38
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Soil Profile"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    41,
+                    48
+                ],
+                [
+                    133,
+                    62
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Organic Layer"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    41,
+                    111
+                ],
+                [
+                    154,
+                    132
+                ]
+            ],
+            "replacementText": "A",
+            "value": "A Horizon - Topsoil"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    40,
+                    197
+                ],
+                [
+                    158,
+                    214
+                ]
+            ],
+            "replacementText": "B",
+            "value": "B Horizon - Subsoil"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    44,
+                    328
+                ],
+                [
+                    184,
+                    362
+                ]
+            ],
+            "replacementText": "F",
+            "value": "C Horizon - Weathered Parent Material"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    43,
+                    436
+                ],
+                [
+                    156,
+                    476
+                ]
+            ],
+            "replacementText": "E",
+            "value": "D Horizon - Rock Parent Material"
+        }
+    }
+}

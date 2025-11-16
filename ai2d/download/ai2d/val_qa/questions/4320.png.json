@@ -1,0 +1,49 @@
+{
+    "imageName": "4320.png",
+    "questions": {
+        "What is the biggest planet?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "Jupiter",
+                "Venus",
+                "Earth",
+                "Mercury"
+            ],
+            "correctAnswer": 0,
+            "questionId": "4320.png-3"
+        },
+        "Which is the biggest planet?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "venus",
+                "Sun",
+                "Jupiter",
+                "Mercury"
+            ],
+            "correctAnswer": 2,
+            "questionId": "4320.png-0"
+        },
+        "Which planet is closest to sun?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Earth",
+                "Venus",
+                "Mars",
+                "Mercury"
+            ],
+            "correctAnswer": 3,
+            "questionId": "4320.png-1"
+        },
+        "Which planet is closest to the sun?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "Jupiter",
+                "Venus",
+                "Mars",
+                "Mercury"
+            ],
+            "correctAnswer": 3,
+            "questionId": "4320.png-2"
+        }
+    }
+}

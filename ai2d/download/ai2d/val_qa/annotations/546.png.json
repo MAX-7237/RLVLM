@@ -1,0 +1,359 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    325,
+                    52
+                ],
+                [
+                    360,
+                    27
+                ],
+                [
+                    361,
+                    36
+                ],
+                [
+                    332,
+                    60
+                ],
+                [
+                    328,
+                    53
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    339,
+                    77
+                ],
+                [
+                    390,
+                    69
+                ],
+                [
+                    392,
+                    80
+                ],
+                [
+                    345,
+                    86
+                ],
+                [
+                    343,
+                    79
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    328,
+                    121
+                ],
+                [
+                    432,
+                    146
+                ],
+                [
+                    426,
+                    154
+                ],
+                [
+                    426,
+                    154
+                ],
+                [
+                    327,
+                    133
+                ],
+                [
+                    329,
+                    121
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    287,
+                    146
+                ],
+                [
+                    398,
+                    209
+                ],
+                [
+                    397,
+                    217
+                ],
+                [
+                    284,
+                    156
+                ],
+                [
+                    289,
+                    145
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    249,
+                    143
+                ],
+                [
+                    356,
+                    264
+                ],
+                [
+                    349,
+                    268
+                ],
+                [
+                    242,
+                    149
+                ],
+                [
+                    251,
+                    140
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    251,
+                    26
+                ],
+                [
+                    279,
+                    28
+                ],
+                [
+                    304,
+                    37
+                ],
+                [
+                    325,
+                    49
+                ],
+                [
+                    346,
+                    68
+                ],
+                [
+                    358,
+                    87
+                ],
+                [
+                    372,
+                    118
+                ],
+                [
+                    376,
+                    157
+                ],
+                [
+                    368,
+                    197
+                ],
+                [
+                    349,
+                    229
+                ],
+                [
+                    314,
+                    258
+                ],
+                [
+                    282,
+                    272
+                ],
+                [
+                    250,
+                    277
+                ],
+                [
+                    205,
+                    268
+                ],
+                [
+                    168,
+                    247
+                ],
+                [
+                    141,
+                    215
+                ],
+                [
+                    124,
+                    171
+                ],
+                [
+                    127,
+                    123
+                ],
+                [
+                    144,
+                    82
+                ],
+                [
+                    167,
+                    57
+                ],
+                [
+                    188,
+                    41
+                ],
+                [
+                    220,
+                    28
+                ],
+                [
+                    253,
+                    27
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        },
+        "T2+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A2+B0",
+            "origin": "T2"
+        },
+        "T3+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A3+B0",
+            "origin": "T3"
+        },
+        "T4+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A4+B0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    359,
+                    26
+                ],
+                [
+                    405,
+                    41
+                ]
+            ],
+            "replacementText": "E",
+            "value": "CRUST"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    388,
+                    66
+                ],
+                [
+                    481,
+                    88
+                ]
+            ],
+            "replacementText": "A",
+            "value": "upper mantle"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    431,
+                    140
+                ],
+                [
+                    486,
+                    159
+                ]
+            ],
+            "replacementText": "B",
+            "value": "mantle"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    401,
+                    204
+                ],
+                [
+                    478,
+                    221
+                ]
+            ],
+            "replacementText": "C",
+            "value": "outer core"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    356,
+                    268
+                ],
+                [
+                    437,
+                    285
+                ]
+            ],
+            "replacementText": "D",
+            "value": "inner core"
+        }
+    }
+}

@@ -1,0 +1,442 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    28,
+                    49
+                ],
+                [
+                    39,
+                    34
+                ],
+                [
+                    41,
+                    34
+                ],
+                [
+                    51,
+                    26
+                ],
+                [
+                    55,
+                    24
+                ],
+                [
+                    68,
+                    16
+                ],
+                [
+                    69,
+                    18
+                ],
+                [
+                    82,
+                    10
+                ],
+                [
+                    82,
+                    13
+                ],
+                [
+                    94,
+                    7
+                ],
+                [
+                    104,
+                    6
+                ],
+                [
+                    105,
+                    8
+                ],
+                [
+                    113,
+                    7
+                ],
+                [
+                    116,
+                    7
+                ],
+                [
+                    118,
+                    9
+                ],
+                [
+                    128,
+                    6
+                ],
+                [
+                    126,
+                    11
+                ],
+                [
+                    137,
+                    11
+                ],
+                [
+                    138,
+                    11
+                ],
+                [
+                    149,
+                    15
+                ],
+                [
+                    159,
+                    16
+                ],
+                [
+                    166,
+                    18
+                ],
+                [
+                    181,
+                    17
+                ],
+                [
+                    188,
+                    18
+                ],
+                [
+                    181,
+                    23
+                ],
+                [
+                    185,
+                    29
+                ],
+                [
+                    180,
+                    35
+                ],
+                [
+                    183,
+                    37
+                ],
+                [
+                    174,
+                    43
+                ],
+                [
+                    180,
+                    45
+                ],
+                [
+                    177,
+                    51
+                ],
+                [
+                    177,
+                    52
+                ],
+                [
+                    174,
+                    56
+                ],
+                [
+                    172,
+                    61
+                ],
+                [
+                    173,
+                    63
+                ],
+                [
+                    168,
+                    74
+                ],
+                [
+                    171,
+                    75
+                ],
+                [
+                    166,
+                    83
+                ],
+                [
+                    168,
+                    84
+                ],
+                [
+                    162,
+                    94
+                ],
+                [
+                    164,
+                    96
+                ],
+                [
+                    156,
+                    107
+                ],
+                [
+                    159,
+                    109
+                ],
+                [
+                    149,
+                    123
+                ],
+                [
+                    149,
+                    125
+                ],
+                [
+                    141,
+                    130
+                ],
+                [
+                    142,
+                    134
+                ],
+                [
+                    128,
+                    143
+                ],
+                [
+                    130,
+                    149
+                ],
+                [
+                    113,
+                    152
+                ],
+                [
+                    105,
+                    151
+                ],
+                [
+                    88,
+                    140
+                ],
+                [
+                    76,
+                    124
+                ],
+                [
+                    65,
+                    116
+                ],
+                [
+                    41,
+                    134
+                ],
+                [
+                    22,
+                    154
+                ],
+                [
+                    22,
+                    158
+                ],
+                [
+                    17,
+                    160
+                ],
+                [
+                    11,
+                    160
+                ],
+                [
+                    8,
+                    156
+                ],
+                [
+                    5,
+                    153
+                ],
+                [
+                    5,
+                    142
+                ],
+                [
+                    9,
+                    139
+                ],
+                [
+                    14,
+                    148
+                ],
+                [
+                    24,
+                    141
+                ],
+                [
+                    38,
+                    131
+                ],
+                [
+                    56,
+                    113
+                ],
+                [
+                    59,
+                    106
+                ],
+                [
+                    59,
+                    98
+                ],
+                [
+                    45,
+                    87
+                ],
+                [
+                    34,
+                    76
+                ],
+                [
+                    28,
+                    53
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    27,
+                    14
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Leaf"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    6,
+                    115
+                ],
+                [
+                    45,
+                    127
+                ]
+            ],
+            "replacementText": "D",
+            "value": "petiole"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    88,
+                    153
+                ],
+                [
+                    132,
+                    170
+                ]
+            ],
+            "replacementText": "E",
+            "value": "margin"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    6,
+                    161
+                ],
+                [
+                    45,
+                    172
+                ]
+            ],
+            "replacementText": "B",
+            "value": "stipules"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    96,
+                    87
+                ],
+                [
+                    122,
+                    101
+                ]
+            ],
+            "replacementText": "C",
+            "value": "vein"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    95,
+                    124
+                ],
+                [
+                    125,
+                    140
+                ]
+            ],
+            "replacementText": "A",
+            "value": "blade"
+        }
+    }
+}

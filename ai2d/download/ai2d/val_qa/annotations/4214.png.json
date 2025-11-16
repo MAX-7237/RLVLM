@@ -1,0 +1,533 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 303.75,
+            "rectangle": [
+                [
+                    503,
+                    192
+                ],
+                [
+                    524,
+                    213
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 22.5,
+            "rectangle": [
+                [
+                    253,
+                    299
+                ],
+                [
+                    281,
+                    327
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": 202.5,
+            "rectangle": [
+                [
+                    324,
+                    56
+                ],
+                [
+                    353,
+                    85
+                ]
+            ]
+        },
+        "H3": {
+            "id": "H3",
+            "orientation": 135.0,
+            "rectangle": [
+                [
+                    113,
+                    113
+                ],
+                [
+                    127,
+                    127
+                ]
+            ]
+        },
+        "H4": {
+            "id": "H4",
+            "orientation": 90.0,
+            "rectangle": [
+                [
+                    94,
+                    217
+                ],
+                [
+                    116,
+                    239
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    461,
+                    300
+                ],
+                [
+                    508,
+                    203
+                ],
+                [
+                    503,
+                    202
+                ],
+                [
+                    504,
+                    198
+                ],
+                [
+                    518,
+                    195
+                ],
+                [
+                    519,
+                    209
+                ],
+                [
+                    515,
+                    211
+                ],
+                [
+                    466,
+                    307
+                ],
+                [
+                    459,
+                    303
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    489,
+                    157
+                ],
+                [
+                    336,
+                    72
+                ],
+                [
+                    342,
+                    91
+                ],
+                [
+                    323,
+                    63
+                ],
+                [
+                    353,
+                    57
+                ],
+                [
+                    351,
+                    66
+                ],
+                [
+                    344,
+                    65
+                ],
+                [
+                    498,
+                    153
+                ],
+                [
+                    489,
+                    157
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    169,
+                    68
+                ],
+                [
+                    173,
+                    73
+                ],
+                [
+                    125,
+                    121
+                ],
+                [
+                    132,
+                    127
+                ],
+                [
+                    113,
+                    129
+                ],
+                [
+                    112,
+                    108
+                ],
+                [
+                    119,
+                    116
+                ],
+                [
+                    168,
+                    68
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    102,
+                    166
+                ],
+                [
+                    101,
+                    219
+                ],
+                [
+                    93,
+                    215
+                ],
+                [
+                    102,
+                    233
+                ],
+                [
+                    119,
+                    222
+                ],
+                [
+                    116,
+                    217
+                ],
+                [
+                    110,
+                    223
+                ],
+                [
+                    109,
+                    167
+                ],
+                [
+                    106,
+                    166
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    103,
+                    265
+                ],
+                [
+                    266,
+                    317
+                ],
+                [
+                    256,
+                    326
+                ],
+                [
+                    267,
+                    327
+                ],
+                [
+                    280,
+                    311
+                ],
+                [
+                    280,
+                    298
+                ],
+                [
+                    271,
+                    298
+                ],
+                [
+                    271,
+                    310
+                ],
+                [
+                    109,
+                    257
+                ],
+                [
+                    100,
+                    266
+                ]
+            ]
+        }
+    },
+    "blobs": {},
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A1+H2",
+            "origin": "A1"
+        },
+        "A2+H3": {
+            "category": "arrowHeadTail",
+            "destination": "H3",
+            "hasDirectionality": false,
+            "id": "A2+H3",
+            "origin": "A2"
+        },
+        "A3+H4": {
+            "category": "arrowHeadTail",
+            "destination": "H4",
+            "hasDirectionality": false,
+            "id": "A3+H4",
+            "origin": "A3"
+        },
+        "A4+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A4+H1",
+            "origin": "A4"
+        },
+        "T1+A2+T9": {
+            "category": "interObjectLinkage",
+            "connector": "A2",
+            "destination": "T9",
+            "hasDirectionality": true,
+            "id": "T1+A2+T9",
+            "origin": "T1"
+        },
+        "T3+A1+T1": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "T1",
+            "hasDirectionality": true,
+            "id": "T3+A1+T1",
+            "origin": "T3"
+        },
+        "T5+A0+T3": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "T3",
+            "hasDirectionality": true,
+            "id": "T5+A0+T3",
+            "origin": "T5"
+        },
+        "T7+A4+T5": {
+            "category": "interObjectLinkage",
+            "connector": "A4",
+            "destination": "T5",
+            "hasDirectionality": true,
+            "id": "T7+A4+T5",
+            "origin": "T7"
+        },
+        "T9+A3+T7": {
+            "category": "interObjectLinkage",
+            "connector": "A3",
+            "destination": "T7",
+            "hasDirectionality": true,
+            "id": "T9+A3+T7",
+            "origin": "T9"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    174,
+                    0
+                ],
+                [
+                    306,
+                    31
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Rock Cycle"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    176,
+                    45
+                ],
+                [
+                    310,
+                    68
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Igneous Rock"
+        },
+        "T10": {
+            "id": "T10",
+            "rectangle": [
+                [
+                    29,
+                    87
+                ],
+                [
+                    136,
+                    110
+                ]
+            ],
+            "replacementText": "B",
+            "value": "weathering"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    379,
+                    65
+                ],
+                [
+                    508,
+                    115
+                ]
+            ],
+            "replacementText": "I",
+            "value": "crystallization (cooling)"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    462,
+                    165
+                ],
+                [
+                    553,
+                    194
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Magma"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    506,
+                    240
+                ],
+                [
+                    575,
+                    272
+                ]
+            ],
+            "replacementText": "J",
+            "value": "melting"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    281,
+                    301
+                ],
+                [
+                    467,
+                    328
+                ]
+            ],
+            "replacementText": "K",
+            "value": "Metamorphic Rock"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    91,
+                    278
+                ],
+                [
+                    198,
+                    328
+                ]
+            ],
+            "replacementText": "A",
+            "value": "heat pressure"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    19,
+                    233
+                ],
+                [
+                    195,
+                    257
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Sedimentary Rock"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    0,
+                    191
+                ],
+                [
+                    100,
+                    213
+                ]
+            ],
+            "replacementText": "D",
+            "value": "lithification"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    44,
+                    132
+                ],
+                [
+                    162,
+                    162
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Sediment"
+        }
+    }
+}

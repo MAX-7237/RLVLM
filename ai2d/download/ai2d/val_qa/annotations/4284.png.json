@@ -1,0 +1,224 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 180.0,
+            "rectangle": [
+                [
+                    105,
+                    216
+                ],
+                [
+                    127,
+                    238
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    107,
+                    215
+                ],
+                [
+                    131,
+                    206
+                ],
+                [
+                    131,
+                    214
+                ],
+                [
+                    367,
+                    215
+                ],
+                [
+                    368,
+                    240
+                ],
+                [
+                    132,
+                    239
+                ],
+                [
+                    130,
+                    248
+                ],
+                [
+                    96,
+                    226
+                ],
+                [
+                    105,
+                    217
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    142,
+                    117
+                ],
+                [
+                    96,
+                    326
+                ],
+                [
+                    428,
+                    326
+                ],
+                [
+                    428,
+                    122
+                ],
+                [
+                    141,
+                    116
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T3+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T3+I0",
+            "origin": "T3"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    181,
+                    240
+                ],
+                [
+                    350,
+                    267
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Water encounters less permeable layer, is forced sideways"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    200,
+                    280
+                ],
+                [
+                    370,
+                    298
+                ]
+            ],
+            "replacementText": "A",
+            "value": "LESS PERMEABLE LAYER"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    345,
+                    73
+                ],
+                [
+                    383,
+                    92
+                ]
+            ],
+            "replacementText": "D",
+            "value": "RAIN"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    30,
+                    136
+                ],
+                [
+                    128,
+                    181
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Water seeps downward through crevices, cranks"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    28,
+                    214
+                ],
+                [
+                    108,
+                    244
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Water emerges as seep"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    283,
+                    152
+                ],
+                [
+                    421,
+                    190
+                ]
+            ],
+            "replacementText": "F",
+            "value": "MORE PERMEABLE/ POROUS LAYER"
+        }
+    }
+}

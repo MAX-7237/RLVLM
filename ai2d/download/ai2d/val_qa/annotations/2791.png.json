@@ -1,0 +1,294 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 0.0,
+            "rectangle": [
+                [
+                    218,
+                    91
+                ],
+                [
+                    252,
+                    125
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 0.0,
+            "rectangle": [
+                [
+                    460,
+                    94
+                ],
+                [
+                    491,
+                    125
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    207,
+                    91
+                ],
+                [
+                    204,
+                    128
+                ],
+                [
+                    242,
+                    128
+                ],
+                [
+                    242,
+                    91
+                ],
+                [
+                    210,
+                    90
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    445,
+                    89
+                ],
+                [
+                    443,
+                    125
+                ],
+                [
+                    476,
+                    127
+                ],
+                [
+                    475,
+                    89
+                ],
+                [
+                    445,
+                    90
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    1,
+                    27
+                ],
+                [
+                    206,
+                    27
+                ],
+                [
+                    206,
+                    192
+                ],
+                [
+                    1,
+                    193
+                ],
+                [
+                    2,
+                    27
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    235,
+                    26
+                ],
+                [
+                    441,
+                    27
+                ],
+                [
+                    443,
+                    193
+                ],
+                [
+                    239,
+                    194
+                ],
+                [
+                    240,
+                    26
+                ],
+                [
+                    235,
+                    25
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    476,
+                    27
+                ],
+                [
+                    678,
+                    26
+                ],
+                [
+                    679,
+                    192
+                ],
+                [
+                    473,
+                    193
+                ],
+                [
+                    475,
+                    29
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A1+H1",
+            "origin": "A1"
+        },
+        "B0+A0+B1": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "B1",
+            "hasDirectionality": true,
+            "id": "B0+A0+B1",
+            "origin": "B0"
+        },
+        "B1+A1+B2": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "B2",
+            "hasDirectionality": true,
+            "id": "B1+A1+B2",
+            "origin": "B1"
+        },
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+B1",
+            "origin": "T2"
+        },
+        "T3+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T3+B2",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    289,
+                    14
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Secondary Succession of an Oak and Hickory Forest"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    0,
+                    204
+                ],
+                [
+                    200,
+                    244
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Pioneer species Annual plants grow and are succeeded by grasses and perennials"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    231,
+                    203
+                ],
+                [
+                    417,
+                    244
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Intermediate species Shrubs, then pines, and young oak and hickory begin to grow"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    467,
+                    204
+                ],
+                [
+                    679,
+                    243
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Climax community The mature oak and hickory forest remains stable until the next disturbance."
+        }
+    }
+}

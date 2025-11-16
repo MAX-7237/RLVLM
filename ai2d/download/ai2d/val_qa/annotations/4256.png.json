@@ -1,0 +1,210 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    4,
+                    52
+                ],
+                [
+                    2,
+                    174
+                ],
+                [
+                    174,
+                    174
+                ],
+                [
+                    168,
+                    53
+                ],
+                [
+                    132,
+                    53
+                ],
+                [
+                    134,
+                    32
+                ],
+                [
+                    146,
+                    27
+                ],
+                [
+                    160,
+                    39
+                ],
+                [
+                    161,
+                    26
+                ],
+                [
+                    151,
+                    17
+                ],
+                [
+                    125,
+                    31
+                ],
+                [
+                    119,
+                    0
+                ],
+                [
+                    118,
+                    20
+                ],
+                [
+                    93,
+                    15
+                ],
+                [
+                    113,
+                    29
+                ],
+                [
+                    93,
+                    31
+                ],
+                [
+                    84,
+                    48
+                ],
+                [
+                    110,
+                    51
+                ],
+                [
+                    69,
+                    53
+                ],
+                [
+                    81,
+                    29
+                ],
+                [
+                    55,
+                    21
+                ],
+                [
+                    33,
+                    28
+                ],
+                [
+                    32,
+                    33
+                ],
+                [
+                    36,
+                    51
+                ],
+                [
+                    6,
+                    50
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    38,
+                    184
+                ],
+                [
+                    128,
+                    203
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Layers of soil"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    173,
+                    149
+                ],
+                [
+                    230,
+                    167
+                ]
+            ],
+            "replacementText": "D",
+            "value": "bed rock"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    169,
+                    103
+                ],
+                [
+                    227,
+                    125
+                ]
+            ],
+            "replacementText": "C",
+            "value": "sub soil"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    170,
+                    68
+                ],
+                [
+                    226,
+                    85
+                ]
+            ],
+            "replacementText": "B",
+            "value": "top soil"
+        }
+    }
+}

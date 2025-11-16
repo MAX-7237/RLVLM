@@ -1,0 +1,300 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    4,
+                    91
+                ],
+                [
+                    6,
+                    283
+                ],
+                [
+                    50,
+                    313
+                ],
+                [
+                    137,
+                    315
+                ],
+                [
+                    184,
+                    286
+                ],
+                [
+                    185,
+                    91
+                ],
+                [
+                    185,
+                    44
+                ],
+                [
+                    175,
+                    51
+                ],
+                [
+                    178,
+                    18
+                ],
+                [
+                    162,
+                    40
+                ],
+                [
+                    155,
+                    25
+                ],
+                [
+                    148,
+                    41
+                ],
+                [
+                    135,
+                    29
+                ],
+                [
+                    134,
+                    53
+                ],
+                [
+                    128,
+                    26
+                ],
+                [
+                    129,
+                    3
+                ],
+                [
+                    112,
+                    5
+                ],
+                [
+                    105,
+                    10
+                ],
+                [
+                    88,
+                    0
+                ],
+                [
+                    64,
+                    26
+                ],
+                [
+                    68,
+                    38
+                ],
+                [
+                    62,
+                    50
+                ],
+                [
+                    56,
+                    31
+                ],
+                [
+                    48,
+                    54
+                ],
+                [
+                    38,
+                    37
+                ],
+                [
+                    35,
+                    53
+                ],
+                [
+                    11,
+                    38
+                ],
+                [
+                    25,
+                    75
+                ],
+                [
+                    17,
+                    73
+                ],
+                [
+                    5,
+                    76
+                ],
+                [
+                    2,
+                    92
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T3+I0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        },
+        "T6+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+B0",
+            "origin": "T6"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    182,
+                    162
+                ],
+                [
+                    264,
+                    181
+                ]
+            ],
+            "replacementText": "C",
+            "value": "B horizon"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    181,
+                    212
+                ],
+                [
+                    264,
+                    232
+                ]
+            ],
+            "replacementText": "B",
+            "value": "C horizon"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    180,
+                    255
+                ],
+                [
+                    268,
+                    278
+                ]
+            ],
+            "replacementText": "E",
+            "value": "R horizon"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    151,
+                    303
+                ],
+                [
+                    197,
+                    318
+                ]
+            ],
+            "replacementText": "D",
+            "value": "KA Larake"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    184,
+                    103
+                ],
+                [
+                    263,
+                    121
+                ]
+            ],
+            "replacementText": "F",
+            "value": "A horizon"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    180,
+                    126
+                ],
+                [
+                    264,
+                    146
+                ]
+            ],
+            "replacementText": "G",
+            "value": "E horizon"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    180,
+                    80
+                ],
+                [
+                    264,
+                    99
+                ]
+            ],
+            "replacementText": "A",
+            "value": "O horizon"
+        }
+    }
+}

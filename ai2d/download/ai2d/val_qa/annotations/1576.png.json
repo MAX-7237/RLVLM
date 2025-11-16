@@ -1,0 +1,466 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 22.5,
+            "rectangle": [
+                [
+                    133,
+                    143
+                ],
+                [
+                    153,
+                    163
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 157.5,
+            "rectangle": [
+                [
+                    208,
+                    143
+                ],
+                [
+                    226,
+                    161
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": 337.5,
+            "rectangle": [
+                [
+                    197,
+                    112
+                ],
+                [
+                    215,
+                    130
+                ]
+            ]
+        },
+        "H3": {
+            "id": "H3",
+            "orientation": 202.5,
+            "rectangle": [
+                [
+                    145,
+                    111
+                ],
+                [
+                    165,
+                    131
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    134,
+                    155
+                ],
+                [
+                    126,
+                    144
+                ],
+                [
+                    127,
+                    133
+                ],
+                [
+                    133,
+                    122
+                ],
+                [
+                    144,
+                    118
+                ],
+                [
+                    136,
+                    127
+                ],
+                [
+                    137,
+                    137
+                ],
+                [
+                    138,
+                    143
+                ],
+                [
+                    140,
+                    146
+                ],
+                [
+                    146,
+                    144
+                ],
+                [
+                    153,
+                    157
+                ],
+                [
+                    136,
+                    162
+                ],
+                [
+                    136,
+                    157
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    155,
+                    152
+                ],
+                [
+                    163,
+                    143
+                ],
+                [
+                    163,
+                    133
+                ],
+                [
+                    156,
+                    125
+                ],
+                [
+                    153,
+                    131
+                ],
+                [
+                    144,
+                    116
+                ],
+                [
+                    164,
+                    114
+                ],
+                [
+                    159,
+                    117
+                ],
+                [
+                    170,
+                    131
+                ],
+                [
+                    169,
+                    145
+                ],
+                [
+                    157,
+                    156
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    205,
+                    154
+                ],
+                [
+                    191,
+                    147
+                ],
+                [
+                    187,
+                    128
+                ],
+                [
+                    199,
+                    117
+                ],
+                [
+                    197,
+                    115
+                ],
+                [
+                    215,
+                    118
+                ],
+                [
+                    206,
+                    128
+                ],
+                [
+                    204,
+                    125
+                ],
+                [
+                    197,
+                    135
+                ],
+                [
+                    199,
+                    145
+                ],
+                [
+                    205,
+                    156
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    208,
+                    157
+                ],
+                [
+                    213,
+                    144
+                ],
+                [
+                    217,
+                    148
+                ],
+                [
+                    225,
+                    141
+                ],
+                [
+                    224,
+                    132
+                ],
+                [
+                    215,
+                    117
+                ],
+                [
+                    231,
+                    127
+                ],
+                [
+                    235,
+                    142
+                ],
+                [
+                    224,
+                    156
+                ],
+                [
+                    225,
+                    158
+                ],
+                [
+                    209,
+                    158
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    119,
+                    178
+                ],
+                [
+                    182,
+                    191
+                ],
+                [
+                    238,
+                    181
+                ],
+                [
+                    246,
+                    126
+                ],
+                [
+                    265,
+                    115
+                ],
+                [
+                    268,
+                    105
+                ],
+                [
+                    296,
+                    85
+                ],
+                [
+                    304,
+                    80
+                ],
+                [
+                    307,
+                    90
+                ],
+                [
+                    321,
+                    90
+                ],
+                [
+                    328,
+                    83
+                ],
+                [
+                    327,
+                    73
+                ],
+                [
+                    316,
+                    68
+                ],
+                [
+                    279,
+                    74
+                ],
+                [
+                    250,
+                    99
+                ],
+                [
+                    246,
+                    94
+                ],
+                [
+                    230,
+                    88
+                ],
+                [
+                    195,
+                    85
+                ],
+                [
+                    150,
+                    86
+                ],
+                [
+                    121,
+                    90
+                ],
+                [
+                    113,
+                    96
+                ],
+                [
+                    118,
+                    176
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H3": {
+            "category": "arrowHeadTail",
+            "destination": "H3",
+            "hasDirectionality": false,
+            "id": "A1+H3",
+            "origin": "A1"
+        },
+        "A2+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A2+H2",
+            "origin": "A2"
+        },
+        "A3+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A3+H1",
+            "origin": "A3"
+        },
+        "T0+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T1+I0",
+            "origin": "T1"
+        },
+        "T2+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T2+I0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    5,
+                    31
+                ],
+                [
+                    109,
+                    177
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Soup is heated in the pan by convection. The hot soup rises. Cool soup falls to take the hot soup's place."
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    245,
+                    0
+                ],
+                [
+                    349,
+                    63
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Pan handle is an insulator and doesn't conduct heat very well."
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    251,
+                    129
+                ],
+                [
+                    348,
+                    205
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Heat energy from the stove is transferred to the pan by conduction."
+        }
+    }
+}

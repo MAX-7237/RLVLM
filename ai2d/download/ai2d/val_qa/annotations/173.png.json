@@ -1,0 +1,360 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    34,
+                    91
+                ],
+                [
+                    54,
+                    179
+                ],
+                [
+                    63,
+                    181
+                ],
+                [
+                    39,
+                    85
+                ],
+                [
+                    33,
+                    94
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    115,
+                    176
+                ],
+                [
+                    164,
+                    81
+                ],
+                [
+                    171,
+                    88
+                ],
+                [
+                    120,
+                    185
+                ],
+                [
+                    116,
+                    174
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    227,
+                    210
+                ],
+                [
+                    8,
+                    212
+                ],
+                [
+                    7,
+                    123
+                ],
+                [
+                    32,
+                    118
+                ],
+                [
+                    45,
+                    114
+                ],
+                [
+                    56,
+                    123
+                ],
+                [
+                    66,
+                    118
+                ],
+                [
+                    85,
+                    116
+                ],
+                [
+                    99,
+                    121
+                ],
+                [
+                    111,
+                    123
+                ],
+                [
+                    137,
+                    109
+                ],
+                [
+                    156,
+                    118
+                ],
+                [
+                    175,
+                    123
+                ],
+                [
+                    200,
+                    120
+                ],
+                [
+                    209,
+                    126
+                ],
+                [
+                    227,
+                    124
+                ],
+                [
+                    227,
+                    210
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    246,
+                    124
+                ],
+                [
+                    245,
+                    213
+                ],
+                [
+                    372,
+                    215
+                ],
+                [
+                    380,
+                    232
+                ],
+                [
+                    473,
+                    231
+                ],
+                [
+                    475,
+                    143
+                ],
+                [
+                    454,
+                    143
+                ],
+                [
+                    436,
+                    138
+                ],
+                [
+                    421,
+                    141
+                ],
+                [
+                    390,
+                    128
+                ],
+                [
+                    369,
+                    135
+                ],
+                [
+                    358,
+                    140
+                ],
+                [
+                    345,
+                    136
+                ],
+                [
+                    330,
+                    116
+                ],
+                [
+                    314,
+                    115
+                ],
+                [
+                    303,
+                    122
+                ],
+                [
+                    293,
+                    117
+                ],
+                [
+                    281,
+                    113
+                ],
+                [
+                    272,
+                    121
+                ],
+                [
+                    247,
+                    124
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T1+B1",
+            "origin": "T1"
+        },
+        "T2+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+B1",
+            "origin": "T2"
+        },
+        "T3+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A1+B0",
+            "origin": "T3"
+        },
+        "T4+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A0+B0",
+            "origin": "T4"
+        },
+        "T5+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T5+I0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    30,
+                    15
+                ],
+                [
+                    199,
+                    39
+                ]
+            ],
+            "replacementText": "A",
+            "value": "BEFORE EARTHQUAKE"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    318,
+                    19
+                ],
+                [
+                    476,
+                    35
+                ]
+            ],
+            "replacementText": "D",
+            "value": "AFTER EARTHQUAKE"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    319,
+                    53
+                ],
+                [
+                    471,
+                    93
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Tectonic plates slide over each other"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    141,
+                    67
+                ],
+                [
+                    214,
+                    88
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Fault line"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    9,
+                    69
+                ],
+                [
+                    119,
+                    90
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Tectonic plates"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    383,
+                    230
+                ],
+                [
+                    479,
+                    253
+                ]
+            ],
+            "replacementText": "F",
+            "value": "@ eSchoolToday"
+        }
+    }
+}

@@ -1,0 +1,665 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    7,
+                    130
+                ],
+                [
+                    33,
+                    177
+                ],
+                [
+                    38,
+                    168
+                ],
+                [
+                    18,
+                    125
+                ],
+                [
+                    7,
+                    126
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    110,
+                    415
+                ],
+                [
+                    113,
+                    421
+                ],
+                [
+                    120,
+                    420
+                ],
+                [
+                    128,
+                    422
+                ],
+                [
+                    134,
+                    423
+                ],
+                [
+                    138,
+                    432
+                ],
+                [
+                    145,
+                    435
+                ],
+                [
+                    155,
+                    441
+                ],
+                [
+                    168,
+                    436
+                ],
+                [
+                    174,
+                    438
+                ],
+                [
+                    198,
+                    443
+                ],
+                [
+                    233,
+                    443
+                ],
+                [
+                    279,
+                    441
+                ],
+                [
+                    334,
+                    419
+                ],
+                [
+                    385,
+                    378
+                ],
+                [
+                    424,
+                    328
+                ],
+                [
+                    438,
+                    283
+                ],
+                [
+                    446,
+                    232
+                ],
+                [
+                    442,
+                    195
+                ],
+                [
+                    442,
+                    183
+                ],
+                [
+                    445,
+                    173
+                ],
+                [
+                    441,
+                    163
+                ],
+                [
+                    437,
+                    152
+                ],
+                [
+                    437,
+                    148
+                ],
+                [
+                    432,
+                    139
+                ],
+                [
+                    434,
+                    134
+                ],
+                [
+                    428,
+                    130
+                ],
+                [
+                    429,
+                    121
+                ],
+                [
+                    431,
+                    116
+                ],
+                [
+                    427,
+                    109
+                ],
+                [
+                    424,
+                    108
+                ],
+                [
+                    417,
+                    107
+                ],
+                [
+                    409,
+                    102
+                ],
+                [
+                    405,
+                    93
+                ],
+                [
+                    392,
+                    82
+                ],
+                [
+                    389,
+                    76
+                ],
+                [
+                    382,
+                    68
+                ],
+                [
+                    375,
+                    62
+                ],
+                [
+                    370,
+                    57
+                ],
+                [
+                    357,
+                    50
+                ],
+                [
+                    346,
+                    49
+                ],
+                [
+                    340,
+                    50
+                ],
+                [
+                    328,
+                    48
+                ],
+                [
+                    317,
+                    41
+                ],
+                [
+                    313,
+                    30
+                ],
+                [
+                    303,
+                    27
+                ],
+                [
+                    292,
+                    23
+                ],
+                [
+                    281,
+                    18
+                ],
+                [
+                    274,
+                    18
+                ],
+                [
+                    249,
+                    18
+                ],
+                [
+                    248,
+                    18
+                ],
+                [
+                    228,
+                    16
+                ],
+                [
+                    222,
+                    21
+                ],
+                [
+                    209,
+                    20
+                ],
+                [
+                    193,
+                    21
+                ],
+                [
+                    184,
+                    21
+                ],
+                [
+                    158,
+                    21
+                ],
+                [
+                    153,
+                    23
+                ],
+                [
+                    148,
+                    22
+                ],
+                [
+                    144,
+                    27
+                ],
+                [
+                    136,
+                    32
+                ],
+                [
+                    128,
+                    36
+                ],
+                [
+                    113,
+                    32
+                ],
+                [
+                    116,
+                    43
+                ],
+                [
+                    99,
+                    50
+                ],
+                [
+                    90,
+                    58
+                ],
+                [
+                    82,
+                    70
+                ],
+                [
+                    71,
+                    76
+                ],
+                [
+                    71,
+                    80
+                ],
+                [
+                    59,
+                    92
+                ],
+                [
+                    53,
+                    107
+                ],
+                [
+                    53,
+                    108
+                ],
+                [
+                    51,
+                    115
+                ],
+                [
+                    46,
+                    129
+                ],
+                [
+                    41,
+                    138
+                ],
+                [
+                    40,
+                    145
+                ],
+                [
+                    27,
+                    178
+                ],
+                [
+                    18,
+                    229
+                ],
+                [
+                    25,
+                    273
+                ],
+                [
+                    38,
+                    320
+                ],
+                [
+                    56,
+                    350
+                ],
+                [
+                    73,
+                    374
+                ],
+                [
+                    80,
+                    387
+                ],
+                [
+                    88,
+                    389
+                ],
+                [
+                    97,
+                    392
+                ],
+                [
+                    102,
+                    398
+                ],
+                [
+                    106,
+                    407
+                ],
+                [
+                    110,
+                    417
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A0+B0",
+            "origin": "T1"
+        },
+        "T10+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T10+B0",
+            "origin": "T10"
+        },
+        "T11+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T11+B0",
+            "origin": "T11"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        },
+        "T6+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+B0",
+            "origin": "T6"
+        },
+        "T7+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+B0",
+            "origin": "T7"
+        },
+        "T8+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T8+B0",
+            "origin": "T8"
+        },
+        "T9+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T9+B0",
+            "origin": "T9"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    65,
+                    29
+                ],
+                [
+                    113,
+                    50
+                ]
+            ],
+            "replacementText": "I",
+            "value": "Africa"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    3,
+                    119
+                ],
+                [
+                    45,
+                    139
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Crust"
+        },
+        "T10": {
+            "id": "T10",
+            "rectangle": [
+                [
+                    406,
+                    85
+                ],
+                [
+                    456,
+                    107
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Burma"
+        },
+        "T11": {
+            "id": "T11",
+            "rectangle": [
+                [
+                    404,
+                    369
+                ],
+                [
+                    452,
+                    419
+                ]
+            ],
+            "replacementText": "J",
+            "value": "North Pacific Ocean"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    5,
+                    341
+                ],
+                [
+                    57,
+                    393
+                ]
+            ],
+            "replacementText": "B",
+            "value": "North Atlantic Ocean"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    54,
+                    399
+                ],
+                [
+                    106,
+                    421
+                ]
+            ],
+            "replacementText": "L",
+            "value": "Mexico"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    200,
+                    225
+                ],
+                [
+                    265,
+                    240
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Inner Core"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    197,
+                    147
+                ],
+                [
+                    267,
+                    166
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Outer Core"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    193,
+                    72
+                ],
+                [
+                    271,
+                    97
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Inner Mantle"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    189,
+                    30
+                ],
+                [
+                    269,
+                    52
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Outer Mantle"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    266,
+                    1
+                ],
+                [
+                    306,
+                    20
+                ]
+            ],
+            "replacementText": "K",
+            "value": "Arabia"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    375,
+                    43
+                ],
+                [
+                    418,
+                    64
+                ]
+            ],
+            "replacementText": "A",
+            "value": "India"
+        }
+    }
+}

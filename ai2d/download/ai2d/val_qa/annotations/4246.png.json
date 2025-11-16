@@ -1,0 +1,509 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    95,
+                    108
+                ],
+                [
+                    89,
+                    114
+                ],
+                [
+                    132,
+                    141
+                ],
+                [
+                    134,
+                    135
+                ],
+                [
+                    96,
+                    109
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    136,
+                    554
+                ],
+                [
+                    142,
+                    468
+                ],
+                [
+                    148,
+                    462
+                ],
+                [
+                    142,
+                    441
+                ],
+                [
+                    144,
+                    176
+                ],
+                [
+                    134,
+                    176
+                ],
+                [
+                    134,
+                    167
+                ],
+                [
+                    124,
+                    157
+                ],
+                [
+                    137,
+                    136
+                ],
+                [
+                    149,
+                    117
+                ],
+                [
+                    174,
+                    100
+                ],
+                [
+                    190,
+                    102
+                ],
+                [
+                    215,
+                    100
+                ],
+                [
+                    223,
+                    95
+                ],
+                [
+                    247,
+                    83
+                ],
+                [
+                    259,
+                    78
+                ],
+                [
+                    253,
+                    55
+                ],
+                [
+                    279,
+                    50
+                ],
+                [
+                    282,
+                    62
+                ],
+                [
+                    308,
+                    67
+                ],
+                [
+                    309,
+                    76
+                ],
+                [
+                    302,
+                    79
+                ],
+                [
+                    300,
+                    87
+                ],
+                [
+                    284,
+                    88
+                ],
+                [
+                    283,
+                    95
+                ],
+                [
+                    288,
+                    102
+                ],
+                [
+                    298,
+                    103
+                ],
+                [
+                    306,
+                    107
+                ],
+                [
+                    311,
+                    112
+                ],
+                [
+                    326,
+                    111
+                ],
+                [
+                    343,
+                    111
+                ],
+                [
+                    349,
+                    111
+                ],
+                [
+                    374,
+                    111
+                ],
+                [
+                    385,
+                    108
+                ],
+                [
+                    409,
+                    108
+                ],
+                [
+                    427,
+                    109
+                ],
+                [
+                    434,
+                    96
+                ],
+                [
+                    442,
+                    98
+                ],
+                [
+                    445,
+                    99
+                ],
+                [
+                    445,
+                    89
+                ],
+                [
+                    449,
+                    83
+                ],
+                [
+                    466,
+                    80
+                ],
+                [
+                    472,
+                    85
+                ],
+                [
+                    484,
+                    89
+                ],
+                [
+                    478,
+                    102
+                ],
+                [
+                    479,
+                    108
+                ],
+                [
+                    488,
+                    109
+                ],
+                [
+                    512,
+                    109
+                ],
+                [
+                    529,
+                    97
+                ],
+                [
+                    540,
+                    91
+                ],
+                [
+                    547,
+                    98
+                ],
+                [
+                    559,
+                    104
+                ],
+                [
+                    567,
+                    113
+                ],
+                [
+                    590,
+                    115
+                ],
+                [
+                    599,
+                    100
+                ],
+                [
+                    598,
+                    68
+                ],
+                [
+                    600,
+                    56
+                ],
+                [
+                    608,
+                    47
+                ],
+                [
+                    630,
+                    53
+                ],
+                [
+                    631,
+                    83
+                ],
+                [
+                    638,
+                    108
+                ],
+                [
+                    667,
+                    108
+                ],
+                [
+                    667,
+                    94
+                ],
+                [
+                    678,
+                    89
+                ],
+                [
+                    678,
+                    82
+                ],
+                [
+                    685,
+                    81
+                ],
+                [
+                    696,
+                    91
+                ],
+                [
+                    698,
+                    101
+                ],
+                [
+                    716,
+                    106
+                ],
+                [
+                    738,
+                    107
+                ],
+                [
+                    742,
+                    114
+                ],
+                [
+                    759,
+                    120
+                ],
+                [
+                    760,
+                    133
+                ],
+                [
+                    758,
+                    144
+                ],
+                [
+                    752,
+                    149
+                ],
+                [
+                    750,
+                    150
+                ],
+                [
+                    752,
+                    421
+                ],
+                [
+                    749,
+                    432
+                ],
+                [
+                    752,
+                    508
+                ],
+                [
+                    749,
+                    514
+                ],
+                [
+                    752,
+                    555
+                ],
+                [
+                    134,
+                    553
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A0+B0",
+            "origin": "T4"
+        },
+        "T5+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T5+I0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    635,
+                    562
+                ],
+                [
+                    759,
+                    585
+                ]
+            ],
+            "replacementText": "B",
+            "value": "@Sheri Amsel"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    35,
+                    481
+                ],
+                [
+                    121,
+                    557
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Parent Material actual bedrock underlying the soil layers"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    37,
+                    320
+                ],
+                [
+                    131,
+                    383
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Subsoil crumbling rock, sand, clay, gravel and silt"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    31,
+                    169
+                ],
+                [
+                    137,
+                    284
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Topsoil Layer (or humus) rotting organic matter from litter layer and minerals from weathering rocks "
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    30,
+                    32
+                ],
+                [
+                    147,
+                    110
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Surface Litter leaves, branches, animal scats & bodies, mushrooms, other rotting matter"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    324,
+                    38
+                ],
+                [
+                    511,
+                    65
+                ]
+            ],
+            "replacementText": "F",
+            "value": "The Soil Profile"
+        }
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 157.5,
+            "rectangle": [
+                [
+                    243,
+                    37
+                ],
+                [
+                    248,
+                    46
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 0.0,
+            "rectangle": [
+                [
+                    191,
+                    121
+                ],
+                [
+                    198,
+                    127
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    153,
+                    32
+                ],
+                [
+                    147,
+                    40
+                ],
+                [
+                    186,
+                    78
+                ],
+                [
+                    193,
+                    70
+                ],
+                [
+                    155,
+                    35
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    237,
+                    39
+                ],
+                [
+                    243,
+                    48
+                ],
+                [
+                    280,
+                    29
+                ],
+                [
+                    274,
+                    21
+                ],
+                [
+                    239,
+                    39
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    176,
+                    118
+                ],
+                [
+                    176,
+                    129
+                ],
+                [
+                    199,
+                    130
+                ],
+                [
+                    200,
+                    119
+                ],
+                [
+                    177,
+                    118
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    2,
+                    151
+                ],
+                [
+                    81,
+                    100
+                ],
+                [
+                    110,
+                    75
+                ],
+                [
+                    129,
+                    58
+                ],
+                [
+                    169,
+                    37
+                ],
+                [
+                    210,
+                    31
+                ],
+                [
+                    236,
+                    30
+                ],
+                [
+                    265,
+                    46
+                ],
+                [
+                    272,
+                    50
+                ],
+                [
+                    348,
+                    96
+                ],
+                [
+                    398,
+                    128
+                ],
+                [
+                    399,
+                    236
+                ],
+                [
+                    2,
+                    236
+                ],
+                [
+                    4,
+                    151
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A1+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A1+H0",
+            "origin": "A1"
+        },
+        "A2+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A2+H1",
+            "origin": "A2"
+        },
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        },
+        "T2+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A2+B0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    49,
+                    23
+                ],
+                [
+                    151,
+                    40
+                ]
+            ],
+            "replacementText": "C",
+            "value": "ROCK FRAGMENTS"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    249,
+                    8
+                ],
+                [
+                    379,
+                    26
+                ]
+            ],
+            "replacementText": "A",
+            "value": "cinder cone crater"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    92,
+                    114
+                ],
+                [
+                    181,
+                    134
+                ]
+            ],
+            "replacementText": "B",
+            "value": "CENTRAL VENT"
+        }
+    }
+}

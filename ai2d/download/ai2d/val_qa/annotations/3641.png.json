@@ -1,0 +1,535 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    211,
+                    99
+                ],
+                [
+                    299,
+                    102
+                ],
+                [
+                    299,
+                    94
+                ],
+                [
+                    213,
+                    90
+                ],
+                [
+                    209,
+                    99
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    242,
+                    154
+                ],
+                [
+                    288,
+                    221
+                ],
+                [
+                    296,
+                    217
+                ],
+                [
+                    253,
+                    156
+                ],
+                [
+                    243,
+                    152
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    221,
+                    111
+                ],
+                [
+                    341,
+                    139
+                ],
+                [
+                    340,
+                    146
+                ],
+                [
+                    221,
+                    123
+                ],
+                [
+                    221,
+                    114
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    209,
+                    131
+                ],
+                [
+                    329,
+                    187
+                ],
+                [
+                    334,
+                    181
+                ],
+                [
+                    207,
+                    123
+                ],
+                [
+                    213,
+                    133
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    95,
+                    153
+                ],
+                [
+                    104,
+                    172
+                ],
+                [
+                    177,
+                    131
+                ],
+                [
+                    166,
+                    124
+                ],
+                [
+                    99,
+                    158
+                ],
+                [
+                    93,
+                    150
+                ]
+            ]
+        },
+        "A5": {
+            "id": "A5",
+            "polygon": [
+                [
+                    177,
+                    158
+                ],
+                [
+                    177,
+                    256
+                ],
+                [
+                    167,
+                    254
+                ],
+                [
+                    165,
+                    157
+                ],
+                [
+                    177,
+                    157
+                ]
+            ]
+        },
+        "A6": {
+            "id": "A6",
+            "polygon": [
+                [
+                    125,
+                    221
+                ],
+                [
+                    185,
+                    133
+                ],
+                [
+                    176,
+                    131
+                ],
+                [
+                    112,
+                    214
+                ],
+                [
+                    121,
+                    221
+                ]
+            ]
+        },
+        "A7": {
+            "id": "A7",
+            "polygon": [
+                [
+                    185,
+                    138
+                ],
+                [
+                    226,
+                    222
+                ],
+                [
+                    233,
+                    216
+                ],
+                [
+                    196,
+                    133
+                ],
+                [
+                    189,
+                    141
+                ],
+                [
+                    189,
+                    145
+                ],
+                [
+                    187,
+                    137
+                ]
+            ]
+        },
+        "A8": {
+            "id": "A8",
+            "polygon": [
+                [
+                    120,
+                    122
+                ],
+                [
+                    163,
+                    111
+                ],
+                [
+                    160,
+                    101
+                ],
+                [
+                    109,
+                    113
+                ],
+                [
+                    118,
+                    121
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    117,
+                    26
+                ],
+                [
+                    140,
+                    38
+                ],
+                [
+                    123,
+                    59
+                ],
+                [
+                    124,
+                    92
+                ],
+                [
+                    138,
+                    135
+                ],
+                [
+                    156,
+                    163
+                ],
+                [
+                    227,
+                    196
+                ],
+                [
+                    251,
+                    199
+                ],
+                [
+                    265,
+                    190
+                ],
+                [
+                    264,
+                    128
+                ],
+                [
+                    252,
+                    75
+                ],
+                [
+                    236,
+                    44
+                ],
+                [
+                    218,
+                    23
+                ],
+                [
+                    203,
+                    9
+                ],
+                [
+                    161,
+                    16
+                ],
+                [
+                    130,
+                    4
+                ],
+                [
+                    114,
+                    24
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A8+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A8",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A8+B0",
+            "origin": "T0"
+        },
+        "T1+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A4+B0",
+            "origin": "T1"
+        },
+        "T2+A6+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A6",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A6+B0",
+            "origin": "T2"
+        },
+        "T3+A5+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A5",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A5+B0",
+            "origin": "T3"
+        },
+        "T4+A7+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A7",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A7+B0",
+            "origin": "T4"
+        },
+        "T5+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A1+B0",
+            "origin": "T5"
+        },
+        "T6+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+A3+B0",
+            "origin": "T6"
+        },
+        "T7+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+A2+B0",
+            "origin": "T7"
+        },
+        "T8+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T8+A0+B0",
+            "origin": "T8"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    11,
+                    88
+                ],
+                [
+                    125,
+                    144
+                ]
+            ],
+            "replacementText": "H",
+            "value": "right atrioventricular valve"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    62,
+                    155
+                ],
+                [
+                    124,
+                    187
+                ]
+            ],
+            "replacementText": "E",
+            "value": "right ventricle"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    64,
+                    216
+                ],
+                [
+                    136,
+                    249
+                ]
+            ],
+            "replacementText": "G",
+            "value": "papillary muscle"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    147,
+                    258
+                ],
+                [
+                    229,
+                    312
+                ]
+            ],
+            "replacementText": "C",
+            "value": "right ventricular free wall"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    188,
+                    215
+                ],
+                [
+                    271,
+                    249
+                ]
+            ],
+            "replacementText": "D",
+            "value": "ventricular septum"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    279,
+                    212
+                ],
+                [
+                    396,
+                    249
+                ]
+            ],
+            "replacementText": "A",
+            "value": "left ventricular free wall"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    300,
+                    179
+                ],
+                [
+                    397,
+                    197
+                ]
+            ],
+            "replacementText": "I",
+            "value": "left ventricle"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    295,
+                    138
+                ],
+                [
+                    418,
+                    156
+                ]
+            ],
+            "replacementText": "F",
+            "value": "chorda tendinea"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    298,
+                    71
+                ],
+                [
+                    411,
+                    124
+                ]
+            ],
+            "replacementText": "B",
+            "value": "left atrioventricular valve"
+        }
+    }
+}

@@ -1,0 +1,415 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    152,
+                    527
+                ],
+                [
+                    152,
+                    372
+                ],
+                [
+                    403,
+                    372
+                ],
+                [
+                    403,
+                    532
+                ],
+                [
+                    153,
+                    532
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    685,
+                    467
+                ],
+                [
+                    905,
+                    467
+                ],
+                [
+                    908,
+                    320
+                ],
+                [
+                    687,
+                    318
+                ],
+                [
+                    685,
+                    470
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    675,
+                    768
+                ],
+                [
+                    940,
+                    768
+                ],
+                [
+                    942,
+                    628
+                ],
+                [
+                    675,
+                    628
+                ],
+                [
+                    672,
+                    770
+                ]
+            ]
+        },
+        "B3": {
+            "id": "B3",
+            "polygon": [
+                [
+                    392,
+                    828
+                ],
+                [
+                    162,
+                    827
+                ],
+                [
+                    163,
+                    687
+                ],
+                [
+                    392,
+                    688
+                ],
+                [
+                    392,
+                    825
+                ]
+            ]
+        },
+        "B4": {
+            "id": "B4",
+            "polygon": [
+                [
+                    152,
+                    1130
+                ],
+                [
+                    152,
+                    967
+                ],
+                [
+                    382,
+                    965
+                ],
+                [
+                    380,
+                    1127
+                ],
+                [
+                    155,
+                    1127
+                ]
+            ]
+        },
+        "B5": {
+            "id": "B5",
+            "polygon": [
+                [
+                    697,
+                    1087
+                ],
+                [
+                    695,
+                    910
+                ],
+                [
+                    883,
+                    910
+                ],
+                [
+                    883,
+                    1087
+                ],
+                [
+                    702,
+                    1088
+                ]
+            ]
+        },
+        "B6": {
+            "id": "B6",
+            "polygon": [
+                [
+                    128,
+                    1420
+                ],
+                [
+                    132,
+                    1248
+                ],
+                [
+                    380,
+                    1248
+                ],
+                [
+                    378,
+                    1425
+                ],
+                [
+                    128,
+                    1425
+                ]
+            ]
+        },
+        "B7": {
+            "id": "B7",
+            "polygon": [
+                [
+                    722,
+                    1417
+                ],
+                [
+                    722,
+                    1220
+                ],
+                [
+                    982,
+                    1220
+                ],
+                [
+                    987,
+                    1417
+                ],
+                [
+                    720,
+                    1417
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+B1",
+            "origin": "T2"
+        },
+        "T3+B3": {
+            "category": "intraObjectLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T3+B3",
+            "origin": "T3"
+        },
+        "T4+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T4+B2",
+            "origin": "T4"
+        },
+        "T5+B4": {
+            "category": "intraObjectLabel",
+            "destination": "B4",
+            "hasDirectionality": false,
+            "id": "T5+B4",
+            "origin": "T5"
+        },
+        "T6+B5": {
+            "category": "intraObjectLabel",
+            "destination": "B5",
+            "hasDirectionality": false,
+            "id": "T6+B5",
+            "origin": "T6"
+        },
+        "T7+B6": {
+            "category": "intraObjectLabel",
+            "destination": "B6",
+            "hasDirectionality": false,
+            "id": "T7+B6",
+            "origin": "T7"
+        },
+        "T8+B7": {
+            "category": "intraObjectLabel",
+            "destination": "B7",
+            "hasDirectionality": false,
+            "id": "T8+B7",
+            "origin": "T8"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    77,
+                    83
+                ],
+                [
+                    1082,
+                    190
+                ]
+            ],
+            "replacementText": "I",
+            "value": "Examples of golden algae and other phyla in the Kingdom Protista of one-celled plants and animals"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    92,
+                    217
+                ],
+                [
+                    543,
+                    363
+                ]
+            ],
+            "replacementText": "C",
+            "value": "GOLDEN ALGAE chrysophyta"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    608,
+                    213
+                ],
+                [
+                    1053,
+                    302
+                ]
+            ],
+            "replacementText": "B",
+            "value": "EUCLENOIDS Euglenophyta Motile, single cells; contain chlorophyll, but lack cell walls; some have a red eyepot; with one or more flagella."
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    90,
+                    537
+                ],
+                [
+                    552,
+                    670
+                ]
+            ],
+            "replacementText": "G",
+            "value": "DINOFLAGELLATES Dinoflagellata Single cells with both plant and animal trait; some have cell walls and cellulose plates; with two whip-like flagella, one in a central groove and another placed vertically; some produce toxin and caue red tides"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    610,
+                    497
+                ],
+                [
+                    1027,
+                    607
+                ]
+            ],
+            "replacementText": "E",
+            "value": "ZOOFLAGELLATES ZOOMASTIGOPHORA"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    87,
+                    837
+                ],
+                [
+                    522,
+                    960
+                ]
+            ],
+            "replacementText": "F",
+            "value": "DIATOMS Bacillariophyta Single-celled algae that produce ornate silicon (glass)"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    592,
+                    793
+                ],
+                [
+                    1020,
+                    898
+                ]
+            ],
+            "replacementText": "H",
+            "value": "BROWN ALGAE Pghaeophyta Small cells to very large colonie; typically marine; includes species like kelp and argasum"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    90,
+                    1150
+                ],
+                [
+                    532,
+                    1240
+                ]
+            ],
+            "replacementText": "D",
+            "value": "GREEN ALGAE chlorophyta"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    610,
+                    1107
+                ],
+                [
+                    1068,
+                    1218
+                ]
+            ],
+            "replacementText": "A",
+            "value": "RED ALGAE rhodophyta Most form larger, multi cellular colonies; often marine; contain reddish pigments"
+        }
+    }
+}

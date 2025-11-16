@@ -1,0 +1,38 @@
+{
+    "imageName": "404.png",
+    "questions": {
+        "How many stages shown in diagram?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "4",
+                "3",
+                "2",
+                "1"
+            ],
+            "correctAnswer": 1,
+            "questionId": "404.png-2"
+        },
+        "What does the diagram show as coming after a bulb?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "A young plant",
+                "An adult plant",
+                "Nothing comes after a bulb",
+                "An old plant"
+            ],
+            "correctAnswer": 0,
+            "questionId": "404.png-0"
+        },
+        "What does the diagram show that comes after an adult plant?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "A bulb",
+                "Another adult plant",
+                "An old plant",
+                "A young plant"
+            ],
+            "correctAnswer": 0,
+            "questionId": "404.png-1"
+        }
+    }
+}

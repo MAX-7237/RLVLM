@@ -1,0 +1,49 @@
+{
+    "imageName": "2142.png",
+    "questions": {
+        "In the given diagram, what is the order of the life stages from the youngest to the oldest?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "egg, polyp, polyp with buds, planula, immature medusa, mature medusa",
+                "egg, planula, polyp, mature medusa, polyp with buds, immature medusa",
+                "egg, planula, polyp, polyp with buds, immature medusa, mature medusa",
+                "polyp, egg, polyp with buds, mature medusa, immature medusa"
+            ],
+            "correctAnswer": 2,
+            "questionId": "2142.png-0"
+        },
+        "What is the flat, free-swimming, ciliated larva of a coelenterate called?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "egg",
+                "polyp",
+                "mature medusa",
+                "planula"
+            ],
+            "correctAnswer": 3,
+            "questionId": "2142.png-3"
+        },
+        "What occurs between the Adult Medusa phase and the Planula phase?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "Polyp",
+                "Immature Medusa",
+                "Egg",
+                "Polyp with Buds"
+            ],
+            "correctAnswer": 2,
+            "questionId": "2142.png-2"
+        },
+        "What stage occurs before the Polyp phase?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "Planula",
+                "Egg",
+                "Polyp with buds",
+                "Immature Medusa"
+            ],
+            "correctAnswer": 0,
+            "questionId": "2142.png-1"
+        }
+    }
+}

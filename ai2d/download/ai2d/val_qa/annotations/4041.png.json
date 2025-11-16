@@ -1,0 +1,421 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    380,
+                    74
+                ],
+                [
+                    419,
+                    42
+                ],
+                [
+                    420,
+                    41
+                ],
+                [
+                    420,
+                    41
+                ],
+                [
+                    424,
+                    47
+                ],
+                [
+                    386,
+                    79
+                ],
+                [
+                    385,
+                    79
+                ],
+                [
+                    380,
+                    73
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    434,
+                    165
+                ],
+                [
+                    501,
+                    140
+                ],
+                [
+                    502,
+                    142
+                ],
+                [
+                    505,
+                    152
+                ],
+                [
+                    504,
+                    151
+                ],
+                [
+                    440,
+                    175
+                ],
+                [
+                    436,
+                    175
+                ],
+                [
+                    435,
+                    165
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    117,
+                    267
+                ],
+                [
+                    317,
+                    234
+                ],
+                [
+                    319,
+                    245
+                ],
+                [
+                    120,
+                    279
+                ],
+                [
+                    119,
+                    269
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    119,
+                    159
+                ],
+                [
+                    310,
+                    205
+                ],
+                [
+                    311,
+                    205
+                ],
+                [
+                    315,
+                    197
+                ],
+                [
+                    315,
+                    197
+                ],
+                [
+                    118,
+                    146
+                ],
+                [
+                    114,
+                    157
+                ],
+                [
+                    114,
+                    157
+                ],
+                [
+                    119,
+                    158
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    314,
+                    413
+                ],
+                [
+                    346,
+                    412
+                ],
+                [
+                    377,
+                    405
+                ],
+                [
+                    402,
+                    395
+                ],
+                [
+                    426,
+                    379
+                ],
+                [
+                    452,
+                    353
+                ],
+                [
+                    473,
+                    325
+                ],
+                [
+                    488,
+                    285
+                ],
+                [
+                    493,
+                    264
+                ],
+                [
+                    495,
+                    235
+                ],
+                [
+                    491,
+                    201
+                ],
+                [
+                    478,
+                    165
+                ],
+                [
+                    458,
+                    134
+                ],
+                [
+                    435,
+                    108
+                ],
+                [
+                    408,
+                    89
+                ],
+                [
+                    379,
+                    74
+                ],
+                [
+                    352,
+                    68
+                ],
+                [
+                    326,
+                    65
+                ],
+                [
+                    288,
+                    66
+                ],
+                [
+                    256,
+                    75
+                ],
+                [
+                    232,
+                    86
+                ],
+                [
+                    215,
+                    96
+                ],
+                [
+                    199,
+                    112
+                ],
+                [
+                    181,
+                    130
+                ],
+                [
+                    165,
+                    151
+                ],
+                [
+                    152,
+                    179
+                ],
+                [
+                    144,
+                    206
+                ],
+                [
+                    141,
+                    235
+                ],
+                [
+                    144,
+                    275
+                ],
+                [
+                    154,
+                    304
+                ],
+                [
+                    172,
+                    338
+                ],
+                [
+                    202,
+                    371
+                ],
+                [
+                    225,
+                    389
+                ],
+                [
+                    261,
+                    405
+                ],
+                [
+                    287,
+                    412
+                ],
+                [
+                    314,
+                    415
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        },
+        "T2+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A2+B0",
+            "origin": "T2"
+        },
+        "T3+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A3+B0",
+            "origin": "T3"
+        },
+        "T4+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T4+I0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    431,
+                    32
+                ],
+                [
+                    610,
+                    79
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Crust - very thin like the breadcrumbs of our scotch egg. 6-79km thick"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    501,
+                    140
+                ],
+                [
+                    615,
+                    214
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Mantle - very high temps. Looks like jam! Between 5000 and 1300oC"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    34,
+                    252
+                ],
+                [
+                    122,
+                    319
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Inner Core - Solid made of iron. Up to 5500oC"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    31,
+                    133
+                ],
+                [
+                    122,
+                    179
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Outer Core - Liquid made mostly of iron"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    19,
+                    22
+                ],
+                [
+                    252,
+                    49
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Cross Section of the Earth"
+        }
+    }
+}

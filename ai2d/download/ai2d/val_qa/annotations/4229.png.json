@@ -1,0 +1,249 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    81,
+                    111
+                ],
+                [
+                    0,
+                    222
+                ],
+                [
+                    1,
+                    389
+                ],
+                [
+                    443,
+                    391
+                ],
+                [
+                    498,
+                    312
+                ],
+                [
+                    499,
+                    141
+                ],
+                [
+                    450,
+                    92
+                ],
+                [
+                    343,
+                    87
+                ],
+                [
+                    304,
+                    91
+                ],
+                [
+                    265,
+                    83
+                ],
+                [
+                    241,
+                    81
+                ],
+                [
+                    220,
+                    69
+                ],
+                [
+                    203,
+                    83
+                ],
+                [
+                    188,
+                    77
+                ],
+                [
+                    164,
+                    84
+                ],
+                [
+                    140,
+                    92
+                ],
+                [
+                    119,
+                    89
+                ],
+                [
+                    104,
+                    85
+                ],
+                [
+                    93,
+                    84
+                ],
+                [
+                    86,
+                    88
+                ],
+                [
+                    86,
+                    92
+                ],
+                [
+                    75,
+                    92
+                ],
+                [
+                    66,
+                    103
+                ],
+                [
+                    66,
+                    109
+                ],
+                [
+                    81,
+                    111
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    123,
+                    70
+                ],
+                [
+                    132,
+                    73
+                ],
+                [
+                    147,
+                    77
+                ],
+                [
+                    158,
+                    75
+                ],
+                [
+                    174,
+                    68
+                ],
+                [
+                    172,
+                    60
+                ],
+                [
+                    165,
+                    52
+                ],
+                [
+                    158,
+                    44
+                ],
+                [
+                    147,
+                    45
+                ],
+                [
+                    138,
+                    52
+                ],
+                [
+                    137,
+                    54
+                ],
+                [
+                    127,
+                    54
+                ],
+                [
+                    125,
+                    64
+                ],
+                [
+                    122,
+                    66
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    16,
+                    223
+                ],
+                [
+                    68,
+                    254
+                ]
+            ],
+            "replacementText": "A",
+            "value": "IGNEOUS ROCK"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    206,
+                    343
+                ],
+                [
+                    325,
+                    362
+                ]
+            ],
+            "replacementText": "C",
+            "value": "METAMORPHIC ROCK"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    354,
+                    284
+                ],
+                [
+                    460,
+                    295
+                ]
+            ],
+            "replacementText": "B",
+            "value": "SEDIMENTARY ROCK"
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    162,
+                    23
+                ],
+                [
+                    170,
+                    29
+                ],
+                [
+                    117,
+                    85
+                ],
+                [
+                    106,
+                    77
+                ],
+                [
+                    159,
+                    25
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    265,
+                    102
+                ],
+                [
+                    273,
+                    109
+                ],
+                [
+                    337,
+                    63
+                ],
+                [
+                    329,
+                    56
+                ],
+                [
+                    266,
+                    99
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    4,
+                    40
+                ],
+                [
+                    208,
+                    42
+                ],
+                [
+                    229,
+                    44
+                ],
+                [
+                    238,
+                    51
+                ],
+                [
+                    256,
+                    63
+                ],
+                [
+                    261,
+                    73
+                ],
+                [
+                    274,
+                    74
+                ],
+                [
+                    286,
+                    81
+                ],
+                [
+                    298,
+                    99
+                ],
+                [
+                    301,
+                    117
+                ],
+                [
+                    296,
+                    136
+                ],
+                [
+                    286,
+                    148
+                ],
+                [
+                    272,
+                    155
+                ],
+                [
+                    254,
+                    153
+                ],
+                [
+                    243,
+                    166
+                ],
+                [
+                    225,
+                    173
+                ],
+                [
+                    207,
+                    176
+                ],
+                [
+                    5,
+                    175
+                ],
+                [
+                    3,
+                    41
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    101,
+                    7
+                ],
+                [
+                    270,
+                    28
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Rubber - Insulator"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    236,
+                    38
+                ],
+                [
+                    405,
+                    58
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Copper - Conductor"
+        }
+    }
+}

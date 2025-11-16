@@ -1,0 +1,359 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    237,
+                    76
+                ],
+                [
+                    243,
+                    90
+                ],
+                [
+                    289,
+                    76
+                ],
+                [
+                    283,
+                    62
+                ],
+                [
+                    239,
+                    76
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    251,
+                    150
+                ],
+                [
+                    248,
+                    162
+                ],
+                [
+                    315,
+                    162
+                ],
+                [
+                    319,
+                    152
+                ],
+                [
+                    251,
+                    150
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    203,
+                    205
+                ],
+                [
+                    208,
+                    196
+                ],
+                [
+                    283,
+                    235
+                ],
+                [
+                    285,
+                    242
+                ],
+                [
+                    204,
+                    208
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    24,
+                    168
+                ],
+                [
+                    27,
+                    150
+                ],
+                [
+                    37,
+                    116
+                ],
+                [
+                    48,
+                    89
+                ],
+                [
+                    55,
+                    88
+                ],
+                [
+                    57,
+                    81
+                ],
+                [
+                    75,
+                    68
+                ],
+                [
+                    108,
+                    51
+                ],
+                [
+                    111,
+                    48
+                ],
+                [
+                    113,
+                    48
+                ],
+                [
+                    144,
+                    44
+                ],
+                [
+                    149,
+                    40
+                ],
+                [
+                    169,
+                    44
+                ],
+                [
+                    191,
+                    49
+                ],
+                [
+                    200,
+                    54
+                ],
+                [
+                    215,
+                    59
+                ],
+                [
+                    232,
+                    73
+                ],
+                [
+                    238,
+                    75
+                ],
+                [
+                    247,
+                    88
+                ],
+                [
+                    262,
+                    114
+                ],
+                [
+                    272,
+                    130
+                ],
+                [
+                    275,
+                    143
+                ],
+                [
+                    278,
+                    169
+                ],
+                [
+                    274,
+                    197
+                ],
+                [
+                    264,
+                    224
+                ],
+                [
+                    250,
+                    247
+                ],
+                [
+                    249,
+                    251
+                ],
+                [
+                    234,
+                    264
+                ],
+                [
+                    214,
+                    278
+                ],
+                [
+                    179,
+                    292
+                ],
+                [
+                    151,
+                    295
+                ],
+                [
+                    119,
+                    292
+                ],
+                [
+                    84,
+                    277
+                ],
+                [
+                    56,
+                    253
+                ],
+                [
+                    39,
+                    228
+                ],
+                [
+                    28,
+                    194
+                ],
+                [
+                    25,
+                    167
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A1+B0",
+            "origin": "T0"
+        },
+        "T1+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A2+B0",
+            "origin": "T1"
+        },
+        "T2+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T2+I0",
+            "origin": "T2"
+        },
+        "T3+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T3+I0",
+            "origin": "T3"
+        },
+        "T4+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A0+B0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    319,
+                    147
+                ],
+                [
+                    372,
+                    165
+                ]
+            ],
+            "replacementText": "E",
+            "value": "MANTLE"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    284,
+                    231
+                ],
+                [
+                    452,
+                    253
+                ]
+            ],
+            "replacementText": "D",
+            "value": "CREAMY NOUGAT CENTER"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    365,
+                    279
+                ],
+                [
+                    454,
+                    339
+                ]
+            ],
+            "replacementText": "A",
+            "value": "CN COLLECTION"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    184,
+                    277
+                ],
+                [
+                    232,
+                    298
+                ]
+            ],
+            "replacementText": "C",
+            "value": "GREGORY"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    289,
+                    57
+                ],
+                [
+                    327,
+                    78
+                ]
+            ],
+            "replacementText": "B",
+            "value": "CRUST"
+        }
+    }
+}

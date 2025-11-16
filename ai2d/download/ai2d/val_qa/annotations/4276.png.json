@@ -1,0 +1,544 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    70,
+                    166
+                ],
+                [
+                    107,
+                    141
+                ],
+                [
+                    99,
+                    132
+                ],
+                [
+                    63,
+                    161
+                ],
+                [
+                    69,
+                    167
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    378,
+                    88
+                ],
+                [
+                    384,
+                    60
+                ],
+                [
+                    392,
+                    62
+                ],
+                [
+                    387,
+                    90
+                ],
+                [
+                    377,
+                    90
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    473,
+                    104
+                ],
+                [
+                    486,
+                    121
+                ],
+                [
+                    495,
+                    113
+                ],
+                [
+                    495,
+                    113
+                ],
+                [
+                    481,
+                    95
+                ],
+                [
+                    471,
+                    101
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    482,
+                    190
+                ],
+                [
+                    548,
+                    212
+                ],
+                [
+                    551,
+                    201
+                ],
+                [
+                    487,
+                    180
+                ],
+                [
+                    482,
+                    191
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    346,
+                    228
+                ],
+                [
+                    353,
+                    227
+                ],
+                [
+                    355,
+                    248
+                ],
+                [
+                    342,
+                    248
+                ],
+                [
+                    343,
+                    228
+                ]
+            ]
+        },
+        "A5": {
+            "id": "A5",
+            "polygon": [
+                [
+                    449,
+                    266
+                ],
+                [
+                    481,
+                    263
+                ],
+                [
+                    480,
+                    255
+                ],
+                [
+                    446,
+                    258
+                ],
+                [
+                    446,
+                    266
+                ]
+            ]
+        },
+        "A6": {
+            "id": "A6",
+            "polygon": [
+                [
+                    393,
+                    290
+                ],
+                [
+                    402,
+                    277
+                ],
+                [
+                    397,
+                    272
+                ],
+                [
+                    394,
+                    272
+                ],
+                [
+                    384,
+                    288
+                ],
+                [
+                    391,
+                    291
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    6,
+                    84
+                ],
+                [
+                    5,
+                    359
+                ],
+                [
+                    26,
+                    364
+                ],
+                [
+                    593,
+                    364
+                ],
+                [
+                    591,
+                    76
+                ],
+                [
+                    568,
+                    80
+                ],
+                [
+                    539,
+                    90
+                ],
+                [
+                    515,
+                    81
+                ],
+                [
+                    493,
+                    86
+                ],
+                [
+                    452,
+                    91
+                ],
+                [
+                    425,
+                    80
+                ],
+                [
+                    375,
+                    90
+                ],
+                [
+                    333,
+                    75
+                ],
+                [
+                    268,
+                    91
+                ],
+                [
+                    216,
+                    75
+                ],
+                [
+                    181,
+                    87
+                ],
+                [
+                    175,
+                    37
+                ],
+                [
+                    169,
+                    37
+                ],
+                [
+                    162,
+                    87
+                ],
+                [
+                    156,
+                    87
+                ],
+                [
+                    137,
+                    81
+                ],
+                [
+                    75,
+                    78
+                ],
+                [
+                    67,
+                    29
+                ],
+                [
+                    59,
+                    29
+                ],
+                [
+                    53,
+                    81
+                ],
+                [
+                    5,
+                    83
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        },
+        "T2+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A2+B0",
+            "origin": "T2"
+        },
+        "T3+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+A5+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A5",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A5+B0",
+            "origin": "T5"
+        },
+        "T5+A6+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A6",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A6+B0",
+            "origin": "T5"
+        },
+        "T6+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+A4+B0",
+            "origin": "T6"
+        },
+        "T7+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+B0",
+            "origin": "T7"
+        },
+        "T8+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T8+A0+B0",
+            "origin": "T8"
+        },
+        "T9+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T9+B0",
+            "origin": "T9"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    11,
+                    344
+                ],
+                [
+                    252,
+                    359
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Source: U.S. Energy Information Administration and U.S. Geological Survey"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    339,
+                    48
+                ],
+                [
+                    425,
+                    68
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Land surface"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    442,
+                    112
+                ],
+                [
+                    553,
+                    137
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Coalbed methane"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    434,
+                    152
+                ],
+                [
+                    510,
+                    194
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Conventional associated gas"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    524,
+                    213
+                ],
+                [
+                    547,
+                    228
+                ]
+            ],
+            "replacementText": "I",
+            "value": "Oil"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    386,
+                    258
+                ],
+                [
+                    454,
+                    284
+                ]
+            ],
+            "replacementText": "J",
+            "value": "Tight sand gas"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    334,
+                    214
+                ],
+                [
+                    361,
+                    229
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Seal"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    214,
+                    256
+                ],
+                [
+                    278,
+                    269
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Sandstone"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    70,
+                    93
+                ],
+                [
+                    163,
+                    142
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Conventional non-associated gas"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    310,
+                    318
+                ],
+                [
+                    396,
+                    338
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Gas-rich shale"
+        }
+    }
+}

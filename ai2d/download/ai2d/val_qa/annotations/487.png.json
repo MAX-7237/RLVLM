@@ -1,0 +1,144 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 270.0,
+            "rectangle": [
+                [
+                    116,
+                    31
+                ],
+                [
+                    124,
+                    43
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    116,
+                    139
+                ],
+                [
+                    125,
+                    140
+                ],
+                [
+                    124,
+                    44
+                ],
+                [
+                    129,
+                    44
+                ],
+                [
+                    121,
+                    30
+                ],
+                [
+                    111,
+                    45
+                ],
+                [
+                    117,
+                    45
+                ],
+                [
+                    117,
+                    139
+                ]
+            ]
+        }
+    },
+    "blobs": {},
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "T2+A0+T0": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "T0",
+            "hasDirectionality": true,
+            "id": "T2+A0+T0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    83,
+                    11
+                ],
+                [
+                    155,
+                    30
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Small Fish"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    162,
+                    74
+                ],
+                [
+                    200,
+                    96
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Frog"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    101,
+                    143
+                ],
+                [
+                    139,
+                    160
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Algae"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    33,
+                    77
+                ],
+                [
+                    76,
+                    94
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Insect"
+        }
+    }
+}

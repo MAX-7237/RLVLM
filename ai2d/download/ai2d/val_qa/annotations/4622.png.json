@@ -1,0 +1,334 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    137,
+                    174
+                ],
+                [
+                    199,
+                    162
+                ],
+                [
+                    237,
+                    153
+                ],
+                [
+                    277,
+                    154
+                ],
+                [
+                    302,
+                    159
+                ],
+                [
+                    317,
+                    156
+                ],
+                [
+                    375,
+                    157
+                ],
+                [
+                    381,
+                    164
+                ],
+                [
+                    390,
+                    311
+                ],
+                [
+                    206,
+                    351
+                ],
+                [
+                    161,
+                    340
+                ],
+                [
+                    156,
+                    327
+                ],
+                [
+                    135,
+                    175
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    223,
+                    444
+                ],
+                [
+                    198,
+                    479
+                ],
+                [
+                    189,
+                    510
+                ],
+                [
+                    201,
+                    629
+                ],
+                [
+                    215,
+                    637
+                ],
+                [
+                    215,
+                    637
+                ],
+                [
+                    250,
+                    629
+                ],
+                [
+                    356,
+                    631
+                ],
+                [
+                    369,
+                    631
+                ],
+                [
+                    379,
+                    610
+                ],
+                [
+                    382,
+                    548
+                ],
+                [
+                    367,
+                    451
+                ],
+                [
+                    348,
+                    430
+                ],
+                [
+                    338,
+                    436
+                ],
+                [
+                    289,
+                    446
+                ],
+                [
+                    262,
+                    448
+                ],
+                [
+                    234,
+                    441
+                ],
+                [
+                    225,
+                    441
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    659,
+                    435
+                ],
+                [
+                    621,
+                    447
+                ],
+                [
+                    593,
+                    467
+                ],
+                [
+                    580,
+                    502
+                ],
+                [
+                    604,
+                    561
+                ],
+                [
+                    638,
+                    593
+                ],
+                [
+                    681,
+                    619
+                ],
+                [
+                    694,
+                    615
+                ],
+                [
+                    708,
+                    631
+                ],
+                [
+                    874,
+                    646
+                ],
+                [
+                    900,
+                    586
+                ],
+                [
+                    898,
+                    551
+                ],
+                [
+                    882,
+                    523
+                ],
+                [
+                    830,
+                    469
+                ],
+                [
+                    777,
+                    439
+                ],
+                [
+                    722,
+                    431
+                ],
+                [
+                    660,
+                    436
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+B1",
+            "origin": "T2"
+        },
+        "T3+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T3+B1",
+            "origin": "T3"
+        },
+        "T4+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T4+B2",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    71,
+                    33
+                ],
+                [
+                    838,
+                    85
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Other common mineral crystals include:"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    117,
+                    103
+                ],
+                [
+                    679,
+                    133
+                ]
+            ],
+            "replacementText": "B",
+            "value": "1. Clay minerals (which is another group of silicates)"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    117,
+                    375
+                ],
+                [
+                    293,
+                    401
+                ]
+            ],
+            "replacementText": "C",
+            "value": "2. Non-silicates"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    197,
+                    671
+                ],
+                [
+                    400,
+                    704
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Example: gypsum"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    639,
+                    671
+                ],
+                [
+                    819,
+                    702
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Example: calcite"
+        }
+    }
+}

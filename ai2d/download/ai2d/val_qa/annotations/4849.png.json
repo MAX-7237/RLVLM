@@ -1,0 +1,801 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 11.25,
+            "rectangle": [
+                [
+                    157,
+                    39
+                ],
+                [
+                    163,
+                    45
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 0.0,
+            "rectangle": [
+                [
+                    335,
+                    10
+                ],
+                [
+                    346,
+                    21
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": 180.0,
+            "rectangle": [
+                [
+                    0,
+                    121
+                ],
+                [
+                    16,
+                    137
+                ]
+            ]
+        },
+        "H3": {
+            "id": "H3",
+            "orientation": 180.0,
+            "rectangle": [
+                [
+                    154,
+                    11
+                ],
+                [
+                    164,
+                    21
+                ]
+            ]
+        },
+        "H4": {
+            "id": "H4",
+            "orientation": 0.0,
+            "rectangle": [
+                [
+                    488,
+                    119
+                ],
+                [
+                    499,
+                    140
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    0,
+                    119
+                ],
+                [
+                    0,
+                    141
+                ],
+                [
+                    33,
+                    142
+                ],
+                [
+                    33,
+                    118
+                ],
+                [
+                    0,
+                    118
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    138,
+                    15
+                ],
+                [
+                    144,
+                    16
+                ],
+                [
+                    151,
+                    29
+                ],
+                [
+                    155,
+                    34
+                ],
+                [
+                    167,
+                    38
+                ],
+                [
+                    165,
+                    47
+                ],
+                [
+                    155,
+                    45
+                ],
+                [
+                    145,
+                    38
+                ],
+                [
+                    140,
+                    28
+                ],
+                [
+                    136,
+                    22
+                ],
+                [
+                    136,
+                    16
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    151,
+                    6
+                ],
+                [
+                    151,
+                    22
+                ],
+                [
+                    177,
+                    22
+                ],
+                [
+                    177,
+                    8
+                ],
+                [
+                    153,
+                    8
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    321,
+                    8
+                ],
+                [
+                    322,
+                    24
+                ],
+                [
+                    349,
+                    24
+                ],
+                [
+                    349,
+                    8
+                ],
+                [
+                    323,
+                    8
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    466,
+                    119
+                ],
+                [
+                    467,
+                    144
+                ],
+                [
+                    499,
+                    144
+                ],
+                [
+                    499,
+                    117
+                ],
+                [
+                    467,
+                    117
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    6,
+                    49
+                ],
+                [
+                    45,
+                    45
+                ],
+                [
+                    108,
+                    30
+                ],
+                [
+                    146,
+                    22
+                ],
+                [
+                    165,
+                    35
+                ],
+                [
+                    190,
+                    47
+                ],
+                [
+                    211,
+                    57
+                ],
+                [
+                    247,
+                    51
+                ],
+                [
+                    265,
+                    50
+                ],
+                [
+                    285,
+                    52
+                ],
+                [
+                    300,
+                    54
+                ],
+                [
+                    330,
+                    41
+                ],
+                [
+                    337,
+                    33
+                ],
+                [
+                    351,
+                    22
+                ],
+                [
+                    375,
+                    22
+                ],
+                [
+                    440,
+                    39
+                ],
+                [
+                    495,
+                    45
+                ],
+                [
+                    493,
+                    256
+                ],
+                [
+                    7,
+                    257
+                ],
+                [
+                    8,
+                    49
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A0+H2",
+            "origin": "A0"
+        },
+        "A1+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A1+H0",
+            "origin": "A1"
+        },
+        "A2+H3": {
+            "category": "arrowHeadTail",
+            "destination": "H3",
+            "hasDirectionality": false,
+            "id": "A2+H3",
+            "origin": "A2"
+        },
+        "A3+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A3+H1",
+            "origin": "A3"
+        },
+        "A4+H4": {
+            "category": "arrowHeadTail",
+            "destination": "H4",
+            "hasDirectionality": false,
+            "id": "A4+H4",
+            "origin": "A4"
+        },
+        "T0+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A1+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T10+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T10+A4+B0",
+            "origin": "T10"
+        },
+        "T11+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T11+B0",
+            "origin": "T11"
+        },
+        "T12+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T12+B0",
+            "origin": "T12"
+        },
+        "T13+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T13+B0",
+            "origin": "T13"
+        },
+        "T14+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T14+B0",
+            "origin": "T14"
+        },
+        "T15+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T15+B0",
+            "origin": "T15"
+        },
+        "T16+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T16+B0",
+            "origin": "T16"
+        },
+        "T17+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T17+B0",
+            "origin": "T17"
+        },
+        "T18+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T18+B0",
+            "origin": "T18"
+        },
+        "T19+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T19+B0",
+            "origin": "T19"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        },
+        "T6+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+B0",
+            "origin": "T6"
+        },
+        "T7+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+A0+B0",
+            "origin": "T7"
+        },
+        "T8+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T8+B0",
+            "origin": "T8"
+        },
+        "T9+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T9+B0",
+            "origin": "T9"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    47,
+                    13
+                ],
+                [
+                    140,
+                    27
+                ]
+            ],
+            "replacementText": "T",
+            "value": "Rim boundary fault"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    174,
+                    4
+                ],
+                [
+                    317,
+                    23
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Yellowstone Caldera"
+        },
+        "T10": {
+            "id": "T10",
+            "rectangle": [
+                [
+                    379,
+                    119
+                ],
+                [
+                    469,
+                    137
+                ]
+            ],
+            "replacementText": "P",
+            "value": "Crustal stretching"
+        },
+        "T11": {
+            "id": "T11",
+            "rectangle": [
+                [
+                    212,
+                    113
+                ],
+                [
+                    293,
+                    139
+                ]
+            ],
+            "replacementText": "O",
+            "value": "Granitic magma (partial melt)"
+        },
+        "T12": {
+            "id": "T12",
+            "rectangle": [
+                [
+                    152,
+                    163
+                ],
+                [
+                    233,
+                    192
+                ]
+            ],
+            "replacementText": "I",
+            "value": "Basalt magma intrusion zone"
+        },
+        "T13": {
+            "id": "T13",
+            "rectangle": [
+                [
+                    217,
+                    144
+                ],
+                [
+                    286,
+                    152
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Basaltic magma"
+        },
+        "T14": {
+            "id": "T14",
+            "rectangle": [
+                [
+                    56,
+                    240
+                ],
+                [
+                    437,
+                    257
+                ]
+            ],
+            "replacementText": "S",
+            "value": "Yellowstone hotspot upper mantle magma and heat source"
+        },
+        "T15": {
+            "id": "T15",
+            "rectangle": [
+                [
+                    199,
+                    221
+                ],
+                [
+                    317,
+                    239
+                ]
+            ],
+            "replacementText": "J",
+            "value": "Rising basaltic magma"
+        },
+        "T16": {
+            "id": "T16",
+            "rectangle": [
+                [
+                    193,
+                    56
+                ],
+                [
+                    299,
+                    67
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Shallow hot water reservoirs"
+        },
+        "T17": {
+            "id": "T17",
+            "rectangle": [
+                [
+                    259,
+                    70
+                ],
+                [
+                    294,
+                    78
+                ]
+            ],
+            "replacementText": "R",
+            "value": "Freshwater"
+        },
+        "T18": {
+            "id": "T18",
+            "rectangle": [
+                [
+                    200,
+                    71
+                ],
+                [
+                    238,
+                    78
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Freshwater"
+        },
+        "T19": {
+            "id": "T19",
+            "rectangle": [
+                [
+                    199,
+                    83
+                ],
+                [
+                    220,
+                    93
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Belna"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    176,
+                    30
+                ],
+                [
+                    208,
+                    41
+                ]
+            ],
+            "replacementText": "K",
+            "value": "Geysers"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    219,
+                    33
+                ],
+                [
+                    284,
+                    43
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Resurgent dome"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    296,
+                    30
+                ],
+                [
+                    330,
+                    39
+                ]
+            ],
+            "replacementText": "N",
+            "value": "Geysers"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    383,
+                    61
+                ],
+                [
+                    459,
+                    77
+                ]
+            ],
+            "replacementText": "M",
+            "value": "Earthquakes"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    21,
+                    62
+                ],
+                [
+                    95,
+                    78
+                ]
+            ],
+            "replacementText": "Q",
+            "value": "Earthquakes"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    28,
+                    123
+                ],
+                [
+                    117,
+                    137
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Crustal stretching"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    43,
+                    149
+                ],
+                [
+                    84,
+                    175
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Brittle Plastic"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    396,
+                    140
+                ],
+                [
+                    434,
+                    171
+                ]
+            ],
+            "replacementText": "L",
+            "value": "Brittle"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "imageName": "11.png",
+    "questions": {
+        "The cactus is surrounded with these.": {
+            "abcLabel": false,
+            "answerTexts": [
+                "Oxygen",
+                "Leaves",
+                "Stems",
+                "Needle-like leaves"
+            ],
+            "correctAnswer": 3,
+            "questionId": "11.png-1"
+        },
+        "Which label represents leaves?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "A",
+                "{}",
+                "B",
+                "{}"
+            ],
+            "correctAnswer": 2,
+            "questionId": "11.png-0"
+        },
+        "Which label represents stem?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "{}",
+                "A",
+                "{}",
+                "B"
+            ],
+            "correctAnswer": 1,
+            "questionId": "11.png-2"
+        }
+    }
+}

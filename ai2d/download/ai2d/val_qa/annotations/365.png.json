@@ -1,0 +1,368 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 135.0,
+            "rectangle": [
+                [
+                    577,
+                    814
+                ],
+                [
+                    629,
+                    857
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 45.0,
+            "rectangle": [
+                [
+                    456,
+                    386
+                ],
+                [
+                    496,
+                    424
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    571,
+                    822
+                ],
+                [
+                    681,
+                    750
+                ],
+                [
+                    707,
+                    776
+                ],
+                [
+                    623,
+                    883
+                ],
+                [
+                    617,
+                    883
+                ],
+                [
+                    617,
+                    883
+                ],
+                [
+                    571,
+                    822
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    384,
+                    337
+                ],
+                [
+                    470,
+                    441
+                ],
+                [
+                    476,
+                    435
+                ],
+                [
+                    525,
+                    404
+                ],
+                [
+                    418,
+                    320
+                ],
+                [
+                    389,
+                    337
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    366,
+                    505
+                ],
+                [
+                    663,
+                    326
+                ],
+                [
+                    741,
+                    283
+                ],
+                [
+                    735,
+                    245
+                ],
+                [
+                    681,
+                    182
+                ],
+                [
+                    695,
+                    104
+                ],
+                [
+                    750,
+                    43
+                ],
+                [
+                    836,
+                    20
+                ],
+                [
+                    940,
+                    17
+                ],
+                [
+                    1024,
+                    58
+                ],
+                [
+                    1093,
+                    138
+                ],
+                [
+                    1090,
+                    239
+                ],
+                [
+                    1061,
+                    309
+                ],
+                [
+                    1373,
+                    508
+                ],
+                [
+                    888,
+                    522
+                ],
+                [
+                    923,
+                    903
+                ],
+                [
+                    1064,
+                    937
+                ],
+                [
+                    1113,
+                    972
+                ],
+                [
+                    1180,
+                    1096
+                ],
+                [
+                    1180,
+                    1145
+                ],
+                [
+                    626,
+                    1148
+                ],
+                [
+                    611,
+                    1113
+                ],
+                [
+                    620,
+                    1056
+                ],
+                [
+                    640,
+                    1035
+                ],
+                [
+                    490,
+                    946
+                ],
+                [
+                    395,
+                    946
+                ],
+                [
+                    297,
+                    926
+                ],
+                [
+                    208,
+                    911
+                ],
+                [
+                    115,
+                    911
+                ],
+                [
+                    84,
+                    865
+                ],
+                [
+                    141,
+                    805
+                ],
+                [
+                    248,
+                    784
+                ],
+                [
+                    349,
+                    764
+                ],
+                [
+                    485,
+                    782
+                ],
+                [
+                    559,
+                    825
+                ],
+                [
+                    591,
+                    888
+                ],
+                [
+                    531,
+                    940
+                ],
+                [
+                    660,
+                    1004
+                ],
+                [
+                    709,
+                    957
+                ],
+                [
+                    808,
+                    923
+                ],
+                [
+                    862,
+                    908
+                ],
+                [
+                    865,
+                    513
+                ],
+                [
+                    369,
+                    510
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A1+H1",
+            "origin": "A1"
+        },
+        "T0+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A1+B0",
+            "origin": "T0"
+        },
+        "T1+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A0+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    20,
+                    29
+                ],
+                [
+                    704,
+                    340
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Extrusive igneous rocks cool quickly and as a result these rocks are fine grained or has lack of crystal growth."
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    6,
+                    513
+                ],
+                [
+                    857,
+                    764
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Intrusive igneous rocks are formed from magma that cools slowly and a result these rocks are coarse grained."
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    730,
+                    955
+                ],
+                [
+                    1099,
+                    1125
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Magma chamber"
+        }
+    }
+}

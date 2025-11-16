@@ -1,0 +1,262 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 191.25,
+            "rectangle": [
+                [
+                    480,
+                    618
+                ],
+                [
+                    507,
+                    645
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 180.0,
+            "rectangle": [
+                [
+                    204,
+                    120
+                ],
+                [
+                    273,
+                    189
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    410,
+                    138
+                ],
+                [
+                    259,
+                    137
+                ],
+                [
+                    258,
+                    118
+                ],
+                [
+                    205,
+                    154
+                ],
+                [
+                    261,
+                    192
+                ],
+                [
+                    259,
+                    175
+                ],
+                [
+                    411,
+                    173
+                ],
+                [
+                    411,
+                    141
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    546,
+                    638
+                ],
+                [
+                    507,
+                    625
+                ],
+                [
+                    508,
+                    617
+                ],
+                [
+                    478,
+                    623
+                ],
+                [
+                    500,
+                    641
+                ],
+                [
+                    506,
+                    636
+                ],
+                [
+                    546,
+                    646
+                ],
+                [
+                    547,
+                    640
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    19,
+                    198
+                ],
+                [
+                    417,
+                    195
+                ],
+                [
+                    433,
+                    240
+                ],
+                [
+                    489,
+                    246
+                ],
+                [
+                    535,
+                    259
+                ],
+                [
+                    672,
+                    262
+                ],
+                [
+                    869,
+                    266
+                ],
+                [
+                    866,
+                    690
+                ],
+                [
+                    27,
+                    690
+                ],
+                [
+                    22,
+                    198
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A0+H1",
+            "origin": "A0"
+        },
+        "A1+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A1+H0",
+            "origin": "A1"
+        },
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T2+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T2+I0",
+            "origin": "T2"
+        },
+        "T3+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A1+B0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    192,
+                    4
+                ],
+                [
+                    708,
+                    52
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Formation of a waterfall"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    485,
+                    111
+                ],
+                [
+                    830,
+                    201
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Waterfall Retreats upstream"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    66,
+                    523
+                ],
+                [
+                    327,
+                    615
+                ]
+            ],
+            "replacementText": "B",
+            "value": "The process starts again"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    573,
+                    618
+                ],
+                [
+                    831,
+                    666
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Eroded rock"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "imageName": "2217.png",
+    "questions": {
+        "How many stages in diagram?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "3",
+                "5",
+                "4",
+                "32"
+            ],
+            "correctAnswer": 1,
+            "questionId": "2217.png-3"
+        },
+        "How many steps shown?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "2",
+                "4",
+                "5",
+                "3"
+            ],
+            "correctAnswer": 2,
+            "questionId": "2217.png-2"
+        },
+        "What are the possible stages comes after dormancy stage?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "Seed or Death",
+                "Vegetative Growth or Flower",
+                "Flower or Seed",
+                "Death or Vegetative Growth"
+            ],
+            "correctAnswer": 3,
+            "questionId": "2217.png-1"
+        },
+        "Which step is vegetative growth?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "B",
+                "E",
+                "A",
+                "C"
+            ],
+            "correctAnswer": 1,
+            "questionId": "2217.png-0"
+        }
+    }
+}

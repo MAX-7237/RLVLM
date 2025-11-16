@@ -1,0 +1,403 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    0,
+                    190
+                ],
+                [
+                    18,
+                    200
+                ],
+                [
+                    52,
+                    214
+                ],
+                [
+                    107,
+                    238
+                ],
+                [
+                    165,
+                    247
+                ],
+                [
+                    172,
+                    272
+                ],
+                [
+                    194,
+                    312
+                ],
+                [
+                    204,
+                    285
+                ],
+                [
+                    208,
+                    267
+                ],
+                [
+                    200,
+                    250
+                ],
+                [
+                    288,
+                    249
+                ],
+                [
+                    353,
+                    230
+                ],
+                [
+                    400,
+                    264
+                ],
+                [
+                    425,
+                    273
+                ],
+                [
+                    404,
+                    235
+                ],
+                [
+                    405,
+                    215
+                ],
+                [
+                    442,
+                    197
+                ],
+                [
+                    493,
+                    182
+                ],
+                [
+                    532,
+                    240
+                ],
+                [
+                    577,
+                    275
+                ],
+                [
+                    602,
+                    275
+                ],
+                [
+                    569,
+                    249
+                ],
+                [
+                    538,
+                    197
+                ],
+                [
+                    542,
+                    134
+                ],
+                [
+                    573,
+                    80
+                ],
+                [
+                    605,
+                    52
+                ],
+                [
+                    560,
+                    73
+                ],
+                [
+                    515,
+                    112
+                ],
+                [
+                    492,
+                    157
+                ],
+                [
+                    449,
+                    147
+                ],
+                [
+                    387,
+                    118
+                ],
+                [
+                    372,
+                    110
+                ],
+                [
+                    368,
+                    92
+                ],
+                [
+                    400,
+                    47
+                ],
+                [
+                    400,
+                    40
+                ],
+                [
+                    377,
+                    55
+                ],
+                [
+                    345,
+                    75
+                ],
+                [
+                    315,
+                    100
+                ],
+                [
+                    310,
+                    93
+                ],
+                [
+                    295,
+                    89
+                ],
+                [
+                    278,
+                    83
+                ],
+                [
+                    262,
+                    83
+                ],
+                [
+                    239,
+                    79
+                ],
+                [
+                    189,
+                    23
+                ],
+                [
+                    174,
+                    48
+                ],
+                [
+                    160,
+                    90
+                ],
+                [
+                    107,
+                    105
+                ],
+                [
+                    32,
+                    143
+                ],
+                [
+                    0,
+                    168
+                ],
+                [
+                    23,
+                    180
+                ],
+                [
+                    0,
+                    185
+                ],
+                [
+                    2,
+                    194
+                ],
+                [
+                    0,
+                    187
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        },
+        "T7+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+B0",
+            "origin": "T7"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    146,
+                    2
+                ],
+                [
+                    284,
+                    26
+                ]
+            ],
+            "replacementText": "C",
+            "value": "First dorsal fin"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    314,
+                    19
+                ],
+                [
+                    470,
+                    48
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Second dorsal fin"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    412,
+                    106
+                ],
+                [
+                    473,
+                    126
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Finlets"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    541,
+                    143
+                ],
+                [
+                    608,
+                    187
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Caudal fin"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    437,
+                    195
+                ],
+                [
+                    498,
+                    218
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Finlets"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    362,
+                    272
+                ],
+                [
+                    441,
+                    301
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Anal fin"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    143,
+                    302
+                ],
+                [
+                    236,
+                    329
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Pelvic fins"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    162,
+                    191
+                ],
+                [
+                    277,
+                    212
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Pectoral fins"
+        }
+    }
+}

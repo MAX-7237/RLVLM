@@ -1,0 +1,308 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 90.0,
+            "rectangle": [
+                [
+                    292,
+                    171
+                ],
+                [
+                    300,
+                    179
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 90.0,
+            "rectangle": [
+                [
+                    291,
+                    79
+                ],
+                [
+                    301,
+                    89
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": 90.0,
+            "rectangle": [
+                [
+                    291,
+                    124
+                ],
+                [
+                    301,
+                    134
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    289,
+                    66
+                ],
+                [
+                    302,
+                    67
+                ],
+                [
+                    303,
+                    87
+                ],
+                [
+                    289,
+                    87
+                ],
+                [
+                    291,
+                    68
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    301,
+                    114
+                ],
+                [
+                    303,
+                    129
+                ],
+                [
+                    295,
+                    135
+                ],
+                [
+                    288,
+                    132
+                ],
+                [
+                    290,
+                    111
+                ],
+                [
+                    302,
+                    114
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    303,
+                    160
+                ],
+                [
+                    303,
+                    178
+                ],
+                [
+                    294,
+                    179
+                ],
+                [
+                    290,
+                    178
+                ],
+                [
+                    291,
+                    158
+                ],
+                [
+                    302,
+                    158
+                ]
+            ]
+        }
+    },
+    "blobs": {},
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A0+H1",
+            "origin": "A0"
+        },
+        "A1+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A1+H2",
+            "origin": "A1"
+        },
+        "A2+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A2+H0",
+            "origin": "A2"
+        },
+        "T4+A0+T5": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "T5",
+            "hasDirectionality": true,
+            "id": "T4+A0+T5",
+            "origin": "T4"
+        },
+        "T5+A1+T6": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "T6",
+            "hasDirectionality": true,
+            "id": "T5+A1+T6",
+            "origin": "T5"
+        },
+        "T6+A2+T7": {
+            "category": "interObjectLinkage",
+            "connector": "A2",
+            "destination": "T7",
+            "hasDirectionality": true,
+            "id": "T6+A2+T7",
+            "origin": "T6"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    79,
+                    44
+                ],
+                [
+                    160,
+                    85
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Tertiary Consumers "
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    79,
+                    93
+                ],
+                [
+                    164,
+                    135
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Secondary consumers "
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    53,
+                    141
+                ],
+                [
+                    191,
+                    161
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Primary consumers "
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    82,
+                    173
+                ],
+                [
+                    160,
+                    190
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Producers "
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    274,
+                    47
+                ],
+                [
+                    320,
+                    65
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Snake "
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    277,
+                    91
+                ],
+                [
+                    319,
+                    115
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Frog "
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    248,
+                    135
+                ],
+                [
+                    352,
+                    159
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Grasshopper "
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    269,
+                    174
+                ],
+                [
+                    321,
+                    196
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Grass"
+        }
+    }
+}

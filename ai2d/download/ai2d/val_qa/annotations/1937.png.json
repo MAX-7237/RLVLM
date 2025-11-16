@@ -1,0 +1,488 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    444,
+                    205
+                ],
+                [
+                    479,
+                    225
+                ],
+                [
+                    600,
+                    127
+                ],
+                [
+                    575,
+                    114
+                ],
+                [
+                    445,
+                    201
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    614,
+                    132
+                ],
+                [
+                    759,
+                    228
+                ],
+                [
+                    775,
+                    203
+                ],
+                [
+                    637,
+                    114
+                ],
+                [
+                    617,
+                    131
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    462,
+                    371
+                ],
+                [
+                    421,
+                    518
+                ],
+                [
+                    455,
+                    528
+                ],
+                [
+                    495,
+                    374
+                ],
+                [
+                    468,
+                    373
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    124,
+                    516
+                ],
+                [
+                    164,
+                    523
+                ],
+                [
+                    464,
+                    381
+                ],
+                [
+                    464,
+                    363
+                ],
+                [
+                    127,
+                    515
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    498,
+                    374
+                ],
+                [
+                    782,
+                    523
+                ],
+                [
+                    806,
+                    512
+                ],
+                [
+                    505,
+                    360
+                ],
+                [
+                    495,
+                    375
+                ]
+            ]
+        },
+        "A5": {
+            "id": "A5",
+            "polygon": [
+                [
+                    762,
+                    370
+                ],
+                [
+                    1124,
+                    523
+                ],
+                [
+                    1131,
+                    505
+                ],
+                [
+                    774,
+                    360
+                ],
+                [
+                    762,
+                    371
+                ]
+            ]
+        },
+        "A6": {
+            "id": "A6",
+            "polygon": [
+                [
+                    145,
+                    677
+                ],
+                [
+                    347,
+                    761
+                ],
+                [
+                    435,
+                    674
+                ],
+                [
+                    424,
+                    666
+                ],
+                [
+                    351,
+                    744
+                ],
+                [
+                    155,
+                    664
+                ],
+                [
+                    146,
+                    673
+                ]
+            ]
+        },
+        "A7": {
+            "id": "A7",
+            "polygon": [
+                [
+                    789,
+                    676
+                ],
+                [
+                    878,
+                    767
+                ],
+                [
+                    1118,
+                    671
+                ],
+                [
+                    1112,
+                    664
+                ],
+                [
+                    887,
+                    754
+                ],
+                [
+                    796,
+                    664
+                ],
+                [
+                    791,
+                    673
+                ]
+            ]
+        },
+        "A8": {
+            "id": "A8",
+            "polygon": [
+                [
+                    367,
+                    892
+                ],
+                [
+                    634,
+                    986
+                ],
+                [
+                    876,
+                    890
+                ],
+                [
+                    863,
+                    885
+                ],
+                [
+                    631,
+                    969
+                ],
+                [
+                    378,
+                    883
+                ],
+                [
+                    367,
+                    889
+                ]
+            ]
+        }
+    },
+    "blobs": {},
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+T1": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "T1",
+            "hasDirectionality": false,
+            "id": "T0+A0+T1",
+            "origin": "T0"
+        },
+        "T0+A1+T2": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "T2",
+            "hasDirectionality": false,
+            "id": "T0+A1+T2",
+            "origin": "T0"
+        },
+        "T1+A2+T4": {
+            "category": "interObjectLinkage",
+            "connector": "A2",
+            "destination": "T4",
+            "hasDirectionality": false,
+            "id": "T1+A2+T4",
+            "origin": "T1"
+        },
+        "T1+A3+T3": {
+            "category": "interObjectLinkage",
+            "connector": "A3",
+            "destination": "T3",
+            "hasDirectionality": false,
+            "id": "T1+A3+T3",
+            "origin": "T1"
+        },
+        "T1+A4+T5": {
+            "category": "interObjectLinkage",
+            "connector": "A4",
+            "destination": "T5",
+            "hasDirectionality": false,
+            "id": "T1+A4+T5",
+            "origin": "T1"
+        },
+        "T2+A5+T6": {
+            "category": "interObjectLinkage",
+            "connector": "A5",
+            "destination": "T6",
+            "hasDirectionality": false,
+            "id": "T2+A5+T6",
+            "origin": "T2"
+        },
+        "T3+A6+T4": {
+            "category": "interObjectLinkage",
+            "connector": "A6",
+            "destination": "T4",
+            "hasDirectionality": false,
+            "id": "T3+A6+T4",
+            "origin": "T3"
+        },
+        "T5+A7+T6": {
+            "category": "interObjectLinkage",
+            "connector": "A7",
+            "destination": "T6",
+            "hasDirectionality": false,
+            "id": "T5+A7+T6",
+            "origin": "T5"
+        },
+        "T7+A8+T9": {
+            "category": "interObjectLinkage",
+            "connector": "A8",
+            "destination": "T9",
+            "hasDirectionality": false,
+            "id": "T7+A8+T9",
+            "origin": "T7"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    444,
+                    26
+                ],
+                [
+                    767,
+                    92
+                ]
+            ],
+            "replacementText": "E",
+            "value": "20 predators"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    340,
+                    236
+                ],
+                [
+                    572,
+                    348
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Predator Fishes"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    654,
+                    233
+                ],
+                [
+                    883,
+                    347
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Predator Inverts"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    17,
+                    535
+                ],
+                [
+                    272,
+                    653
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Herbivore Fishes"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    303,
+                    538
+                ],
+                [
+                    562,
+                    649
+                ]
+            ],
+            "replacementText": "I",
+            "value": "Herbivore Inverts"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    658,
+                    536
+                ],
+                [
+                    951,
+                    647
+                ]
+            ],
+            "replacementText": "J",
+            "value": "Planktivore Fishes"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    978,
+                    536
+                ],
+                [
+                    1269,
+                    647
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Planktivore Inverts"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    274,
+                    802
+                ],
+                [
+                    438,
+                    860
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Algae"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    478,
+                    1007
+                ],
+                [
+                    772,
+                    1118
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Primary Production"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    769,
+                    804
+                ],
+                [
+                    996,
+                    852
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Plankton"
+        }
+    }
+}

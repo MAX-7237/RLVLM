@@ -1,0 +1,239 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    50,
+                    28
+                ],
+                [
+                    101,
+                    29
+                ],
+                [
+                    100,
+                    19
+                ],
+                [
+                    47,
+                    22
+                ],
+                [
+                    47,
+                    25
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    54,
+                    54
+                ],
+                [
+                    90,
+                    54
+                ],
+                [
+                    90,
+                    45
+                ],
+                [
+                    55,
+                    45
+                ],
+                [
+                    54,
+                    51
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    56,
+                    88
+                ],
+                [
+                    61,
+                    81
+                ],
+                [
+                    86,
+                    94
+                ],
+                [
+                    82,
+                    101
+                ],
+                [
+                    56,
+                    89
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    22,
+                    137
+                ],
+                [
+                    4,
+                    92
+                ],
+                [
+                    13,
+                    65
+                ],
+                [
+                    23,
+                    61
+                ],
+                [
+                    14,
+                    16
+                ],
+                [
+                    21,
+                    11
+                ],
+                [
+                    36,
+                    19
+                ],
+                [
+                    52,
+                    14
+                ],
+                [
+                    64,
+                    18
+                ],
+                [
+                    69,
+                    10
+                ],
+                [
+                    84,
+                    15
+                ],
+                [
+                    73,
+                    35
+                ],
+                [
+                    72,
+                    56
+                ],
+                [
+                    87,
+                    66
+                ],
+                [
+                    90,
+                    77
+                ],
+                [
+                    92,
+                    96
+                ],
+                [
+                    68,
+                    145
+                ],
+                [
+                    23,
+                    140
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        },
+        "T2+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A2+B0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    91,
+                    19
+                ],
+                [
+                    118,
+                    31
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Head"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    86,
+                    42
+                ],
+                [
+                    118,
+                    55
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Thorax"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    78,
+                    94
+                ],
+                [
+                    118,
+                    106
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Abdomen"
+        }
+    }
+}

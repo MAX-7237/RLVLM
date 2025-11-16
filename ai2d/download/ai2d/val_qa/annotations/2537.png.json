@@ -1,0 +1,429 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    137,
+                    236
+                ],
+                [
+                    131,
+                    300
+                ],
+                [
+                    128,
+                    394
+                ],
+                [
+                    137,
+                    481
+                ],
+                [
+                    161,
+                    482
+                ],
+                [
+                    225,
+                    457
+                ],
+                [
+                    257,
+                    410
+                ],
+                [
+                    270,
+                    356
+                ],
+                [
+                    255,
+                    296
+                ],
+                [
+                    225,
+                    259
+                ],
+                [
+                    176,
+                    235
+                ],
+                [
+                    132,
+                    233
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    449,
+                    229
+                ],
+                [
+                    427,
+                    279
+                ],
+                [
+                    414,
+                    340
+                ],
+                [
+                    422,
+                    415
+                ],
+                [
+                    447,
+                    484
+                ],
+                [
+                    479,
+                    482
+                ],
+                [
+                    536,
+                    462
+                ],
+                [
+                    572,
+                    414
+                ],
+                [
+                    589,
+                    353
+                ],
+                [
+                    566,
+                    292
+                ],
+                [
+                    533,
+                    253
+                ],
+                [
+                    479,
+                    233
+                ],
+                [
+                    452,
+                    232
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    777,
+                    481
+                ],
+                [
+                    802,
+                    485
+                ],
+                [
+                    842,
+                    476
+                ],
+                [
+                    879,
+                    438
+                ],
+                [
+                    893,
+                    420
+                ],
+                [
+                    905,
+                    390
+                ],
+                [
+                    912,
+                    357
+                ],
+                [
+                    905,
+                    320
+                ],
+                [
+                    890,
+                    287
+                ],
+                [
+                    868,
+                    263
+                ],
+                [
+                    828,
+                    239
+                ],
+                [
+                    779,
+                    232
+                ],
+                [
+                    759,
+                    238
+                ],
+                [
+                    744,
+                    252
+                ],
+                [
+                    731,
+                    274
+                ],
+                [
+                    713,
+                    316
+                ],
+                [
+                    713,
+                    347
+                ],
+                [
+                    720,
+                    400
+                ],
+                [
+                    731,
+                    447
+                ],
+                [
+                    748,
+                    471
+                ],
+                [
+                    778,
+                    481
+                ]
+            ]
+        },
+        "B3": {
+            "id": "B3",
+            "polygon": [
+                [
+                    1098,
+                    235
+                ],
+                [
+                    1124,
+                    230
+                ],
+                [
+                    1163,
+                    238
+                ],
+                [
+                    1202,
+                    259
+                ],
+                [
+                    1223,
+                    283
+                ],
+                [
+                    1236,
+                    314
+                ],
+                [
+                    1246,
+                    344
+                ],
+                [
+                    1244,
+                    385
+                ],
+                [
+                    1230,
+                    425
+                ],
+                [
+                    1203,
+                    455
+                ],
+                [
+                    1170,
+                    476
+                ],
+                [
+                    1111,
+                    486
+                ],
+                [
+                    1058,
+                    458
+                ],
+                [
+                    1028,
+                    421
+                ],
+                [
+                    1011,
+                    346
+                ],
+                [
+                    1030,
+                    292
+                ],
+                [
+                    1052,
+                    263
+                ],
+                [
+                    1072,
+                    245
+                ],
+                [
+                    1104,
+                    235
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+B1",
+            "origin": "T2"
+        },
+        "T3+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T3+B2",
+            "origin": "T3"
+        },
+        "T4+B3": {
+            "category": "intraObjectLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T4+B3",
+            "origin": "T4"
+        },
+        "T5+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T5+I0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    309,
+                    58
+                ],
+                [
+                    987,
+                    156
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Waxing Gibbous Moon Phase JULY 2012"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    88,
+                    513
+                ],
+                [
+                    230,
+                    603
+                ]
+            ],
+            "replacementText": "D",
+            "value": "THURSDAY 7/26"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    420,
+                    515
+                ],
+                [
+                    536,
+                    599
+                ]
+            ],
+            "replacementText": "E",
+            "value": "FRIDAY 7/27"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    732,
+                    518
+                ],
+                [
+                    880,
+                    600
+                ]
+            ],
+            "replacementText": "B",
+            "value": "SATURDAY 7/28"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    1077,
+                    519
+                ],
+                [
+                    1223,
+                    610
+                ]
+            ],
+            "replacementText": "C",
+            "value": "MONDAY 7/30"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    82,
+                    671
+                ],
+                [
+                    1195,
+                    714
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Photographs taken with an Orion StarMax 127mm EQ 1540mm f/12.1 Celestron Zoom Eypiece 24 - 8mm"
+        }
+    }
+}

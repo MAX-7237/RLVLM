@@ -1,0 +1,188 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    2,
+                    31
+                ],
+                [
+                    1,
+                    297
+                ],
+                [
+                    449,
+                    296
+                ],
+                [
+                    449,
+                    6
+                ],
+                [
+                    448,
+                    0
+                ],
+                [
+                    237,
+                    1
+                ],
+                [
+                    220,
+                    19
+                ],
+                [
+                    201,
+                    131
+                ],
+                [
+                    193,
+                    150
+                ],
+                [
+                    200,
+                    167
+                ],
+                [
+                    156,
+                    237
+                ],
+                [
+                    93,
+                    144
+                ],
+                [
+                    70,
+                    34
+                ],
+                [
+                    5,
+                    32
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    93,
+                    32
+                ],
+                [
+                    179,
+                    83
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Grand Canyon"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    258,
+                    9
+                ],
+                [
+                    415,
+                    33
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Cenozoic Lavas"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    263,
+                    68
+                ],
+                [
+                    377,
+                    121
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Paleozoic Formations"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    207,
+                    155
+                ],
+                [
+                    353,
+                    226
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Precambrian Formations"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    9,
+                    255
+                ],
+                [
+                    173,
+                    290
+                ]
+            ],
+            "replacementText": "A",
+            "value": "\"Basement rock\""
+        }
+    }
+}

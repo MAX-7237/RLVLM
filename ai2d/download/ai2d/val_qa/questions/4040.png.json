@@ -1,0 +1,49 @@
+{
+    "imageName": "4040.png",
+    "questions": {
+        "How thick is the crust?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "1000 - 5000 miles",
+                "3-30 miles",
+                "100-350 miles",
+                "10000-20000 miles"
+            ],
+            "correctAnswer": 1,
+            "questionId": "4040.png-2"
+        },
+        "What is the hottest part of the diagram?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "mantle",
+                "crust & mantle",
+                "crust",
+                "core"
+            ],
+            "correctAnswer": 3,
+            "questionId": "4040.png-0"
+        },
+        "Which region in the diagram represents the crust?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "a",
+                "d",
+                "c",
+                "a & d"
+            ],
+            "correctAnswer": 0,
+            "questionId": "4040.png-1"
+        },
+        "Which region in the diagram represents the mantle?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "d",
+                "a & d",
+                "c",
+                "a"
+            ],
+            "correctAnswer": 2,
+            "questionId": "4040.png-3"
+        }
+    }
+}

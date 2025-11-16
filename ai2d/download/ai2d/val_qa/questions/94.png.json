@@ -1,0 +1,38 @@
+{
+    "imageName": "94.png",
+    "questions": {
+        "Describe the diagram": {
+            "abcLabel": true,
+            "answerTexts": [
+                "The moon orbits around the Earth",
+                "The Earth orbits around the moon",
+                "Mars orbits around the Earth",
+                "The moon orbits around Mars"
+            ],
+            "correctAnswer": 0,
+            "questionId": "94.png-2"
+        },
+        "In the diagram shown, does the Moon revolve around the Earth clockwise?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "The diagram does not show the Moon anywhere.",
+                "Yes, the diagram shows the Moon revolving around the Earth clockwise.",
+                "No, the diagram shows the Moon revolving around the Earth counter-clockwise.",
+                "The diagram does not show the Earth anywhere."
+            ],
+            "correctAnswer": 2,
+            "questionId": "94.png-0"
+        },
+        "What is A?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Sun",
+                "Moon",
+                "Earth",
+                "Jupiter"
+            ],
+            "correctAnswer": 1,
+            "questionId": "94.png-1"
+        }
+    }
+}

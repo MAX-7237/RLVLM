@@ -1,0 +1,368 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    61,
+                    455
+                ],
+                [
+                    62,
+                    288
+                ],
+                [
+                    88,
+                    291
+                ],
+                [
+                    113,
+                    288
+                ],
+                [
+                    182,
+                    289
+                ],
+                [
+                    256,
+                    281
+                ],
+                [
+                    287,
+                    284
+                ],
+                [
+                    352,
+                    248
+                ],
+                [
+                    374,
+                    233
+                ],
+                [
+                    420,
+                    201
+                ],
+                [
+                    427,
+                    197
+                ],
+                [
+                    411,
+                    185
+                ],
+                [
+                    406,
+                    178
+                ],
+                [
+                    399,
+                    176
+                ],
+                [
+                    383,
+                    172
+                ],
+                [
+                    372,
+                    178
+                ],
+                [
+                    361,
+                    172
+                ],
+                [
+                    356,
+                    165
+                ],
+                [
+                    344,
+                    170
+                ],
+                [
+                    339,
+                    164
+                ],
+                [
+                    324,
+                    155
+                ],
+                [
+                    306,
+                    151
+                ],
+                [
+                    300,
+                    134
+                ],
+                [
+                    306,
+                    129
+                ],
+                [
+                    312,
+                    127
+                ],
+                [
+                    310,
+                    119
+                ],
+                [
+                    315,
+                    118
+                ],
+                [
+                    313,
+                    112
+                ],
+                [
+                    561,
+                    113
+                ],
+                [
+                    562,
+                    119
+                ],
+                [
+                    558,
+                    123
+                ],
+                [
+                    559,
+                    132
+                ],
+                [
+                    552,
+                    138
+                ],
+                [
+                    548,
+                    141
+                ],
+                [
+                    550,
+                    145
+                ],
+                [
+                    537,
+                    152
+                ],
+                [
+                    528,
+                    159
+                ],
+                [
+                    519,
+                    158
+                ],
+                [
+                    514,
+                    165
+                ],
+                [
+                    507,
+                    170
+                ],
+                [
+                    493,
+                    167
+                ],
+                [
+                    485,
+                    167
+                ],
+                [
+                    475,
+                    170
+                ],
+                [
+                    462,
+                    173
+                ],
+                [
+                    464,
+                    180
+                ],
+                [
+                    470,
+                    185
+                ],
+                [
+                    463,
+                    188
+                ],
+                [
+                    457,
+                    193
+                ],
+                [
+                    446,
+                    196
+                ],
+                [
+                    456,
+                    202
+                ],
+                [
+                    468,
+                    207
+                ],
+                [
+                    487,
+                    225
+                ],
+                [
+                    507,
+                    240
+                ],
+                [
+                    520,
+                    251
+                ],
+                [
+                    541,
+                    273
+                ],
+                [
+                    555,
+                    284
+                ],
+                [
+                    571,
+                    284
+                ],
+                [
+                    574,
+                    455
+                ],
+                [
+                    62,
+                    455
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T1+I0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    129,
+                    40
+                ],
+                [
+                    505,
+                    82
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Forming Igneous Rocks"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    138,
+                    133
+                ],
+                [
+                    228,
+                    150
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Igneous rock"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    300,
+                    184
+                ],
+                [
+                    413,
+                    205
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Volcanic eruption"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    91,
+                    273
+                ],
+                [
+                    205,
+                    292
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Earth's surface"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    396,
+                    427
+                ],
+                [
+                    476,
+                    447
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Molten rock"
+        }
+    }
+}

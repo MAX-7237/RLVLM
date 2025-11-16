@@ -1,0 +1,575 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    64,
+                    222
+                ],
+                [
+                    43,
+                    204
+                ],
+                [
+                    25,
+                    182
+                ],
+                [
+                    16,
+                    157
+                ],
+                [
+                    13,
+                    132
+                ],
+                [
+                    21,
+                    98
+                ],
+                [
+                    36,
+                    72
+                ],
+                [
+                    66,
+                    50
+                ],
+                [
+                    105,
+                    41
+                ],
+                [
+                    130,
+                    43
+                ],
+                [
+                    159,
+                    54
+                ],
+                [
+                    188,
+                    80
+                ],
+                [
+                    202,
+                    111
+                ],
+                [
+                    209,
+                    150
+                ],
+                [
+                    200,
+                    181
+                ],
+                [
+                    173,
+                    213
+                ],
+                [
+                    138,
+                    229
+                ],
+                [
+                    107,
+                    232
+                ],
+                [
+                    66,
+                    222
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    311,
+                    55
+                ],
+                [
+                    343,
+                    45
+                ],
+                [
+                    374,
+                    39
+                ],
+                [
+                    404,
+                    50
+                ],
+                [
+                    429,
+                    68
+                ],
+                [
+                    447,
+                    89
+                ],
+                [
+                    458,
+                    122
+                ],
+                [
+                    459,
+                    159
+                ],
+                [
+                    443,
+                    189
+                ],
+                [
+                    413,
+                    222
+                ],
+                [
+                    368,
+                    232
+                ],
+                [
+                    331,
+                    227
+                ],
+                [
+                    306,
+                    215
+                ],
+                [
+                    281,
+                    186
+                ],
+                [
+                    266,
+                    154
+                ],
+                [
+                    270,
+                    122
+                ],
+                [
+                    279,
+                    91
+                ],
+                [
+                    306,
+                    59
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    526,
+                    48
+                ],
+                [
+                    565,
+                    41
+                ],
+                [
+                    606,
+                    50
+                ],
+                [
+                    629,
+                    64
+                ],
+                [
+                    645,
+                    88
+                ],
+                [
+                    663,
+                    120
+                ],
+                [
+                    661,
+                    150
+                ],
+                [
+                    652,
+                    179
+                ],
+                [
+                    636,
+                    206
+                ],
+                [
+                    602,
+                    223
+                ],
+                [
+                    567,
+                    234
+                ],
+                [
+                    527,
+                    225
+                ],
+                [
+                    497,
+                    206
+                ],
+                [
+                    477,
+                    175
+                ],
+                [
+                    468,
+                    134
+                ],
+                [
+                    477,
+                    104
+                ],
+                [
+                    488,
+                    77
+                ],
+                [
+                    522,
+                    50
+                ]
+            ]
+        },
+        "B3": {
+            "id": "B3",
+            "polygon": [
+                [
+                    729,
+                    45
+                ],
+                [
+                    774,
+                    41
+                ],
+                [
+                    808,
+                    48
+                ],
+                [
+                    835,
+                    68
+                ],
+                [
+                    853,
+                    88
+                ],
+                [
+                    862,
+                    111
+                ],
+                [
+                    865,
+                    136
+                ],
+                [
+                    860,
+                    164
+                ],
+                [
+                    840,
+                    202
+                ],
+                [
+                    820,
+                    218
+                ],
+                [
+                    790,
+                    229
+                ],
+                [
+                    760,
+                    234
+                ],
+                [
+                    715,
+                    218
+                ],
+                [
+                    690,
+                    197
+                ],
+                [
+                    676,
+                    164
+                ],
+                [
+                    672,
+                    139
+                ],
+                [
+                    679,
+                    109
+                ],
+                [
+                    692,
+                    75
+                ],
+                [
+                    724,
+                    48
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T1+B1",
+            "origin": "T1"
+        },
+        "T10+B3": {
+            "category": "intraObjectLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T10+B3",
+            "origin": "T10"
+        },
+        "T2+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T2+B2",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T5+B1",
+            "origin": "T5"
+        },
+        "T6+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T6+B1",
+            "origin": "T6"
+        },
+        "T7+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T7+B2",
+            "origin": "T7"
+        },
+        "T8+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T8+B2",
+            "origin": "T8"
+        },
+        "T9+B3": {
+            "category": "intraObjectLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T9+B3",
+            "origin": "T9"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    75,
+                    2
+                ],
+                [
+                    152,
+                    27
+                ]
+            ],
+            "replacementText": "J",
+            "value": "prototlith"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    252,
+                    0
+                ],
+                [
+                    467,
+                    25
+                ]
+            ],
+            "replacementText": "K",
+            "value": "low-grade metamorphism"
+        },
+        "T10": {
+            "id": "T10",
+            "rectangle": [
+                [
+                    677,
+                    290
+                ],
+                [
+                    890,
+                    344
+                ]
+            ],
+            "replacementText": "F",
+            "value": "gneiss visible mafic & felsic mins gneissic banding"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    552,
+                    0
+                ],
+                [
+                    774,
+                    27
+                ]
+            ],
+            "replacementText": "H",
+            "value": "high-grade metamorphism"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    88,
+                    247
+                ],
+                [
+                    134,
+                    270
+                ]
+            ],
+            "replacementText": "D",
+            "value": "400 X"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    5,
+                    282
+                ],
+                [
+                    207,
+                    344
+                ]
+            ],
+            "replacementText": "E",
+            "value": "shale (sed. rock) sub-microscopic clays bedding plane cleavage"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    340,
+                    248
+                ],
+                [
+                    388,
+                    270
+                ]
+            ],
+            "replacementText": "A",
+            "value": "40 X"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    286,
+                    290
+                ],
+                [
+                    438,
+                    344
+                ]
+            ],
+            "replacementText": "G",
+            "value": "slate microscopic micas slaty cleavage"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    520,
+                    247
+                ],
+                [
+                    613,
+                    273
+                ]
+            ],
+            "replacementText": "B",
+            "value": "1X (no mag.)"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    520,
+                    288
+                ],
+                [
+                    631,
+                    344
+                ]
+            ],
+            "replacementText": "C",
+            "value": "schist visible micas schistosity"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    724,
+                    241
+                ],
+                [
+                    819,
+                    273
+                ]
+            ],
+            "replacementText": "I",
+            "value": "1X (no mag.)"
+        }
+    }
+}

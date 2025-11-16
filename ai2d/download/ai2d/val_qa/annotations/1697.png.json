@@ -1,0 +1,390 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 191.25,
+            "rectangle": [
+                [
+                    196,
+                    91
+                ],
+                [
+                    204,
+                    99
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 45.0,
+            "rectangle": [
+                [
+                    125,
+                    132
+                ],
+                [
+                    132,
+                    139
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": 22.5,
+            "rectangle": [
+                [
+                    90,
+                    96
+                ],
+                [
+                    98,
+                    104
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    218,
+                    92
+                ],
+                [
+                    218,
+                    101
+                ],
+                [
+                    195,
+                    101
+                ],
+                [
+                    194,
+                    89
+                ],
+                [
+                    215,
+                    90
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    129,
+                    141
+                ],
+                [
+                    139,
+                    136
+                ],
+                [
+                    121,
+                    120
+                ],
+                [
+                    112,
+                    125
+                ],
+                [
+                    109,
+                    128
+                ],
+                [
+                    125,
+                    141
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    76,
+                    101
+                ],
+                [
+                    96,
+                    107
+                ],
+                [
+                    100,
+                    98
+                ],
+                [
+                    77,
+                    90
+                ],
+                [
+                    76,
+                    97
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    0,
+                    156
+                ],
+                [
+                    0,
+                    66
+                ],
+                [
+                    84,
+                    6
+                ],
+                [
+                    177,
+                    6
+                ],
+                [
+                    181,
+                    2
+                ],
+                [
+                    187,
+                    2
+                ],
+                [
+                    191,
+                    5
+                ],
+                [
+                    241,
+                    6
+                ],
+                [
+                    288,
+                    0
+                ],
+                [
+                    300,
+                    55
+                ],
+                [
+                    301,
+                    156
+                ],
+                [
+                    2,
+                    160
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A1+H1",
+            "origin": "A1"
+        },
+        "A2+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A2+H2",
+            "origin": "A2"
+        },
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T3+I0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        },
+        "T6+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+B0",
+            "origin": "T6"
+        },
+        "T7+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+B0",
+            "origin": "T7"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    162,
+                    9
+                ],
+                [
+                    212,
+                    67
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Island arc"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    214,
+                    88
+                ],
+                [
+                    293,
+                    111
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Lithosphere"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    235,
+                    60
+                ],
+                [
+                    299,
+                    87
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Continental crust"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    57,
+                    161
+                ],
+                [
+                    225,
+                    173
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Oceanic-oceanic convergence"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    2,
+                    125
+                ],
+                [
+                    90,
+                    143
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Asthenosphere"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    2,
+                    84
+                ],
+                [
+                    73,
+                    103
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Lithosphere"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    95,
+                    14
+                ],
+                [
+                    129,
+                    50
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Trench"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    19,
+                    54
+                ],
+                [
+                    98,
+                    68
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Oceanic crust"
+        }
+    }
+}

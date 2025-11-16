@@ -1,0 +1,38 @@
+{
+    "imageName": "1433.png",
+    "questions": {
+        "What is the largest planet besides the sun?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "venus",
+                "uranus",
+                "Jupiter",
+                "mars"
+            ],
+            "correctAnswer": 2,
+            "questionId": "1433.png-1"
+        },
+        "What is the name of the planet closest to the sun.": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Mars",
+                "Earth",
+                "Mercury",
+                "Neptune"
+            ],
+            "correctAnswer": 2,
+            "questionId": "1433.png-2"
+        },
+        "Which planet is label C?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Uranus",
+                "Saturn",
+                "Neptune",
+                "Jupiter"
+            ],
+            "correctAnswer": 0,
+            "questionId": "1433.png-0"
+        }
+    }
+}

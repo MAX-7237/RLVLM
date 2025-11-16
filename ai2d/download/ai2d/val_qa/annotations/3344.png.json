@@ -1,0 +1,192 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    234,
+                    44
+                ],
+                [
+                    255,
+                    83
+                ],
+                [
+                    408,
+                    147
+                ],
+                [
+                    402,
+                    211
+                ],
+                [
+                    383,
+                    267
+                ],
+                [
+                    355,
+                    306
+                ],
+                [
+                    311,
+                    318
+                ],
+                [
+                    276,
+                    285
+                ],
+                [
+                    218,
+                    277
+                ],
+                [
+                    162,
+                    312
+                ],
+                [
+                    107,
+                    311
+                ],
+                [
+                    67,
+                    340
+                ],
+                [
+                    65,
+                    378
+                ],
+                [
+                    71,
+                    382
+                ],
+                [
+                    126,
+                    357
+                ],
+                [
+                    186,
+                    344
+                ],
+                [
+                    255,
+                    313
+                ],
+                [
+                    309,
+                    353
+                ],
+                [
+                    381,
+                    353
+                ],
+                [
+                    415,
+                    417
+                ],
+                [
+                    608,
+                    421
+                ],
+                [
+                    611,
+                    27
+                ],
+                [
+                    453,
+                    28
+                ],
+                [
+                    443,
+                    81
+                ],
+                [
+                    335,
+                    79
+                ],
+                [
+                    235,
+                    41
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    135,
+                    98
+                ],
+                [
+                    288,
+                    130
+                ]
+            ],
+            "replacementText": "A",
+            "value": "root hair cell"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    226,
+                    199
+                ],
+                [
+                    386,
+                    233
+                ]
+            ],
+            "replacementText": "C",
+            "value": "root epidermis"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    66,
+                    261
+                ],
+                [
+                    211,
+                    283
+                ]
+            ],
+            "replacementText": "B",
+            "value": "root hair cell"
+        }
+    }
+}

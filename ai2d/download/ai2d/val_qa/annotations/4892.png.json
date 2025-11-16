@@ -1,0 +1,327 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    123,
+                    126
+                ],
+                [
+                    178,
+                    215
+                ],
+                [
+                    168,
+                    221
+                ],
+                [
+                    115,
+                    129
+                ],
+                [
+                    122,
+                    126
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    283,
+                    148
+                ],
+                [
+                    280,
+                    193
+                ],
+                [
+                    268,
+                    192
+                ],
+                [
+                    275,
+                    148
+                ],
+                [
+                    282,
+                    148
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    406,
+                    147
+                ],
+                [
+                    401,
+                    202
+                ],
+                [
+                    411,
+                    203
+                ],
+                [
+                    416,
+                    148
+                ],
+                [
+                    408,
+                    148
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    1,
+                    210
+                ],
+                [
+                    84,
+                    214
+                ],
+                [
+                    128,
+                    193
+                ],
+                [
+                    152,
+                    189
+                ],
+                [
+                    208,
+                    173
+                ],
+                [
+                    270,
+                    170
+                ],
+                [
+                    278,
+                    167
+                ],
+                [
+                    282,
+                    168
+                ],
+                [
+                    348,
+                    176
+                ],
+                [
+                    376,
+                    184
+                ],
+                [
+                    411,
+                    194
+                ],
+                [
+                    421,
+                    193
+                ],
+                [
+                    451,
+                    201
+                ],
+                [
+                    473,
+                    215
+                ],
+                [
+                    547,
+                    213
+                ],
+                [
+                    549,
+                    349
+                ],
+                [
+                    0,
+                    349
+                ],
+                [
+                    2,
+                    211
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T1+I0",
+            "origin": "T1"
+        },
+        "T2+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A0+B0",
+            "origin": "T2"
+        },
+        "T3+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A1+B0",
+            "origin": "T3"
+        },
+        "T4+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A2+B0",
+            "origin": "T4"
+        },
+        "T5+I0": {
+            "category": "sectionTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T5+I0",
+            "origin": "T5"
+        },
+        "T6+I0": {
+            "category": "sectionTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T6+I0",
+            "origin": "T6"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    524,
+                    127
+                ],
+                [
+                    549,
+                    213
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Buzzle.com"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    63,
+                    4
+                ],
+                [
+                    481,
+                    34
+                ]
+            ],
+            "replacementText": "D",
+            "value": "the anatomy of a shield volcano"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    33,
+                    83
+                ],
+                [
+                    204,
+                    129
+                ]
+            ],
+            "replacementText": "A",
+            "value": "formed through gentle lava eruptions"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    258,
+                    129
+                ],
+                [
+                    303,
+                    148
+                ]
+            ],
+            "replacementText": "B",
+            "value": "vent"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    345,
+                    127
+                ],
+                [
+                    486,
+                    150
+                ]
+            ],
+            "replacementText": "G",
+            "value": "solid lava layers"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    462,
+                    288
+                ],
+                [
+                    510,
+                    316
+                ]
+            ],
+            "replacementText": "E",
+            "value": "crust"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    206,
+                    324
+                ],
+                [
+                    343,
+                    344
+                ]
+            ],
+            "replacementText": "F",
+            "value": "magma chamber"
+        }
+    }
+}

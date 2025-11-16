@@ -1,0 +1,283 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    155,
+                    14
+                ],
+                [
+                    159,
+                    19
+                ],
+                [
+                    79,
+                    112
+                ],
+                [
+                    71,
+                    103
+                ],
+                [
+                    156,
+                    12
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    118,
+                    98
+                ],
+                [
+                    188,
+                    57
+                ],
+                [
+                    184,
+                    50
+                ],
+                [
+                    108,
+                    92
+                ],
+                [
+                    117,
+                    100
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    119,
+                    126
+                ],
+                [
+                    125,
+                    143
+                ],
+                [
+                    192,
+                    133
+                ],
+                [
+                    188,
+                    121
+                ],
+                [
+                    121,
+                    129
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    126,
+                    171
+                ],
+                [
+                    182,
+                    188
+                ],
+                [
+                    181,
+                    196
+                ],
+                [
+                    116,
+                    180
+                ],
+                [
+                    125,
+                    168
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    23,
+                    207
+                ],
+                [
+                    41,
+                    222
+                ],
+                [
+                    72,
+                    229
+                ],
+                [
+                    111,
+                    229
+                ],
+                [
+                    143,
+                    217
+                ],
+                [
+                    166,
+                    189
+                ],
+                [
+                    177,
+                    142
+                ],
+                [
+                    167,
+                    88
+                ],
+                [
+                    152,
+                    45
+                ],
+                [
+                    121,
+                    6
+                ],
+                [
+                    90,
+                    0
+                ],
+                [
+                    51,
+                    0
+                ],
+                [
+                    29,
+                    29
+                ],
+                [
+                    6,
+                    71
+                ],
+                [
+                    0,
+                    119
+                ],
+                [
+                    0,
+                    165
+                ],
+                [
+                    20,
+                    205
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        },
+        "T2+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A2+B0",
+            "origin": "T2"
+        },
+        "T3+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A3+B0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    161,
+                    12
+                ],
+                [
+                    262,
+                    29
+                ]
+            ],
+            "replacementText": "B",
+            "value": "yolk (ooplasm)"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    195,
+                    46
+                ],
+                [
+                    271,
+                    80
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Vitelline membrane"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    191,
+                    122
+                ],
+                [
+                    255,
+                    172
+                ]
+            ],
+            "replacementText": "C",
+            "value": "germinal vesicle (nucleus)"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    185,
+                    182
+                ],
+                [
+                    257,
+                    218
+                ]
+            ],
+            "replacementText": "A",
+            "value": "albumin (egg white)"
+        }
+    }
+}

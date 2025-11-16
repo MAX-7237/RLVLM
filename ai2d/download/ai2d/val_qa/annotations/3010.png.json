@@ -1,0 +1,537 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    199,
+                    231
+                ],
+                [
+                    145,
+                    272
+                ],
+                [
+                    140,
+                    265
+                ],
+                [
+                    192,
+                    223
+                ],
+                [
+                    200,
+                    228
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    129,
+                    91
+                ],
+                [
+                    165,
+                    114
+                ],
+                [
+                    161,
+                    121
+                ],
+                [
+                    122,
+                    101
+                ],
+                [
+                    128,
+                    92
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    249,
+                    71
+                ],
+                [
+                    275,
+                    132
+                ],
+                [
+                    265,
+                    134
+                ],
+                [
+                    240,
+                    71
+                ],
+                [
+                    247,
+                    67
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    337,
+                    113
+                ],
+                [
+                    306,
+                    164
+                ],
+                [
+                    314,
+                    169
+                ],
+                [
+                    345,
+                    116
+                ],
+                [
+                    338,
+                    112
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    279,
+                    272
+                ],
+                [
+                    298,
+                    304
+                ],
+                [
+                    292,
+                    309
+                ],
+                [
+                    274,
+                    277
+                ],
+                [
+                    279,
+                    269
+                ]
+            ]
+        },
+        "A5": {
+            "id": "A5",
+            "polygon": [
+                [
+                    266,
+                    295
+                ],
+                [
+                    240,
+                    303
+                ],
+                [
+                    241,
+                    312
+                ],
+                [
+                    271,
+                    305
+                ],
+                [
+                    269,
+                    294
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    142,
+                    255
+                ],
+                [
+                    138,
+                    248
+                ],
+                [
+                    130,
+                    245
+                ],
+                [
+                    112,
+                    244
+                ],
+                [
+                    94,
+                    236
+                ],
+                [
+                    82,
+                    221
+                ],
+                [
+                    78,
+                    203
+                ],
+                [
+                    70,
+                    186
+                ],
+                [
+                    82,
+                    167
+                ],
+                [
+                    83,
+                    150
+                ],
+                [
+                    92,
+                    138
+                ],
+                [
+                    102,
+                    125
+                ],
+                [
+                    109,
+                    118
+                ],
+                [
+                    118,
+                    107
+                ],
+                [
+                    136,
+                    100
+                ],
+                [
+                    162,
+                    91
+                ],
+                [
+                    183,
+                    90
+                ],
+                [
+                    203,
+                    84
+                ],
+                [
+                    228,
+                    87
+                ],
+                [
+                    252,
+                    93
+                ],
+                [
+                    278,
+                    98
+                ],
+                [
+                    298,
+                    107
+                ],
+                [
+                    316,
+                    119
+                ],
+                [
+                    335,
+                    135
+                ],
+                [
+                    345,
+                    153
+                ],
+                [
+                    351,
+                    173
+                ],
+                [
+                    355,
+                    193
+                ],
+                [
+                    356,
+                    221
+                ],
+                [
+                    352,
+                    242
+                ],
+                [
+                    345,
+                    255
+                ],
+                [
+                    334,
+                    260
+                ],
+                [
+                    330,
+                    275
+                ],
+                [
+                    317,
+                    289
+                ],
+                [
+                    303,
+                    296
+                ],
+                [
+                    284,
+                    298
+                ],
+                [
+                    278,
+                    297
+                ],
+                [
+                    283,
+                    308
+                ],
+                [
+                    266,
+                    317
+                ],
+                [
+                    252,
+                    302
+                ],
+                [
+                    243,
+                    294
+                ],
+                [
+                    231,
+                    282
+                ],
+                [
+                    222,
+                    274
+                ],
+                [
+                    213,
+                    271
+                ],
+                [
+                    207,
+                    276
+                ],
+                [
+                    200,
+                    281
+                ],
+                [
+                    190,
+                    285
+                ],
+                [
+                    174,
+                    285
+                ],
+                [
+                    162,
+                    280
+                ],
+                [
+                    152,
+                    273
+                ],
+                [
+                    146,
+                    263
+                ],
+                [
+                    141,
+                    258
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A5+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A5",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A5+B0",
+            "origin": "T0"
+        },
+        "T1+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A3+B0",
+            "origin": "T1"
+        },
+        "T2+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A4+B0",
+            "origin": "T2"
+        },
+        "T3+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T3+I0",
+            "origin": "T3"
+        },
+        "T4+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A1+B0",
+            "origin": "T4"
+        },
+        "T5+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A2+B0",
+            "origin": "T5"
+        },
+        "T6+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+A0+B0",
+            "origin": "T6"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    150,
+                    296
+                ],
+                [
+                    242,
+                    315
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Brain stem"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    306,
+                    82
+                ],
+                [
+                    385,
+                    128
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Occipital lobe"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    294,
+                    295
+                ],
+                [
+                    400,
+                    315
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Cerebellum"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    5,
+                    15
+                ],
+                [
+                    290,
+                    43
+                ]
+            ],
+            "replacementText": "D",
+            "value": "myhealthyfeeling.com"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    20,
+                    85
+                ],
+                [
+                    127,
+                    104
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Frontal lobe"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    133,
+                    62
+                ],
+                [
+                    243,
+                    82
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Parietal lobe"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    11,
+                    255
+                ],
+                [
+                    142,
+                    275
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Temporal lobe"
+        }
+    }
+}

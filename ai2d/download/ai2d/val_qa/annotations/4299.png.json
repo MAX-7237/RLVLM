@@ -1,0 +1,246 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 225.0,
+            "rectangle": [
+                [
+                    85,
+                    181
+                ],
+                [
+                    95,
+                    191
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 270.0,
+            "rectangle": [
+                [
+                    256,
+                    175
+                ],
+                [
+                    265,
+                    184
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    255,
+                    218
+                ],
+                [
+                    253,
+                    174
+                ],
+                [
+                    264,
+                    174
+                ],
+                [
+                    267,
+                    217
+                ],
+                [
+                    256,
+                    215
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    107,
+                    217
+                ],
+                [
+                    115,
+                    211
+                ],
+                [
+                    98,
+                    190
+                ],
+                [
+                    98,
+                    184
+                ],
+                [
+                    82,
+                    178
+                ],
+                [
+                    83,
+                    190
+                ],
+                [
+                    89,
+                    191
+                ],
+                [
+                    106,
+                    217
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    0,
+                    36
+                ],
+                [
+                    8,
+                    40
+                ],
+                [
+                    44,
+                    25
+                ],
+                [
+                    54,
+                    30
+                ],
+                [
+                    105,
+                    34
+                ],
+                [
+                    169,
+                    24
+                ],
+                [
+                    251,
+                    4
+                ],
+                [
+                    297,
+                    12
+                ],
+                [
+                    347,
+                    16
+                ],
+                [
+                    359,
+                    23
+                ],
+                [
+                    359,
+                    226
+                ],
+                [
+                    3,
+                    226
+                ],
+                [
+                    0,
+                    37
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A0+H1",
+            "origin": "A0"
+        },
+        "A1+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A1+H0",
+            "origin": "A1"
+        },
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    117,
+                    194
+                ],
+                [
+                    228,
+                    226
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Magma"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    15,
+                    72
+                ],
+                [
+                    103,
+                    94
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Batholith"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    209,
+                    76
+                ],
+                [
+                    300,
+                    98
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Batholith"
+        }
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    12,
+                    88
+                ],
+                [
+                    83,
+                    17
+                ],
+                [
+                    270,
+                    17
+                ],
+                [
+                    272,
+                    97
+                ],
+                [
+                    199,
+                    176
+                ],
+                [
+                    14,
+                    173
+                ],
+                [
+                    14,
+                    87
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    180,
+                    396
+                ],
+                [
+                    198,
+                    379
+                ],
+                [
+                    224,
+                    350
+                ],
+                [
+                    250,
+                    324
+                ],
+                [
+                    248,
+                    238
+                ],
+                [
+                    157,
+                    237
+                ],
+                [
+                    174,
+                    197
+                ],
+                [
+                    76,
+                    196
+                ],
+                [
+                    7,
+                    271
+                ],
+                [
+                    8,
+                    353
+                ],
+                [
+                    78,
+                    354
+                ],
+                [
+                    60,
+                    396
+                ],
+                [
+                    177,
+                    395
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    371,
+                    199
+                ],
+                [
+                    304,
+                    268
+                ],
+                [
+                    302,
+                    270
+                ],
+                [
+                    302,
+                    356
+                ],
+                [
+                    371,
+                    356
+                ],
+                [
+                    356,
+                    395
+                ],
+                [
+                    475,
+                    397
+                ],
+                [
+                    543,
+                    324
+                ],
+                [
+                    544,
+                    240
+                ],
+                [
+                    447,
+                    239
+                ],
+                [
+                    410,
+                    200
+                ],
+                [
+                    375,
+                    198
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+B1",
+            "origin": "T2"
+        },
+        "T3+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T3+B2",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    286,
+                    13
+                ],
+                [
+                    523,
+                    132
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Reverse or Thrust Faulting a. A block of crust before Faulting. b. After faulting. Note that the block becomes shorter. c. An eroded reverse fault.  Note that the well  passes through several layers twice."
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    242,
+                    151
+                ],
+                [
+                    258,
+                    163
+                ]
+            ],
+            "replacementText": "A",
+            "value": "a."
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    239,
+                    347
+                ],
+                [
+                    255,
+                    361
+                ]
+            ],
+            "replacementText": "B",
+            "value": "b."
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    527,
+                    350
+                ],
+                [
+                    540,
+                    359
+                ]
+            ],
+            "replacementText": "C",
+            "value": "c."
+        }
+    }
+}

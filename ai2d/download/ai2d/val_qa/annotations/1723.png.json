@@ -1,0 +1,174 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": -1,
+            "rectangle": [
+                [
+                    172,
+                    115
+                ],
+                [
+                    180,
+                    123
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": -1,
+            "rectangle": [
+                [
+                    171,
+                    128
+                ],
+                [
+                    179,
+                    136
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    192,
+                    142
+                ],
+                [
+                    167,
+                    134
+                ],
+                [
+                    171,
+                    124
+                ],
+                [
+                    198,
+                    133
+                ],
+                [
+                    195,
+                    142
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    161,
+                    109
+                ],
+                [
+                    157,
+                    120
+                ],
+                [
+                    179,
+                    128
+                ],
+                [
+                    184,
+                    116
+                ],
+                [
+                    165,
+                    111
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    85,
+                    15
+                ],
+                [
+                    12,
+                    66
+                ],
+                [
+                    12,
+                    139
+                ],
+                [
+                    207,
+                    139
+                ],
+                [
+                    248,
+                    153
+                ],
+                [
+                    322,
+                    103
+                ],
+                [
+                    323,
+                    29
+                ],
+                [
+                    126,
+                    29
+                ],
+                [
+                    86,
+                    14
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A0+H1",
+            "origin": "A0"
+        },
+        "A1+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A1+H0",
+            "origin": "A1"
+        },
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    52,
+                    158
+                ],
+                [
+                    272,
+                    181
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Detachment or Normal Fault"
+        }
+    }
+}

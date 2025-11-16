@@ -1,0 +1,285 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 0.0,
+            "rectangle": [
+                [
+                    372,
+                    196
+                ],
+                [
+                    387,
+                    211
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 0.0,
+            "rectangle": [
+                [
+                    268,
+                    84
+                ],
+                [
+                    281,
+                    97
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": 0.0,
+            "rectangle": [
+                [
+                    481,
+                    87
+                ],
+                [
+                    489,
+                    95
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    280,
+                    85
+                ],
+                [
+                    280,
+                    96
+                ],
+                [
+                    173,
+                    97
+                ],
+                [
+                    173,
+                    85
+                ],
+                [
+                    277,
+                    86
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    380,
+                    83
+                ],
+                [
+                    381,
+                    95
+                ],
+                [
+                    487,
+                    95
+                ],
+                [
+                    488,
+                    84
+                ],
+                [
+                    383,
+                    83
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    377,
+                    194
+                ],
+                [
+                    277,
+                    199
+                ],
+                [
+                    278,
+                    208
+                ],
+                [
+                    388,
+                    209
+                ],
+                [
+                    378,
+                    192
+                ]
+            ]
+        }
+    },
+    "blobs": {},
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A0+H1",
+            "origin": "A0"
+        },
+        "A1+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A1+H2",
+            "origin": "A1"
+        },
+        "A2+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A2+H0",
+            "origin": "A2"
+        },
+        "T0+A1+T1": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "T1",
+            "hasDirectionality": true,
+            "id": "T0+A1+T1",
+            "origin": "T0"
+        },
+        "T3+A2+T2": {
+            "category": "interObjectLinkage",
+            "connector": "A2",
+            "destination": "T2",
+            "hasDirectionality": true,
+            "id": "T3+A2+T2",
+            "origin": "T3"
+        },
+        "T6+A0+T0": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "T0",
+            "hasDirectionality": true,
+            "id": "T6+A0+T0",
+            "origin": "T6"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    304,
+                    82
+                ],
+                [
+                    358,
+                    100
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Buffalo"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    511,
+                    82
+                ],
+                [
+                    570,
+                    101
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Humans"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    408,
+                    195
+                ],
+                [
+                    462,
+                    212
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Humans"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    201,
+                    189
+                ],
+                [
+                    253,
+                    219
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Annual Crop "
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    88,
+                    148
+                ],
+                [
+                    326,
+                    169
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Great Plains food chain for Europeans"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    70,
+                    34
+                ],
+                [
+                    370,
+                    52
+                ]
+            ],
+            "replacementText": "G",
+            "value": "A. Great Plains food chain for Native Americans"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    97,
+                    75
+                ],
+                [
+                    155,
+                    107
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Perennial grass "
+        }
+    }
+}

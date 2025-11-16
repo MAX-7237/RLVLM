@@ -1,0 +1,455 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    94,
+                    113
+                ],
+                [
+                    130,
+                    116
+                ],
+                [
+                    130,
+                    125
+                ],
+                [
+                    90,
+                    127
+                ],
+                [
+                    91,
+                    112
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    52,
+                    177
+                ],
+                [
+                    83,
+                    178
+                ],
+                [
+                    85,
+                    192
+                ],
+                [
+                    51,
+                    190
+                ],
+                [
+                    51,
+                    174
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    266,
+                    167
+                ],
+                [
+                    312,
+                    165
+                ],
+                [
+                    312,
+                    178
+                ],
+                [
+                    268,
+                    181
+                ],
+                [
+                    266,
+                    165
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    218,
+                    213
+                ],
+                [
+                    280,
+                    238
+                ],
+                [
+                    277,
+                    247
+                ],
+                [
+                    210,
+                    222
+                ],
+                [
+                    214,
+                    211
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    212,
+                    295
+                ],
+                [
+                    252,
+                    297
+                ],
+                [
+                    254,
+                    302
+                ],
+                [
+                    215,
+                    306
+                ],
+                [
+                    212,
+                    297
+                ]
+            ]
+        },
+        "A5": {
+            "id": "A5",
+            "polygon": [
+                [
+                    152,
+                    295
+                ],
+                [
+                    243,
+                    344
+                ],
+                [
+                    241,
+                    354
+                ],
+                [
+                    144,
+                    305
+                ],
+                [
+                    150,
+                    295
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    25,
+                    232
+                ],
+                [
+                    88,
+                    166
+                ],
+                [
+                    88,
+                    166
+                ],
+                [
+                    119,
+                    128
+                ],
+                [
+                    124,
+                    106
+                ],
+                [
+                    166,
+                    64
+                ],
+                [
+                    198,
+                    40
+                ],
+                [
+                    221,
+                    32
+                ],
+                [
+                    243,
+                    30
+                ],
+                [
+                    279,
+                    37
+                ],
+                [
+                    324,
+                    72
+                ],
+                [
+                    334,
+                    118
+                ],
+                [
+                    317,
+                    157
+                ],
+                [
+                    298,
+                    186
+                ],
+                [
+                    285,
+                    219
+                ],
+                [
+                    254,
+                    283
+                ],
+                [
+                    226,
+                    326
+                ],
+                [
+                    186,
+                    361
+                ],
+                [
+                    156,
+                    375
+                ],
+                [
+                    114,
+                    383
+                ],
+                [
+                    64,
+                    371
+                ],
+                [
+                    29,
+                    348
+                ],
+                [
+                    6,
+                    307
+                ],
+                [
+                    4,
+                    268
+                ],
+                [
+                    24,
+                    233
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A0+B0",
+            "origin": "T2"
+        },
+        "T3+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A1+B0",
+            "origin": "T3"
+        },
+        "T4+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A2+B0",
+            "origin": "T4"
+        },
+        "T5+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A3+B0",
+            "origin": "T5"
+        },
+        "T6+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+A4+B0",
+            "origin": "T6"
+        },
+        "T7+A5+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A5",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+A5+B0",
+            "origin": "T7"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    92,
+                    0
+                ],
+                [
+                    250,
+                    20
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Plant Cell Chloroplast"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    105,
+                    31
+                ],
+                [
+                    170,
+                    62
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Outer Membrane"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    44,
+                    110
+                ],
+                [
+                    116,
+                    141
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Inner-Membrane"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    0,
+                    173
+                ],
+                [
+                    58,
+                    203
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Stroma-Lamellae"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    305,
+                    162
+                ],
+                [
+                    352,
+                    177
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Stroma"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    279,
+                    231
+                ],
+                [
+                    342,
+                    253
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Thylakoid"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    250,
+                    289
+                ],
+                [
+                    348,
+                    324
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Intermembrane Space"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    200,
+                    337
+                ],
+                [
+                    334,
+                    372
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Granum (Stack of Thylakoids)"
+        }
+    }
+}

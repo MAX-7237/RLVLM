@@ -1,0 +1,287 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    165,
+                    45
+                ],
+                [
+                    134,
+                    87
+                ],
+                [
+                    141,
+                    91
+                ],
+                [
+                    172,
+                    52
+                ],
+                [
+                    167,
+                    48
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    166,
+                    135
+                ],
+                [
+                    168,
+                    112
+                ],
+                [
+                    195,
+                    75
+                ],
+                [
+                    187,
+                    70
+                ],
+                [
+                    158,
+                    106
+                ],
+                [
+                    158,
+                    130
+                ],
+                [
+                    164,
+                    138
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    128,
+                    183
+                ],
+                [
+                    136,
+                    188
+                ],
+                [
+                    158,
+                    160
+                ],
+                [
+                    148,
+                    155
+                ],
+                [
+                    129,
+                    183
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    2,
+                    178
+                ],
+                [
+                    161,
+                    178
+                ],
+                [
+                    178,
+                    214
+                ],
+                [
+                    244,
+                    217
+                ],
+                [
+                    274,
+                    194
+                ],
+                [
+                    273,
+                    102
+                ],
+                [
+                    168,
+                    101
+                ],
+                [
+                    154,
+                    76
+                ],
+                [
+                    144,
+                    59
+                ],
+                [
+                    56,
+                    55
+                ],
+                [
+                    56,
+                    46
+                ],
+                [
+                    65,
+                    42
+                ],
+                [
+                    76,
+                    29
+                ],
+                [
+                    69,
+                    18
+                ],
+                [
+                    68,
+                    3
+                ],
+                [
+                    52,
+                    6
+                ],
+                [
+                    46,
+                    1
+                ],
+                [
+                    36,
+                    8
+                ],
+                [
+                    23,
+                    5
+                ],
+                [
+                    26,
+                    16
+                ],
+                [
+                    23,
+                    29
+                ],
+                [
+                    32,
+                    28
+                ],
+                [
+                    41,
+                    42
+                ],
+                [
+                    41,
+                    52
+                ],
+                [
+                    43,
+                    56
+                ],
+                [
+                    30,
+                    55
+                ],
+                [
+                    3,
+                    79
+                ],
+                [
+                    3,
+                    177
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        },
+        "T2+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A2+B0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    168,
+                    34
+                ],
+                [
+                    239,
+                    52
+                ]
+            ],
+            "replacementText": "A",
+            "value": "fault plane"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    193,
+                    63
+                ],
+                [
+                    256,
+                    80
+                ]
+            ],
+            "replacementText": "C",
+            "value": "epicenter"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    64,
+                    185
+                ],
+                [
+                    139,
+                    205
+                ]
+            ],
+            "replacementText": "B",
+            "value": "hypocenter"
+        }
+    }
+}

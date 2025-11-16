@@ -1,0 +1,264 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 270.0,
+            "rectangle": [
+                [
+                    58,
+                    32
+                ],
+                [
+                    90,
+                    56
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    59,
+                    49
+                ],
+                [
+                    68,
+                    51
+                ],
+                [
+                    68,
+                    316
+                ],
+                [
+                    79,
+                    316
+                ],
+                [
+                    79,
+                    51
+                ],
+                [
+                    88,
+                    51
+                ],
+                [
+                    74,
+                    32
+                ],
+                [
+                    59,
+                    49
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    332,
+                    23
+                ],
+                [
+                    331,
+                    320
+                ],
+                [
+                    95,
+                    318
+                ],
+                [
+                    96,
+                    30
+                ],
+                [
+                    100,
+                    25
+                ],
+                [
+                    106,
+                    25
+                ],
+                [
+                    121,
+                    25
+                ],
+                [
+                    129,
+                    25
+                ],
+                [
+                    142,
+                    25
+                ],
+                [
+                    149,
+                    25
+                ],
+                [
+                    159,
+                    25
+                ],
+                [
+                    173,
+                    24
+                ],
+                [
+                    180,
+                    24
+                ],
+                [
+                    197,
+                    24
+                ],
+                [
+                    208,
+                    25
+                ],
+                [
+                    214,
+                    24
+                ],
+                [
+                    224,
+                    20
+                ],
+                [
+                    233,
+                    22
+                ],
+                [
+                    254,
+                    26
+                ],
+                [
+                    266,
+                    28
+                ],
+                [
+                    278,
+                    28
+                ],
+                [
+                    285,
+                    28
+                ],
+                [
+                    293,
+                    24
+                ],
+                [
+                    303,
+                    22
+                ],
+                [
+                    311,
+                    21
+                ],
+                [
+                    318,
+                    19
+                ],
+                [
+                    330,
+                    20
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "B0+A0+B0": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": true,
+            "id": "B0+A0+B0",
+            "origin": "B0"
+        },
+        "T0+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    51,
+                    162
+                ],
+                [
+                    69,
+                    205
+                ]
+            ],
+            "replacementText": "C",
+            "value": "TIME"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    335,
+                    294
+                ],
+                [
+                    386,
+                    321
+                ]
+            ],
+            "replacementText": "B",
+            "value": "OLDEST ROCKS"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    334,
+                    23
+                ],
+                [
+                    391,
+                    54
+                ]
+            ],
+            "replacementText": "A",
+            "value": "NEWEST ROCKS"
+        }
+    }
+}

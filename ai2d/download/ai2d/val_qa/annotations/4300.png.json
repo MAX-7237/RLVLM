@@ -1,0 +1,229 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    30,
+                    62
+                ],
+                [
+                    38,
+                    250
+                ],
+                [
+                    50,
+                    248
+                ],
+                [
+                    39,
+                    52
+                ],
+                [
+                    30,
+                    60
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    87,
+                    105
+                ],
+                [
+                    78,
+                    256
+                ],
+                [
+                    85,
+                    256
+                ],
+                [
+                    97,
+                    105
+                ],
+                [
+                    90,
+                    105
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    164,
+                    168
+                ],
+                [
+                    158,
+                    258
+                ],
+                [
+                    164,
+                    258
+                ],
+                [
+                    169,
+                    168
+                ],
+                [
+                    169,
+                    167
+                ],
+                [
+                    165,
+                    167
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    0,
+                    93
+                ],
+                [
+                    40,
+                    113
+                ],
+                [
+                    73,
+                    141
+                ],
+                [
+                    127,
+                    178
+                ],
+                [
+                    184,
+                    188
+                ],
+                [
+                    229,
+                    195
+                ],
+                [
+                    230,
+                    332
+                ],
+                [
+                    0,
+                    330
+                ],
+                [
+                    0,
+                    91
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        },
+        "T2+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    10,
+                    38
+                ],
+                [
+                    120,
+                    60
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Heat from magma"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    59,
+                    78
+                ],
+                [
+                    175,
+                    108
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Metamorphic rocks forming"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    119,
+                    117
+                ],
+                [
+                    224,
+                    165
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Igneous and sedimentary rocks under pressure"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    11,
+                    300
+                ],
+                [
+                    60,
+                    319
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Magma"
+        }
+    }
+}

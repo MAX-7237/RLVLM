@@ -1,0 +1,402 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    45,
+                    80
+                ],
+                [
+                    37,
+                    88
+                ],
+                [
+                    95,
+                    149
+                ],
+                [
+                    106,
+                    138
+                ],
+                [
+                    48,
+                    81
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    88,
+                    41
+                ],
+                [
+                    84,
+                    48
+                ],
+                [
+                    174,
+                    75
+                ],
+                [
+                    178,
+                    64
+                ],
+                [
+                    88,
+                    41
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    116,
+                    15
+                ],
+                [
+                    113,
+                    25
+                ],
+                [
+                    179,
+                    43
+                ],
+                [
+                    181,
+                    31
+                ],
+                [
+                    117,
+                    14
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    338,
+                    22
+                ],
+                [
+                    332,
+                    31
+                ],
+                [
+                    347,
+                    46
+                ],
+                [
+                    356,
+                    38
+                ],
+                [
+                    339,
+                    21
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    258,
+                    44
+                ],
+                [
+                    268,
+                    47
+                ],
+                [
+                    249,
+                    86
+                ],
+                [
+                    231,
+                    116
+                ],
+                [
+                    220,
+                    108
+                ],
+                [
+                    259,
+                    45
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    16,
+                    179
+                ],
+                [
+                    124,
+                    74
+                ],
+                [
+                    145,
+                    68
+                ],
+                [
+                    163,
+                    55
+                ],
+                [
+                    184,
+                    36
+                ],
+                [
+                    192,
+                    36
+                ],
+                [
+                    197,
+                    41
+                ],
+                [
+                    209,
+                    51
+                ],
+                [
+                    229,
+                    63
+                ],
+                [
+                    274,
+                    79
+                ],
+                [
+                    300,
+                    76
+                ],
+                [
+                    337,
+                    60
+                ],
+                [
+                    355,
+                    40
+                ],
+                [
+                    369,
+                    40
+                ],
+                [
+                    384,
+                    51
+                ],
+                [
+                    401,
+                    62
+                ],
+                [
+                    447,
+                    81
+                ],
+                [
+                    446,
+                    182
+                ],
+                [
+                    343,
+                    281
+                ],
+                [
+                    19,
+                    283
+                ],
+                [
+                    17,
+                    183
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A3+B0",
+            "origin": "T0"
+        },
+        "T1+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A0+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A1+B0",
+            "origin": "T5"
+        },
+        "T5+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A2+B0",
+            "origin": "T5"
+        },
+        "T6+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+A4+B0",
+            "origin": "T6"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    309,
+                    8
+                ],
+                [
+                    401,
+                    27
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Stratovolcano"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    14,
+                    68
+                ],
+                [
+                    107,
+                    86
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Stratovolcano"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    249,
+                    130
+                ],
+                [
+                    341,
+                    146
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Fissure Flow"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    75,
+                    217
+                ],
+                [
+                    141,
+                    257
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Magma Chamber"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    202,
+                    258
+                ],
+                [
+                    318,
+                    277
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Magma Chamber"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    19,
+                    11
+                ],
+                [
+                    146,
+                    42
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Stratovolcano and parasitic cone"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    221,
+                    18
+                ],
+                [
+                    294,
+                    50
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Lava Flow in Valley"
+        }
+    }
+}

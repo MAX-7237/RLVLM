@@ -1,0 +1,307 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    81,
+                    39
+                ],
+                [
+                    93,
+                    38
+                ],
+                [
+                    93,
+                    76
+                ],
+                [
+                    83,
+                    75
+                ],
+                [
+                    83,
+                    38
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    86,
+                    87
+                ],
+                [
+                    87,
+                    103
+                ],
+                [
+                    148,
+                    89
+                ],
+                [
+                    144,
+                    77
+                ],
+                [
+                    84,
+                    90
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    90,
+                    150
+                ],
+                [
+                    93,
+                    165
+                ],
+                [
+                    148,
+                    153
+                ],
+                [
+                    143,
+                    138
+                ],
+                [
+                    90,
+                    150
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    92,
+                    203
+                ],
+                [
+                    101,
+                    193
+                ],
+                [
+                    144,
+                    216
+                ],
+                [
+                    135,
+                    230
+                ],
+                [
+                    91,
+                    200
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    75,
+                    275
+                ],
+                [
+                    59,
+                    272
+                ],
+                [
+                    68,
+                    232
+                ],
+                [
+                    80,
+                    236
+                ],
+                [
+                    76,
+                    273
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    55,
+                    227
+                ],
+                [
+                    55,
+                    79
+                ],
+                [
+                    66,
+                    68
+                ],
+                [
+                    100,
+                    67
+                ],
+                [
+                    121,
+                    79
+                ],
+                [
+                    120,
+                    229
+                ],
+                [
+                    115,
+                    232
+                ],
+                [
+                    95,
+                    215
+                ],
+                [
+                    80,
+                    237
+                ],
+                [
+                    55,
+                    232
+                ],
+                [
+                    55,
+                    227
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        },
+        "T2+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A2+B0",
+            "origin": "T2"
+        },
+        "T3+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A3+B0",
+            "origin": "T3"
+        },
+        "T4+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A4+B0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    50,
+                    22
+                ],
+                [
+                    125,
+                    36
+                ]
+            ],
+            "replacementText": "E",
+            "value": "metal cap +"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    140,
+                    76
+                ],
+                [
+                    215,
+                    90
+                ]
+            ],
+            "replacementText": "B",
+            "value": "carbon rod"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    143,
+                    139
+                ],
+                [
+                    223,
+                    171
+                ]
+            ],
+            "replacementText": "C",
+            "value": "manganese oxide"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    140,
+                    211
+                ],
+                [
+                    218,
+                    241
+                ]
+            ],
+            "replacementText": "A",
+            "value": "ammonium chloride"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    49,
+                    270
+                ],
+                [
+                    122,
+                    285
+                ]
+            ],
+            "replacementText": "D",
+            "value": "zinc case -"
+        }
+    }
+}

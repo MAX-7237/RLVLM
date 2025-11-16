@@ -1,0 +1,252 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    28,
+                    342
+                ],
+                [
+                    96,
+                    325
+                ],
+                [
+                    94,
+                    145
+                ],
+                [
+                    480,
+                    144
+                ],
+                [
+                    486,
+                    345
+                ],
+                [
+                    357,
+                    346
+                ],
+                [
+                    359,
+                    363
+                ],
+                [
+                    198,
+                    363
+                ],
+                [
+                    160,
+                    390
+                ],
+                [
+                    27,
+                    367
+                ],
+                [
+                    27,
+                    340
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    589,
+                    450
+                ],
+                [
+                    621,
+                    428
+                ],
+                [
+                    773,
+                    428
+                ],
+                [
+                    773,
+                    418
+                ],
+                [
+                    887,
+                    418
+                ],
+                [
+                    889,
+                    229
+                ],
+                [
+                    523,
+                    229
+                ],
+                [
+                    523,
+                    393
+                ],
+                [
+                    460,
+                    407
+                ],
+                [
+                    463,
+                    429
+                ],
+                [
+                    585,
+                    449
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    624,
+                    465
+                ],
+                [
+                    629,
+                    662
+                ],
+                [
+                    507,
+                    659
+                ],
+                [
+                    506,
+                    669
+                ],
+                [
+                    351,
+                    674
+                ],
+                [
+                    315,
+                    700
+                ],
+                [
+                    183,
+                    677
+                ],
+                [
+                    180,
+                    653
+                ],
+                [
+                    243,
+                    639
+                ],
+                [
+                    244,
+                    466
+                ],
+                [
+                    625,
+                    466
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+B1",
+            "origin": "T2"
+        },
+        "T3+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T3+B2",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    146,
+                    53
+                ],
+                [
+                    532,
+                    105
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Types of Volcanoes"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    91,
+                    118
+                ],
+                [
+                    286,
+                    144
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Shield volcano"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    521,
+                    195
+                ],
+                [
+                    780,
+                    224
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Cinder cone volcano"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    211,
+                    436
+                ],
+                [
+                    458,
+                    462
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Composite volcano"
+        }
+    }
+}

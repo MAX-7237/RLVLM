@@ -1,0 +1,272 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    58,
+                    172
+                ],
+                [
+                    79,
+                    171
+                ],
+                [
+                    106,
+                    163
+                ],
+                [
+                    122,
+                    145
+                ],
+                [
+                    127,
+                    134
+                ],
+                [
+                    143,
+                    124
+                ],
+                [
+                    154,
+                    108
+                ],
+                [
+                    169,
+                    93
+                ],
+                [
+                    191,
+                    78
+                ],
+                [
+                    199,
+                    73
+                ],
+                [
+                    211,
+                    76
+                ],
+                [
+                    216,
+                    79
+                ],
+                [
+                    221,
+                    78
+                ],
+                [
+                    232,
+                    75
+                ],
+                [
+                    243,
+                    81
+                ],
+                [
+                    259,
+                    92
+                ],
+                [
+                    277,
+                    107
+                ],
+                [
+                    284,
+                    120
+                ],
+                [
+                    293,
+                    126
+                ],
+                [
+                    308,
+                    132
+                ],
+                [
+                    319,
+                    144
+                ],
+                [
+                    334,
+                    150
+                ],
+                [
+                    346,
+                    153
+                ],
+                [
+                    349,
+                    166
+                ],
+                [
+                    348,
+                    213
+                ],
+                [
+                    350,
+                    229
+                ],
+                [
+                    327,
+                    249
+                ],
+                [
+                    298,
+                    278
+                ],
+                [
+                    269,
+                    263
+                ],
+                [
+                    250,
+                    249
+                ],
+                [
+                    220,
+                    234
+                ],
+                [
+                    109,
+                    286
+                ],
+                [
+                    58,
+                    248
+                ],
+                [
+                    53,
+                    246
+                ],
+                [
+                    56,
+                    174
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T1+I0",
+            "origin": "T1"
+        },
+        "T2+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T2+I0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T4+I0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    44,
+                    9
+                ],
+                [
+                    100,
+                    27
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Igneous"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    43,
+                    33
+                ],
+                [
+                    135,
+                    52
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Sedimentary"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    44,
+                    55
+                ],
+                [
+                    138,
+                    73
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Metamorphic"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    200,
+                    212
+                ],
+                [
+                    244,
+                    232
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Magma"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    117,
+                    376
+                ],
+                [
+                    282,
+                    398
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Three Types of Rocks"
+        }
+    }
+}

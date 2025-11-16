@@ -1,0 +1,288 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 157.5,
+            "rectangle": [
+                [
+                    221,
+                    85
+                ],
+                [
+                    229,
+                    94
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 348.75,
+            "rectangle": [
+                [
+                    115,
+                    15
+                ],
+                [
+                    123,
+                    25
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    220,
+                    21
+                ],
+                [
+                    225,
+                    15
+                ],
+                [
+                    243,
+                    28
+                ],
+                [
+                    255,
+                    48
+                ],
+                [
+                    253,
+                    70
+                ],
+                [
+                    242,
+                    85
+                ],
+                [
+                    228,
+                    93
+                ],
+                [
+                    232,
+                    100
+                ],
+                [
+                    219,
+                    93
+                ],
+                [
+                    226,
+                    80
+                ],
+                [
+                    229,
+                    86
+                ],
+                [
+                    239,
+                    79
+                ],
+                [
+                    247,
+                    65
+                ],
+                [
+                    247,
+                    49
+                ],
+                [
+                    240,
+                    34
+                ],
+                [
+                    221,
+                    21
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    125,
+                    87
+                ],
+                [
+                    125,
+                    95
+                ],
+                [
+                    110,
+                    89
+                ],
+                [
+                    99,
+                    76
+                ],
+                [
+                    92,
+                    57
+                ],
+                [
+                    96,
+                    36
+                ],
+                [
+                    114,
+                    20
+                ],
+                [
+                    113,
+                    14
+                ],
+                [
+                    125,
+                    18
+                ],
+                [
+                    118,
+                    30
+                ],
+                [
+                    117,
+                    26
+                ],
+                [
+                    102,
+                    37
+                ],
+                [
+                    100,
+                    59
+                ],
+                [
+                    105,
+                    76
+                ],
+                [
+                    114,
+                    83
+                ],
+                [
+                    124,
+                    89
+                ]
+            ]
+        }
+    },
+    "blobs": {},
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A1+H1",
+            "origin": "A1"
+        },
+        "T0+A1": {
+            "category": "arrowDescriptor",
+            "destination": "A1",
+            "hasDirectionality": false,
+            "id": "T0+A1",
+            "origin": "T0"
+        },
+        "T1+A0+T3": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "T3",
+            "hasDirectionality": true,
+            "id": "T1+A0+T3",
+            "origin": "T1"
+        },
+        "T2+A0": {
+            "category": "arrowDescriptor",
+            "destination": "A0",
+            "hasDirectionality": false,
+            "id": "T2+A0",
+            "origin": "T2"
+        },
+        "T3+A1+T1": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "T1",
+            "hasDirectionality": true,
+            "id": "T3+A1+T1",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    5,
+                    48
+                ],
+                [
+                    89,
+                    59
+                ]
+            ],
+            "replacementText": "A",
+            "value": "evaporation"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    149,
+                    15
+                ],
+                [
+                    200,
+                    32
+                ]
+            ],
+            "replacementText": "D",
+            "value": "clouds"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    259,
+                    42
+                ],
+                [
+                    354,
+                    66
+                ]
+            ],
+            "replacementText": "C",
+            "value": "condensation"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    151,
+                    75
+                ],
+                [
+                    196,
+                    93
+                ]
+            ],
+            "replacementText": "B",
+            "value": "rivers"
+        }
+    }
+}

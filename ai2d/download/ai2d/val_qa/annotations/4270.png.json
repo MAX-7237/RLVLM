@@ -1,0 +1,272 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    94,
+                    359
+                ],
+                [
+                    97,
+                    66
+                ],
+                [
+                    166,
+                    65
+                ],
+                [
+                    155,
+                    50
+                ],
+                [
+                    131,
+                    28
+                ],
+                [
+                    129,
+                    24
+                ],
+                [
+                    152,
+                    32
+                ],
+                [
+                    163,
+                    40
+                ],
+                [
+                    177,
+                    53
+                ],
+                [
+                    179,
+                    63
+                ],
+                [
+                    184,
+                    38
+                ],
+                [
+                    195,
+                    21
+                ],
+                [
+                    209,
+                    4
+                ],
+                [
+                    219,
+                    0
+                ],
+                [
+                    217,
+                    13
+                ],
+                [
+                    204,
+                    36
+                ],
+                [
+                    225,
+                    19
+                ],
+                [
+                    249,
+                    7
+                ],
+                [
+                    241,
+                    18
+                ],
+                [
+                    230,
+                    31
+                ],
+                [
+                    219,
+                    46
+                ],
+                [
+                    206,
+                    60
+                ],
+                [
+                    198,
+                    66
+                ],
+                [
+                    218,
+                    67
+                ],
+                [
+                    226,
+                    71
+                ],
+                [
+                    237,
+                    76
+                ],
+                [
+                    245,
+                    77
+                ],
+                [
+                    248,
+                    86
+                ],
+                [
+                    256,
+                    90
+                ],
+                [
+                    267,
+                    96
+                ],
+                [
+                    278,
+                    100
+                ],
+                [
+                    281,
+                    100
+                ],
+                [
+                    283,
+                    398
+                ],
+                [
+                    158,
+                    399
+                ],
+                [
+                    92,
+                    361
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    304,
+                    103
+                ],
+                [
+                    396,
+                    129
+                ]
+            ],
+            "replacementText": "A",
+            "value": "O Horizon"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    301,
+                    151
+                ],
+                [
+                    397,
+                    179
+                ]
+            ],
+            "replacementText": "D",
+            "value": "A Horizon"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    306,
+                    213
+                ],
+                [
+                    408,
+                    247
+                ]
+            ],
+            "replacementText": "C",
+            "value": "E Horizon"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    304,
+                    277
+                ],
+                [
+                    391,
+                    316
+                ]
+            ],
+            "replacementText": "B",
+            "value": "B Horizon"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    305,
+                    349
+                ],
+                [
+                    398,
+                    379
+                ]
+            ],
+            "replacementText": "E",
+            "value": "C HORIZON; WEATHERED PARENT MATERIAL, PARTLY BROKEN DOWN MINERALS)"
+        }
+    }
+}

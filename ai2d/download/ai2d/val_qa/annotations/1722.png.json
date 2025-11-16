@@ -1,0 +1,180 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    4,
+                    263
+                ],
+                [
+                    5,
+                    188
+                ],
+                [
+                    155,
+                    93
+                ],
+                [
+                    173,
+                    91
+                ],
+                [
+                    191,
+                    87
+                ],
+                [
+                    213,
+                    81
+                ],
+                [
+                    236,
+                    72
+                ],
+                [
+                    272,
+                    72
+                ],
+                [
+                    291,
+                    64
+                ],
+                [
+                    319,
+                    68
+                ],
+                [
+                    332,
+                    64
+                ],
+                [
+                    343,
+                    89
+                ],
+                [
+                    359,
+                    92
+                ],
+                [
+                    369,
+                    79
+                ],
+                [
+                    399,
+                    76
+                ],
+                [
+                    429,
+                    67
+                ],
+                [
+                    437,
+                    75
+                ],
+                [
+                    449,
+                    83
+                ],
+                [
+                    449,
+                    89
+                ],
+                [
+                    485,
+                    92
+                ],
+                [
+                    489,
+                    167
+                ],
+                [
+                    336,
+                    265
+                ],
+                [
+                    4,
+                    264
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    396,
+                    6
+                ],
+                [
+                    478,
+                    61
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Inyo-White Mountains-Horst"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    11,
+                    193
+                ],
+                [
+                    137,
+                    228
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Sierra Nevada- Tilted Fault Block"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    178,
+                    229
+                ],
+                [
+                    278,
+                    263
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Owens Valley- Graben"
+        }
+    }
+}

@@ -1,0 +1,693 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 0.0,
+            "rectangle": [
+                [
+                    68,
+                    114
+                ],
+                [
+                    76,
+                    122
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 101.25,
+            "rectangle": [
+                [
+                    105,
+                    119
+                ],
+                [
+                    121,
+                    135
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": 101.25,
+            "rectangle": [
+                [
+                    348,
+                    160
+                ],
+                [
+                    360,
+                    172
+                ]
+            ]
+        },
+        "H3": {
+            "id": "H3",
+            "orientation": 0.0,
+            "rectangle": [
+                [
+                    213,
+                    330
+                ],
+                [
+                    227,
+                    344
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    128,
+                    74
+                ],
+                [
+                    141,
+                    82
+                ],
+                [
+                    127,
+                    102
+                ],
+                [
+                    122,
+                    107
+                ],
+                [
+                    121,
+                    116
+                ],
+                [
+                    120,
+                    123
+                ],
+                [
+                    116,
+                    136
+                ],
+                [
+                    109,
+                    144
+                ],
+                [
+                    101,
+                    118
+                ],
+                [
+                    105,
+                    117
+                ],
+                [
+                    111,
+                    97
+                ],
+                [
+                    122,
+                    85
+                ],
+                [
+                    131,
+                    72
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    50,
+                    124
+                ],
+                [
+                    58,
+                    111
+                ],
+                [
+                    79,
+                    112
+                ],
+                [
+                    77,
+                    123
+                ],
+                [
+                    62,
+                    126
+                ],
+                [
+                    57,
+                    129
+                ],
+                [
+                    52,
+                    127
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    111,
+                    327
+                ],
+                [
+                    117,
+                    346
+                ],
+                [
+                    236,
+                    344
+                ],
+                [
+                    230,
+                    327
+                ],
+                [
+                    114,
+                    328
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    141,
+                    308
+                ],
+                [
+                    131,
+                    320
+                ],
+                [
+                    206,
+                    363
+                ],
+                [
+                    212,
+                    348
+                ],
+                [
+                    141,
+                    310
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    392,
+                    104
+                ],
+                [
+                    402,
+                    118
+                ],
+                [
+                    374,
+                    137
+                ],
+                [
+                    362,
+                    153
+                ],
+                [
+                    360,
+                    164
+                ],
+                [
+                    360,
+                    176
+                ],
+                [
+                    354,
+                    180
+                ],
+                [
+                    342,
+                    157
+                ],
+                [
+                    350,
+                    157
+                ],
+                [
+                    362,
+                    128
+                ],
+                [
+                    391,
+                    105
+                ]
+            ]
+        },
+        "A5": {
+            "id": "A5",
+            "polygon": [
+                [
+                    422,
+                    153
+                ],
+                [
+                    426,
+                    173
+                ],
+                [
+                    432,
+                    174
+                ],
+                [
+                    432,
+                    148
+                ],
+                [
+                    421,
+                    152
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    76,
+                    110
+                ],
+                [
+                    90,
+                    110
+                ],
+                [
+                    122,
+                    108
+                ],
+                [
+                    152,
+                    107
+                ],
+                [
+                    170,
+                    109
+                ],
+                [
+                    197,
+                    109
+                ],
+                [
+                    215,
+                    105
+                ],
+                [
+                    220,
+                    107
+                ],
+                [
+                    235,
+                    108
+                ],
+                [
+                    260,
+                    108
+                ],
+                [
+                    281,
+                    110
+                ],
+                [
+                    290,
+                    107
+                ],
+                [
+                    307,
+                    107
+                ],
+                [
+                    322,
+                    106
+                ],
+                [
+                    424,
+                    161
+                ],
+                [
+                    425,
+                    197
+                ],
+                [
+                    424,
+                    312
+                ],
+                [
+                    172,
+                    312
+                ],
+                [
+                    69,
+                    259
+                ],
+                [
+                    75,
+                    109
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A0+H1",
+            "origin": "A0"
+        },
+        "A1+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A1+H0",
+            "origin": "A1"
+        },
+        "A2+H3": {
+            "category": "arrowHeadTail",
+            "destination": "H3",
+            "hasDirectionality": false,
+            "id": "A2+H3",
+            "origin": "A2"
+        },
+        "A4+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A4+H2",
+            "origin": "A4"
+        },
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T10+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T10+A0+B0",
+            "origin": "T10"
+        },
+        "T11+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T11+I0",
+            "origin": "T11"
+        },
+        "T12+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T12+A4+B0",
+            "origin": "T12"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A1+B0",
+            "origin": "T5"
+        },
+        "T6+A5+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A5",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+A5+B0",
+            "origin": "T6"
+        },
+        "T7+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+B0",
+            "origin": "T7"
+        },
+        "T8+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T8+A3+B0",
+            "origin": "T8"
+        },
+        "T9+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T9+B0",
+            "origin": "T9"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    78,
+                    147
+                ],
+                [
+                    167,
+                    242
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Vallis Vale Limestones"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    347,
+                    186
+                ],
+                [
+                    411,
+                    300
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Vallis Vale Limestones"
+        },
+        "T10": {
+            "id": "T10",
+            "rectangle": [
+                [
+                    130,
+                    59
+                ],
+                [
+                    229,
+                    110
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Carboniferous rocks dipping SE under the Jurassic beds"
+        },
+        "T11": {
+            "id": "T11",
+            "rectangle": [
+                [
+                    257,
+                    45
+                ],
+                [
+                    361,
+                    102
+                ]
+            ],
+            "replacementText": "J",
+            "value": "Rivers cut through the Jurassic beds to reveal the folded limestone beneath"
+        },
+        "T12": {
+            "id": "T12",
+            "rectangle": [
+                [
+                    388,
+                    86
+                ],
+                [
+                    484,
+                    134
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Carboniferous rocks dipping NW under the jurassic beds"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    297,
+                    194
+                ],
+                [
+                    365,
+                    298
+                ]
+            ],
+            "replacementText": "K",
+            "value": "Carboniferous shales"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    185,
+                    184
+                ],
+                [
+                    251,
+                    286
+                ]
+            ],
+            "replacementText": "I",
+            "value": "Carboniferous shales"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    425,
+                    218
+                ],
+                [
+                    493,
+                    254
+                ]
+            ],
+            "replacementText": "L",
+            "value": "Folded Carboniferous rocks"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    1,
+                    119
+                ],
+                [
+                    78,
+                    207
+                ]
+            ],
+            "replacementText": "M",
+            "value": "Erosion suface cut across the folded rocks and bored by marine organisms"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    437,
+                    152
+                ],
+                [
+                    486,
+                    179
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Jurassic limestone"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    235,
+                    250
+                ],
+                [
+                    261,
+                    284
+                ]
+            ],
+            "replacementText": "C",
+            "value": "older"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    223,
+                    322
+                ],
+                [
+                    241,
+                    340
+                ]
+            ],
+            "replacementText": "A",
+            "value": "N"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    291,
+                    250
+                ],
+                [
+                    316,
+                    290
+                ]
+            ],
+            "replacementText": "B",
+            "value": "rocks"
+        }
+    }
+}

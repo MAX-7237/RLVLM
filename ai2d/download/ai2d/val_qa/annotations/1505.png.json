@@ -1,0 +1,217 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    105,
+                    184
+                ],
+                [
+                    21,
+                    185
+                ],
+                [
+                    20,
+                    51
+                ],
+                [
+                    56,
+                    50
+                ],
+                [
+                    104,
+                    52
+                ],
+                [
+                    106,
+                    183
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    131,
+                    179
+                ],
+                [
+                    131,
+                    52
+                ],
+                [
+                    225,
+                    50
+                ],
+                [
+                    215,
+                    173
+                ],
+                [
+                    213,
+                    185
+                ],
+                [
+                    130,
+                    184
+                ],
+                [
+                    131,
+                    178
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    239,
+                    181
+                ],
+                [
+                    239,
+                    53
+                ],
+                [
+                    279,
+                    51
+                ],
+                [
+                    281,
+                    183
+                ],
+                [
+                    240,
+                    183
+                ]
+            ]
+        },
+        "B3": {
+            "id": "B3",
+            "polygon": [
+                [
+                    302,
+                    181
+                ],
+                [
+                    316,
+                    52
+                ],
+                [
+                    355,
+                    52
+                ],
+                [
+                    342,
+                    183
+                ],
+                [
+                    302,
+                    182
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+B1",
+            "origin": "T2"
+        },
+        "T3+B3": {
+            "category": "intraObjectLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T3+B3",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    71,
+                    4
+                ],
+                [
+                    309,
+                    46
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Frost Wedging"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    9,
+                    200
+                ],
+                [
+                    121,
+                    247
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Water-filled crack"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    132,
+                    197
+                ],
+                [
+                    225,
+                    246
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Freezes to ice"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    260,
+                    196
+                ],
+                [
+                    327,
+                    244
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Breaks Rock"
+        }
+    }
+}

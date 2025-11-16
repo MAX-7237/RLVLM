@@ -1,0 +1,209 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 270.0,
+            "rectangle": [
+                [
+                    11,
+                    29
+                ],
+                [
+                    42,
+                    60
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    8,
+                    43
+                ],
+                [
+                    24,
+                    25
+                ],
+                [
+                    41,
+                    49
+                ],
+                [
+                    30,
+                    54
+                ],
+                [
+                    32,
+                    317
+                ],
+                [
+                    16,
+                    319
+                ],
+                [
+                    17,
+                    55
+                ],
+                [
+                    9,
+                    54
+                ],
+                [
+                    3,
+                    53
+                ],
+                [
+                    9,
+                    42
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    49,
+                    318
+                ],
+                [
+                    282,
+                    319
+                ],
+                [
+                    284,
+                    25
+                ],
+                [
+                    270,
+                    22
+                ],
+                [
+                    247,
+                    26
+                ],
+                [
+                    231,
+                    30
+                ],
+                [
+                    194,
+                    26
+                ],
+                [
+                    168,
+                    24
+                ],
+                [
+                    158,
+                    26
+                ],
+                [
+                    134,
+                    26
+                ],
+                [
+                    110,
+                    24
+                ],
+                [
+                    92,
+                    26
+                ],
+                [
+                    52,
+                    27
+                ],
+                [
+                    49,
+                    45
+                ],
+                [
+                    48,
+                    318
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    286,
+                    292
+                ],
+                [
+                    334,
+                    319
+                ]
+            ],
+            "replacementText": "A",
+            "value": "OLDEST ROCKS"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    2,
+                    162
+                ],
+                [
+                    19,
+                    201
+                ]
+            ],
+            "replacementText": "C",
+            "value": "TIME"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    286,
+                    23
+                ],
+                [
+                    335,
+                    50
+                ]
+            ],
+            "replacementText": "B",
+            "value": "NEWEST ROCKS"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "imageName": "938.png",
+    "questions": {
+        "Animal A has what color plumage?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Pink",
+                "Orange",
+                "Blue",
+                "Yellow"
+            ],
+            "correctAnswer": 2,
+            "questionId": "938.png-1"
+        },
+        "What type of bird is Animal C?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Duck",
+                "Chicken",
+                "Bluebird",
+                "Lizard"
+            ],
+            "correctAnswer": 1,
+            "questionId": "938.png-2"
+        },
+        "Which bird has the largest bill, or beak?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "Chicken",
+                "Duck",
+                "They all have equally large bills, or beaks.",
+                "Bluebird"
+            ],
+            "correctAnswer": 1,
+            "questionId": "938.png-0"
+        }
+    }
+}

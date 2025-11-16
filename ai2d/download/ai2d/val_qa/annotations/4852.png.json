@@ -1,0 +1,187 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    110,
+                    153
+                ],
+                [
+                    173,
+                    154
+                ],
+                [
+                    173,
+                    143
+                ],
+                [
+                    108,
+                    142
+                ],
+                [
+                    107,
+                    151
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    296,
+                    177
+                ],
+                [
+                    297,
+                    187
+                ],
+                [
+                    358,
+                    189
+                ],
+                [
+                    358,
+                    176
+                ],
+                [
+                    297,
+                    176
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    248,
+                    106
+                ],
+                [
+                    290,
+                    127
+                ],
+                [
+                    347,
+                    199
+                ],
+                [
+                    390,
+                    240
+                ],
+                [
+                    447,
+                    299
+                ],
+                [
+                    449,
+                    399
+                ],
+                [
+                    1,
+                    399
+                ],
+                [
+                    3,
+                    286
+                ],
+                [
+                    45,
+                    267
+                ],
+                [
+                    96,
+                    219
+                ],
+                [
+                    130,
+                    182
+                ],
+                [
+                    162,
+                    132
+                ],
+                [
+                    194,
+                    106
+                ],
+                [
+                    205,
+                    109
+                ],
+                [
+                    205,
+                    113
+                ],
+                [
+                    245,
+                    111
+                ],
+                [
+                    248,
+                    107
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A1+B0",
+            "origin": "T1"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    67,
+                    136
+                ],
+                [
+                    108,
+                    157
+                ]
+            ],
+            "replacementText": "B",
+            "value": "lava"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    359,
+                    173
+                ],
+                [
+                    397,
+                    194
+                ]
+            ],
+            "replacementText": "A",
+            "value": "ash"
+        }
+    }
+}

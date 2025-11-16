@@ -1,0 +1,224 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    29,
+                    89
+                ],
+                [
+                    29,
+                    129
+                ],
+                [
+                    37,
+                    130
+                ],
+                [
+                    37,
+                    89
+                ],
+                [
+                    33,
+                    89
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    48,
+                    71
+                ],
+                [
+                    109,
+                    43
+                ],
+                [
+                    106,
+                    36
+                ],
+                [
+                    42,
+                    66
+                ],
+                [
+                    46,
+                    72
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    131,
+                    44
+                ],
+                [
+                    211,
+                    68
+                ],
+                [
+                    213,
+                    63
+                ],
+                [
+                    133,
+                    37
+                ],
+                [
+                    132,
+                    43
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    220,
+                    91
+                ],
+                [
+                    220,
+                    131
+                ],
+                [
+                    228,
+                    131
+                ],
+                [
+                    229,
+                    89
+                ],
+                [
+                    221,
+                    89
+                ]
+            ]
+        }
+    },
+    "blobs": {},
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A1+T1": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "T1",
+            "hasDirectionality": false,
+            "id": "T0+A1+T1",
+            "origin": "T0"
+        },
+        "T0+A2+T2": {
+            "category": "interObjectLinkage",
+            "connector": "A2",
+            "destination": "T2",
+            "hasDirectionality": false,
+            "id": "T0+A2+T2",
+            "origin": "T0"
+        },
+        "T1+A0+T3": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "T3",
+            "hasDirectionality": false,
+            "id": "T1+A0+T3",
+            "origin": "T1"
+        },
+        "T2+A3+T4": {
+            "category": "interObjectLinkage",
+            "connector": "A3",
+            "destination": "T4",
+            "hasDirectionality": false,
+            "id": "T2+A3+T4",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    88,
+                    18
+                ],
+                [
+                    162,
+                    38
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Humans"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    8,
+                    66
+                ],
+                [
+                    59,
+                    87
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Cows"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    202,
+                    68
+                ],
+                [
+                    242,
+                    90
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Pigs"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    6,
+                    127
+                ],
+                [
+                    61,
+                    149
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Grass"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    203,
+                    126
+                ],
+                [
+                    243,
+                    150
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Slop"
+        }
+    }
+}

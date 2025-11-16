@@ -1,0 +1,275 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    134,
+                    135
+                ],
+                [
+                    219,
+                    139
+                ],
+                [
+                    217,
+                    122
+                ],
+                [
+                    131,
+                    128
+                ],
+                [
+                    133,
+                    135
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    355,
+                    109
+                ],
+                [
+                    435,
+                    110
+                ],
+                [
+                    437,
+                    124
+                ],
+                [
+                    353,
+                    124
+                ],
+                [
+                    352,
+                    110
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    123,
+                    198
+                ],
+                [
+                    174,
+                    196
+                ],
+                [
+                    175,
+                    209
+                ],
+                [
+                    120,
+                    209
+                ],
+                [
+                    123,
+                    198
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    187,
+                    94
+                ],
+                [
+                    165,
+                    148
+                ],
+                [
+                    158,
+                    182
+                ],
+                [
+                    161,
+                    229
+                ],
+                [
+                    169,
+                    265
+                ],
+                [
+                    189,
+                    306
+                ],
+                [
+                    224,
+                    345
+                ],
+                [
+                    263,
+                    357
+                ],
+                [
+                    303,
+                    360
+                ],
+                [
+                    330,
+                    344
+                ],
+                [
+                    362,
+                    316
+                ],
+                [
+                    375,
+                    274
+                ],
+                [
+                    380,
+                    225
+                ],
+                [
+                    376,
+                    197
+                ],
+                [
+                    369,
+                    178
+                ],
+                [
+                    381,
+                    157
+                ],
+                [
+                    386,
+                    137
+                ],
+                [
+                    385,
+                    114
+                ],
+                [
+                    378,
+                    82
+                ],
+                [
+                    364,
+                    61
+                ],
+                [
+                    347,
+                    48
+                ],
+                [
+                    317,
+                    36
+                ],
+                [
+                    289,
+                    30
+                ],
+                [
+                    259,
+                    36
+                ],
+                [
+                    236,
+                    47
+                ],
+                [
+                    206,
+                    73
+                ],
+                [
+                    188,
+                    97
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A2+B0",
+            "origin": "T1"
+        },
+        "T2+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A1+B0",
+            "origin": "T2"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    82,
+                    110
+                ],
+                [
+                    146,
+                    129
+                ]
+            ],
+            "replacementText": "C",
+            "value": "food store"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    64,
+                    183
+                ],
+                [
+                    127,
+                    201
+                ]
+            ],
+            "replacementText": "B",
+            "value": "seed coat"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    424,
+                    99
+                ],
+                [
+                    472,
+                    117
+                ]
+            ],
+            "replacementText": "A",
+            "value": "embryo"
+        }
+    }
+}

@@ -1,0 +1,538 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 135.0,
+            "rectangle": [
+                [
+                    492,
+                    124
+                ],
+                [
+                    500,
+                    132
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    175,
+                    115
+                ],
+                [
+                    223,
+                    88
+                ],
+                [
+                    228,
+                    100
+                ],
+                [
+                    179,
+                    131
+                ],
+                [
+                    175,
+                    118
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    157,
+                    239
+                ],
+                [
+                    287,
+                    208
+                ],
+                [
+                    289,
+                    218
+                ],
+                [
+                    160,
+                    249
+                ],
+                [
+                    154,
+                    240
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    204,
+                    303
+                ],
+                [
+                    268,
+                    356
+                ],
+                [
+                    260,
+                    367
+                ],
+                [
+                    191,
+                    311
+                ],
+                [
+                    202,
+                    302
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    491,
+                    129
+                ],
+                [
+                    537,
+                    111
+                ],
+                [
+                    539,
+                    121
+                ],
+                [
+                    500,
+                    138
+                ],
+                [
+                    492,
+                    126
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    456,
+                    178
+                ],
+                [
+                    505,
+                    180
+                ],
+                [
+                    505,
+                    185
+                ],
+                [
+                    459,
+                    185
+                ],
+                [
+                    460,
+                    175
+                ],
+                [
+                    457,
+                    176
+                ]
+            ]
+        },
+        "A5": {
+            "id": "A5",
+            "polygon": [
+                [
+                    452,
+                    228
+                ],
+                [
+                    474,
+                    270
+                ],
+                [
+                    466,
+                    270
+                ],
+                [
+                    447,
+                    235
+                ],
+                [
+                    454,
+                    229
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    444,
+                    108
+                ],
+                [
+                    444,
+                    254
+                ],
+                [
+                    515,
+                    129
+                ],
+                [
+                    490,
+                    116
+                ],
+                [
+                    480,
+                    113
+                ],
+                [
+                    465,
+                    110
+                ],
+                [
+                    445,
+                    109
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    100,
+                    383
+                ],
+                [
+                    61,
+                    363
+                ],
+                [
+                    34,
+                    335
+                ],
+                [
+                    11,
+                    288
+                ],
+                [
+                    7,
+                    233
+                ],
+                [
+                    22,
+                    182
+                ],
+                [
+                    55,
+                    142
+                ],
+                [
+                    95,
+                    118
+                ],
+                [
+                    142,
+                    108
+                ],
+                [
+                    172,
+                    111
+                ],
+                [
+                    213,
+                    123
+                ],
+                [
+                    246,
+                    150
+                ],
+                [
+                    269,
+                    179
+                ],
+                [
+                    285,
+                    223
+                ],
+                [
+                    287,
+                    276
+                ],
+                [
+                    271,
+                    319
+                ],
+                [
+                    244,
+                    353
+                ],
+                [
+                    214,
+                    375
+                ],
+                [
+                    169,
+                    390
+                ],
+                [
+                    103,
+                    385
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A3+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A3+H0",
+            "origin": "A3"
+        },
+        "T0+A2+B1": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T0+A2+B1",
+            "origin": "T0"
+        },
+        "T1+A1+B1": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T1+A1+B1",
+            "origin": "T1"
+        },
+        "T2+A0+B1": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+A0+B1",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        },
+        "T6+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+B0",
+            "origin": "T6"
+        },
+        "T7+A5+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A5",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+A5+B0",
+            "origin": "T7"
+        },
+        "T8+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T8+A4+B0",
+            "origin": "T8"
+        },
+        "T9+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T9+A3+B0",
+            "origin": "T9"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    268,
+                    350
+                ],
+                [
+                    368,
+                    375
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Radiative Zone"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    292,
+                    201
+                ],
+                [
+                    375,
+                    244
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Nuclear burning core"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    225,
+                    89
+                ],
+                [
+                    337,
+                    112
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Convection zone"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    388,
+                    99
+                ],
+                [
+                    433,
+                    121
+                ]
+            ],
+            "replacementText": "C",
+            "value": "100%"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    392,
+                    143
+                ],
+                [
+                    432,
+                    161
+                ]
+            ],
+            "replacementText": "I",
+            "value": "70%"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    394,
+                    203
+                ],
+                [
+                    431,
+                    223
+                ]
+            ],
+            "replacementText": "F",
+            "value": "25%"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    401,
+                    243
+                ],
+                [
+                    447,
+                    280
+                ]
+            ],
+            "replacementText": "H",
+            "value": "0 (Core)"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    474,
+                    260
+                ],
+                [
+                    620,
+                    312
+                ]
+            ],
+            "replacementText": "J",
+            "value": "Nuclear reactions produce energy in the Sun's core"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    505,
+                    173
+                ],
+                [
+                    626,
+                    243
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Energy produced in the core is carried outward by photons"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    532,
+                    108
+                ],
+                [
+                    631,
+                    166
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Convection carries energy outward "
+        }
+    }
+}

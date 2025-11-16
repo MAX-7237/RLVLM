@@ -1,0 +1,435 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 0.0,
+            "rectangle": [
+                [
+                    399,
+                    162
+                ],
+                [
+                    415,
+                    178
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    398,
+                    166
+                ],
+                [
+                    412,
+                    171
+                ],
+                [
+                    399,
+                    181
+                ],
+                [
+                    397,
+                    177
+                ],
+                [
+                    241,
+                    178
+                ],
+                [
+                    240,
+                    169
+                ],
+                [
+                    393,
+                    169
+                ],
+                [
+                    394,
+                    163
+                ],
+                [
+                    397,
+                    164
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    52,
+                    150
+                ],
+                [
+                    120,
+                    148
+                ],
+                [
+                    122,
+                    130
+                ],
+                [
+                    55,
+                    130
+                ],
+                [
+                    53,
+                    150
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    129,
+                    146
+                ],
+                [
+                    125,
+                    112
+                ],
+                [
+                    149,
+                    118
+                ],
+                [
+                    155,
+                    113
+                ],
+                [
+                    165,
+                    118
+                ],
+                [
+                    176,
+                    111
+                ],
+                [
+                    189,
+                    116
+                ],
+                [
+                    196,
+                    120
+                ],
+                [
+                    197,
+                    135
+                ],
+                [
+                    196,
+                    146
+                ],
+                [
+                    130,
+                    147
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    217,
+                    146
+                ],
+                [
+                    205,
+                    137
+                ],
+                [
+                    208,
+                    118
+                ],
+                [
+                    218,
+                    104
+                ],
+                [
+                    234,
+                    90
+                ],
+                [
+                    254,
+                    110
+                ],
+                [
+                    268,
+                    81
+                ],
+                [
+                    279,
+                    98
+                ],
+                [
+                    292,
+                    86
+                ],
+                [
+                    306,
+                    99
+                ],
+                [
+                    318,
+                    78
+                ],
+                [
+                    335,
+                    102
+                ],
+                [
+                    351,
+                    87
+                ],
+                [
+                    364,
+                    96
+                ],
+                [
+                    380,
+                    78
+                ],
+                [
+                    392,
+                    100
+                ],
+                [
+                    394,
+                    148
+                ],
+                [
+                    216,
+                    146
+                ]
+            ]
+        },
+        "B3": {
+            "id": "B3",
+            "polygon": [
+                [
+                    410,
+                    147
+                ],
+                [
+                    397,
+                    119
+                ],
+                [
+                    393,
+                    74
+                ],
+                [
+                    408,
+                    54
+                ],
+                [
+                    428,
+                    50
+                ],
+                [
+                    473,
+                    52
+                ],
+                [
+                    485,
+                    43
+                ],
+                [
+                    506,
+                    47
+                ],
+                [
+                    517,
+                    62
+                ],
+                [
+                    531,
+                    54
+                ],
+                [
+                    546,
+                    68
+                ],
+                [
+                    563,
+                    57
+                ],
+                [
+                    586,
+                    73
+                ],
+                [
+                    595,
+                    99
+                ],
+                [
+                    588,
+                    117
+                ],
+                [
+                    573,
+                    127
+                ],
+                [
+                    572,
+                    136
+                ],
+                [
+                    583,
+                    141
+                ],
+                [
+                    587,
+                    150
+                ],
+                [
+                    411,
+                    150
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "T0+B3": {
+            "category": "intraObjectLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T0+B3",
+            "origin": "T0"
+        },
+        "T1+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T1+B2",
+            "origin": "T1"
+        },
+        "T2+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T2+B1",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    421,
+                    2
+                ],
+                [
+                    555,
+                    46
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Hardwood forest stage"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    256,
+                    34
+                ],
+                [
+                    344,
+                    71
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Pine forest stage"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    136,
+                    66
+                ],
+                [
+                    186,
+                    105
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Shrub"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    67,
+                    78
+                ],
+                [
+                    116,
+                    116
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Grass"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    8,
+                    92
+                ],
+                [
+                    54,
+                    128
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Bare"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    189,
+                    159
+                ],
+                [
+                    239,
+                    182
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Time"
+        }
+    }
+}

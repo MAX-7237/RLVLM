@@ -1,0 +1,262 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    61,
+                    226
+                ],
+                [
+                    186,
+                    224
+                ],
+                [
+                    257,
+                    223
+                ],
+                [
+                    265,
+                    218
+                ],
+                [
+                    260,
+                    194
+                ],
+                [
+                    241,
+                    169
+                ],
+                [
+                    205,
+                    139
+                ],
+                [
+                    179,
+                    128
+                ],
+                [
+                    175,
+                    85
+                ],
+                [
+                    179,
+                    20
+                ],
+                [
+                    192,
+                    55
+                ],
+                [
+                    206,
+                    94
+                ],
+                [
+                    264,
+                    137
+                ],
+                [
+                    305,
+                    157
+                ],
+                [
+                    337,
+                    170
+                ],
+                [
+                    344,
+                    226
+                ],
+                [
+                    353,
+                    226
+                ],
+                [
+                    353,
+                    84
+                ],
+                [
+                    336,
+                    85
+                ],
+                [
+                    299,
+                    78
+                ],
+                [
+                    256,
+                    55
+                ],
+                [
+                    216,
+                    17
+                ],
+                [
+                    184,
+                    0
+                ],
+                [
+                    131,
+                    0
+                ],
+                [
+                    125,
+                    8
+                ],
+                [
+                    104,
+                    44
+                ],
+                [
+                    66,
+                    84
+                ],
+                [
+                    0,
+                    90
+                ],
+                [
+                    29,
+                    155
+                ],
+                [
+                    84,
+                    133
+                ],
+                [
+                    130,
+                    79
+                ],
+                [
+                    146,
+                    29
+                ],
+                [
+                    155,
+                    80
+                ],
+                [
+                    154,
+                    119
+                ],
+                [
+                    137,
+                    138
+                ],
+                [
+                    106,
+                    147
+                ],
+                [
+                    80,
+                    174
+                ],
+                [
+                    62,
+                    226
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    75,
+                    4
+                ],
+                [
+                    120,
+                    26
+                ]
+            ],
+            "replacementText": "D",
+            "value": "crater"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    108,
+                    96
+                ],
+                [
+                    145,
+                    115
+                ]
+            ],
+            "replacementText": "C",
+            "value": "vent"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    236,
+                    25
+                ],
+                [
+                    284,
+                    48
+                ]
+            ],
+            "replacementText": "A",
+            "value": "lava"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    226,
+                    144
+                ],
+                [
+                    353,
+                    167
+                ]
+            ],
+            "replacementText": "B",
+            "value": "magma chamber"
+        }
+    }
+}

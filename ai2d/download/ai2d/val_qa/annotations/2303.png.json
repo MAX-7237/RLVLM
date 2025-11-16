@@ -1,0 +1,269 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    13,
+                    24
+                ],
+                [
+                    108,
+                    25
+                ],
+                [
+                    110,
+                    93
+                ],
+                [
+                    112,
+                    96
+                ],
+                [
+                    17,
+                    98
+                ],
+                [
+                    12,
+                    98
+                ],
+                [
+                    13,
+                    23
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    124,
+                    24
+                ],
+                [
+                    218,
+                    23
+                ],
+                [
+                    220,
+                    94
+                ],
+                [
+                    221,
+                    96
+                ],
+                [
+                    126,
+                    97
+                ],
+                [
+                    125,
+                    22
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    13,
+                    160
+                ],
+                [
+                    111,
+                    160
+                ],
+                [
+                    111,
+                    234
+                ],
+                [
+                    112,
+                    234
+                ],
+                [
+                    14,
+                    236
+                ],
+                [
+                    14,
+                    163
+                ]
+            ]
+        },
+        "B3": {
+            "id": "B3",
+            "polygon": [
+                [
+                    125,
+                    161
+                ],
+                [
+                    221,
+                    162
+                ],
+                [
+                    221,
+                    236
+                ],
+                [
+                    128,
+                    236
+                ],
+                [
+                    125,
+                    235
+                ],
+                [
+                    124,
+                    164
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T1+B1",
+            "origin": "T1"
+        },
+        "T2+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T2+B2",
+            "origin": "T2"
+        },
+        "T3+B3": {
+            "category": "intraObjectLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T3+B3",
+            "origin": "T3"
+        },
+        "T4+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T4+I0",
+            "origin": "T4"
+        },
+        "T5+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T5+I0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    38,
+                    121
+                ],
+                [
+                    85,
+                    138
+                ]
+            ],
+            "replacementText": "B",
+            "value": "pupa"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    155,
+                    122
+                ],
+                [
+                    194,
+                    139
+                ]
+            ],
+            "replacementText": "D",
+            "value": "pupa"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    12,
+                    261
+                ],
+                [
+                    115,
+                    283
+                ]
+            ],
+            "replacementText": "A",
+            "value": "adult ladybug"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    126,
+                    263
+                ],
+                [
+                    226,
+                    284
+                ]
+            ],
+            "replacementText": "C",
+            "value": "adult ladybug"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    163,
+                    289
+                ],
+                [
+                    233,
+                    298
+                ]
+            ],
+            "replacementText": "E",
+            "value": ""
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    3,
+                    290
+                ],
+                [
+                    84,
+                    298
+                ]
+            ],
+            "replacementText": "F",
+            "value": ""
+        }
+    }
+}

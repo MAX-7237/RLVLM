@@ -1,0 +1,588 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 326.25,
+            "rectangle": [
+                [
+                    351,
+                    82
+                ],
+                [
+                    372,
+                    103
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 213.75,
+            "rectangle": [
+                [
+                    263,
+                    80
+                ],
+                [
+                    285,
+                    102
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    153,
+                    119
+                ],
+                [
+                    143,
+                    137
+                ],
+                [
+                    138,
+                    159
+                ],
+                [
+                    137,
+                    178
+                ],
+                [
+                    143,
+                    203
+                ],
+                [
+                    152,
+                    218
+                ],
+                [
+                    143,
+                    224
+                ],
+                [
+                    130,
+                    197
+                ],
+                [
+                    128,
+                    161
+                ],
+                [
+                    132,
+                    136
+                ],
+                [
+                    145,
+                    114
+                ],
+                [
+                    151,
+                    120
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    331,
+                    232
+                ],
+                [
+                    352,
+                    258
+                ],
+                [
+                    397,
+                    274
+                ],
+                [
+                    445,
+                    272
+                ],
+                [
+                    482,
+                    253
+                ],
+                [
+                    513,
+                    202
+                ],
+                [
+                    519,
+                    160
+                ],
+                [
+                    503,
+                    119
+                ],
+                [
+                    485,
+                    120
+                ],
+                [
+                    499,
+                    167
+                ],
+                [
+                    489,
+                    217
+                ],
+                [
+                    456,
+                    248
+                ],
+                [
+                    417,
+                    258
+                ],
+                [
+                    367,
+                    247
+                ],
+                [
+                    370,
+                    239
+                ],
+                [
+                    342,
+                    224
+                ],
+                [
+                    328,
+                    164
+                ],
+                [
+                    344,
+                    119
+                ],
+                [
+                    360,
+                    102
+                ],
+                [
+                    366,
+                    108
+                ],
+                [
+                    383,
+                    90
+                ],
+                [
+                    420,
+                    84
+                ],
+                [
+                    440,
+                    86
+                ],
+                [
+                    459,
+                    88
+                ],
+                [
+                    447,
+                    75
+                ],
+                [
+                    393,
+                    67
+                ],
+                [
+                    345,
+                    84
+                ],
+                [
+                    329,
+                    116
+                ],
+                [
+                    315,
+                    157
+                ],
+                [
+                    315,
+                    210
+                ],
+                [
+                    329,
+                    232
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    195,
+                    85
+                ],
+                [
+                    215,
+                    82
+                ],
+                [
+                    235,
+                    82
+                ],
+                [
+                    262,
+                    88
+                ],
+                [
+                    271,
+                    104
+                ],
+                [
+                    280,
+                    99
+                ],
+                [
+                    293,
+                    113
+                ],
+                [
+                    308,
+                    136
+                ],
+                [
+                    315,
+                    157
+                ],
+                [
+                    315,
+                    176
+                ],
+                [
+                    308,
+                    199
+                ],
+                [
+                    294,
+                    227
+                ],
+                [
+                    285,
+                    235
+                ],
+                [
+                    267,
+                    238
+                ],
+                [
+                    264,
+                    240
+                ],
+                [
+                    269,
+                    247
+                ],
+                [
+                    252,
+                    254
+                ],
+                [
+                    230,
+                    258
+                ],
+                [
+                    198,
+                    255
+                ],
+                [
+                    184,
+                    249
+                ],
+                [
+                    178,
+                    255
+                ],
+                [
+                    189,
+                    262
+                ],
+                [
+                    208,
+                    267
+                ],
+                [
+                    240,
+                    268
+                ],
+                [
+                    260,
+                    262
+                ],
+                [
+                    274,
+                    255
+                ],
+                [
+                    285,
+                    262
+                ],
+                [
+                    291,
+                    243
+                ],
+                [
+                    309,
+                    226
+                ],
+                [
+                    320,
+                    200
+                ],
+                [
+                    325,
+                    171
+                ],
+                [
+                    322,
+                    142
+                ],
+                [
+                    314,
+                    121
+                ],
+                [
+                    287,
+                    93
+                ],
+                [
+                    291,
+                    83
+                ],
+                [
+                    271,
+                    80
+                ],
+                [
+                    242,
+                    71
+                ],
+                [
+                    214,
+                    70
+                ],
+                [
+                    183,
+                    80
+                ],
+                [
+                    194,
+                    87
+                ]
+            ]
+        }
+    },
+    "blobs": {},
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A1+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A1+H0",
+            "origin": "A1"
+        },
+        "A2+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A2+H1",
+            "origin": "A2"
+        },
+        "T10+A0+T9": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "T9",
+            "hasDirectionality": false,
+            "id": "T10+A0+T9",
+            "origin": "T10"
+        },
+        "T9+A2+T10": {
+            "category": "interObjectLinkage",
+            "connector": "A2",
+            "destination": "T10",
+            "hasDirectionality": true,
+            "id": "T9+A2+T10",
+            "origin": "T9"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    136,
+                    0
+                ],
+                [
+                    313,
+                    67
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Plants absorb orthophosphates from the water or soil "
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    375,
+                    0
+                ],
+                [
+                    572,
+                    70
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Phosphorus is carried by rivers to lakes or the ocean bottom"
+        },
+        "T10": {
+            "id": "T10",
+            "rectangle": [
+                [
+                    96,
+                    92
+                ],
+                [
+                    186,
+                    111
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Food Chain"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    331,
+                    267
+                ],
+                [
+                    576,
+                    360
+                ]
+            ],
+            "replacementText": "I",
+            "value": "Stored phosphorus is disturbed by currents, pipeline construction or eroded by rivers from uplifted rock"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    522,
+                    125
+                ],
+                [
+                    640,
+                    259
+                ]
+            ],
+            "replacementText": "H",
+            "value": "Phosphorus is stored in sediment or by the formation of sedimentary rock"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    342,
+                    131
+                ],
+                [
+                    490,
+                    197
+                ]
+            ],
+            "replacementText": "J",
+            "value": "Inorganic Long - Term Phosphorus Cycle"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    437,
+                    92
+                ],
+                [
+                    519,
+                    114
+                ]
+            ],
+            "replacementText": "K",
+            "value": "Rock Cycle"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    156,
+                    123
+                ],
+                [
+                    289,
+                    193
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Organic Short - Term Phosphorus Cycle"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    112,
+                    270
+                ],
+                [
+                    284,
+                    360
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Bacteria feeding on animal wastes or dead plants and animals release phosphates "
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    0,
+                    126
+                ],
+                [
+                    128,
+                    214
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Animals obtain organic phosphorus from "
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    102,
+                    229
+                ],
+                [
+                    211,
+                    247
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Decomposition"
+        }
+    }
+}

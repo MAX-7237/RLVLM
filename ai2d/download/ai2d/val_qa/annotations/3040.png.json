@@ -1,0 +1,343 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    228,
+                    24
+                ],
+                [
+                    298,
+                    24
+                ],
+                [
+                    297,
+                    16
+                ],
+                [
+                    226,
+                    17
+                ],
+                [
+                    225,
+                    21
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    213,
+                    100
+                ],
+                [
+                    336,
+                    70
+                ],
+                [
+                    334,
+                    62
+                ],
+                [
+                    210,
+                    96
+                ],
+                [
+                    213,
+                    100
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    265,
+                    118
+                ],
+                [
+                    324,
+                    117
+                ],
+                [
+                    323,
+                    108
+                ],
+                [
+                    263,
+                    109
+                ],
+                [
+                    263,
+                    114
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    230,
+                    172
+                ],
+                [
+                    329,
+                    172
+                ],
+                [
+                    330,
+                    165
+                ],
+                [
+                    230,
+                    165
+                ],
+                [
+                    230,
+                    169
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    46,
+                    44
+                ],
+                [
+                    162,
+                    112
+                ],
+                [
+                    165,
+                    108
+                ],
+                [
+                    50,
+                    36
+                ],
+                [
+                    50,
+                    36
+                ],
+                [
+                    50,
+                    38
+                ],
+                [
+                    50,
+                    38
+                ],
+                [
+                    46,
+                    40
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    67,
+                    90
+                ],
+                [
+                    99,
+                    30
+                ],
+                [
+                    139,
+                    2
+                ],
+                [
+                    169,
+                    3
+                ],
+                [
+                    230,
+                    4
+                ],
+                [
+                    280,
+                    29
+                ],
+                [
+                    285,
+                    51
+                ],
+                [
+                    325,
+                    80
+                ],
+                [
+                    322,
+                    113
+                ],
+                [
+                    306,
+                    171
+                ],
+                [
+                    271,
+                    217
+                ],
+                [
+                    230,
+                    245
+                ],
+                [
+                    168,
+                    245
+                ],
+                [
+                    101,
+                    219
+                ],
+                [
+                    57,
+                    170
+                ],
+                [
+                    65,
+                    134
+                ],
+                [
+                    68,
+                    92
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+A4+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A4",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+A4+B0",
+            "origin": "T1"
+        },
+        "T2+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A1+B0",
+            "origin": "T2"
+        },
+        "T3+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A2+B0",
+            "origin": "T3"
+        },
+        "T4+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A3+B0",
+            "origin": "T4"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    297,
+                    10
+                ],
+                [
+                    434,
+                    42
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Follicile cells of corona radiata"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    0,
+                    30
+                ],
+                [
+                    54,
+                    47
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Nucleus"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    341,
+                    57
+                ],
+                [
+                    403,
+                    72
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Cytoplasm"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    323,
+                    106
+                ],
+                [
+                    443,
+                    121
+                ]
+            ],
+            "replacementText": "B",
+            "value": "-Vitelline membrane"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    330,
+                    162
+                ],
+                [
+                    421,
+                    179
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Zona pellucida"
+        }
+    }
+}

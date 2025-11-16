@@ -1,0 +1,375 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    98,
+                    70
+                ],
+                [
+                    163,
+                    343
+                ],
+                [
+                    175,
+                    341
+                ],
+                [
+                    107,
+                    64
+                ],
+                [
+                    99,
+                    71
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    128,
+                    71
+                ],
+                [
+                    129,
+                    339
+                ],
+                [
+                    138,
+                    341
+                ],
+                [
+                    138,
+                    67
+                ],
+                [
+                    128,
+                    69
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    136,
+                    93
+                ],
+                [
+                    167,
+                    99
+                ],
+                [
+                    189,
+                    111
+                ],
+                [
+                    214,
+                    131
+                ],
+                [
+                    228,
+                    153
+                ],
+                [
+                    242,
+                    197
+                ],
+                [
+                    235,
+                    236
+                ],
+                [
+                    218,
+                    264
+                ],
+                [
+                    200,
+                    287
+                ],
+                [
+                    173,
+                    304
+                ],
+                [
+                    148,
+                    312
+                ],
+                [
+                    123,
+                    310
+                ],
+                [
+                    72,
+                    296
+                ],
+                [
+                    51,
+                    275
+                ],
+                [
+                    32,
+                    248
+                ],
+                [
+                    23,
+                    212
+                ],
+                [
+                    25,
+                    179
+                ],
+                [
+                    40,
+                    144
+                ],
+                [
+                    60,
+                    120
+                ],
+                [
+                    83,
+                    107
+                ],
+                [
+                    104,
+                    95
+                ],
+                [
+                    137,
+                    94
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "B0+A0+B0": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "B0+A0+B0",
+            "origin": "B0"
+        },
+        "B0+A1+B0": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "B0+A1+B0",
+            "origin": "B0"
+        },
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        },
+        "T6+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T6+B0",
+            "origin": "T6"
+        },
+        "T7+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T7+B0",
+            "origin": "T7"
+        },
+        "T8+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T8+B0",
+            "origin": "T8"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    97,
+                    12
+                ],
+                [
+                    199,
+                    25
+                ]
+            ],
+            "replacementText": "I",
+            "value": "NORTH POLE"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    39,
+                    43
+                ],
+                [
+                    109,
+                    71
+                ]
+            ],
+            "replacementText": "E",
+            "value": "MAGNETIC MERIDIAN"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    122,
+                    41
+                ],
+                [
+                    227,
+                    72
+                ]
+            ],
+            "replacementText": "D",
+            "value": "GEOGRAPHICAL MERIDIAN"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    239,
+                    169
+                ],
+                [
+                    403,
+                    191
+                ]
+            ],
+            "replacementText": "C",
+            "value": "TROPIC OF CANCER"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    246,
+                    195
+                ],
+                [
+                    339,
+                    210
+                ]
+            ],
+            "replacementText": "G",
+            "value": "EQUATOR"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    241,
+                    214
+                ],
+                [
+                    433,
+                    237
+                ]
+            ],
+            "replacementText": "F",
+            "value": "TROPIC OF CAPRICORN"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    32,
+                    339
+                ],
+                [
+                    141,
+                    374
+                ]
+            ],
+            "replacementText": "B",
+            "value": "GEOGRAPHICAL MERIDIAN"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    150,
+                    338
+                ],
+                [
+                    225,
+                    374
+                ]
+            ],
+            "replacementText": "H",
+            "value": "MAGNETIC MERIDIAN"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    76,
+                    380
+                ],
+                [
+                    185,
+                    400
+                ]
+            ],
+            "replacementText": "A",
+            "value": "SOUTH POLE"
+        }
+    }
+}

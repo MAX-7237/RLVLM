@@ -1,0 +1,519 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 337.5,
+            "rectangle": [
+                [
+                    167,
+                    58
+                ],
+                [
+                    188,
+                    77
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 326.25,
+            "rectangle": [
+                [
+                    387,
+                    289
+                ],
+                [
+                    405,
+                    308
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": 270.0,
+            "rectangle": [
+                [
+                    465,
+                    314
+                ],
+                [
+                    481,
+                    332
+                ]
+            ]
+        },
+        "H3": {
+            "id": "H3",
+            "orientation": 270.0,
+            "rectangle": [
+                [
+                    252,
+                    272
+                ],
+                [
+                    273,
+                    295
+                ]
+            ]
+        },
+        "H4": {
+            "id": "H4",
+            "orientation": 270.0,
+            "rectangle": [
+                [
+                    257,
+                    174
+                ],
+                [
+                    272,
+                    192
+                ]
+            ]
+        },
+        "H5": {
+            "id": "H5",
+            "orientation": 270.0,
+            "rectangle": [
+                [
+                    254,
+                    80
+                ],
+                [
+                    272,
+                    94
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    99,
+                    103
+                ],
+                [
+                    110,
+                    116
+                ],
+                [
+                    172,
+                    76
+                ],
+                [
+                    177,
+                    82
+                ],
+                [
+                    194,
+                    63
+                ],
+                [
+                    169,
+                    57
+                ],
+                [
+                    168,
+                    68
+                ],
+                [
+                    100,
+                    100
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    313,
+                    343
+                ],
+                [
+                    383,
+                    302
+                ],
+                [
+                    380,
+                    292
+                ],
+                [
+                    408,
+                    291
+                ],
+                [
+                    399,
+                    317
+                ],
+                [
+                    392,
+                    310
+                ],
+                [
+                    322,
+                    354
+                ],
+                [
+                    316,
+                    347
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    470,
+                    335
+                ],
+                [
+                    461,
+                    335
+                ],
+                [
+                    472,
+                    312
+                ],
+                [
+                    487,
+                    334
+                ],
+                [
+                    479,
+                    337
+                ],
+                [
+                    479,
+                    351
+                ],
+                [
+                    468,
+                    351
+                ],
+                [
+                    468,
+                    338
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    269,
+                    349
+                ],
+                [
+                    258,
+                    348
+                ],
+                [
+                    259,
+                    296
+                ],
+                [
+                    250,
+                    296
+                ],
+                [
+                    263,
+                    269
+                ],
+                [
+                    281,
+                    298
+                ],
+                [
+                    268,
+                    296
+                ],
+                [
+                    272,
+                    346
+                ]
+            ]
+        },
+        "A4": {
+            "id": "A4",
+            "polygon": [
+                [
+                    269,
+                    196
+                ],
+                [
+                    277,
+                    196
+                ],
+                [
+                    264,
+                    170
+                ],
+                [
+                    251,
+                    192
+                ],
+                [
+                    258,
+                    197
+                ],
+                [
+                    258,
+                    214
+                ],
+                [
+                    271,
+                    215
+                ],
+                [
+                    269,
+                    198
+                ]
+            ]
+        },
+        "A5": {
+            "id": "A5",
+            "polygon": [
+                [
+                    259,
+                    98
+                ],
+                [
+                    249,
+                    97
+                ],
+                [
+                    265,
+                    73
+                ],
+                [
+                    280,
+                    98
+                ],
+                [
+                    269,
+                    98
+                ],
+                [
+                    269,
+                    118
+                ],
+                [
+                    259,
+                    118
+                ],
+                [
+                    259,
+                    103
+                ]
+            ]
+        }
+    },
+    "blobs": {},
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A1+H1",
+            "origin": "A1"
+        },
+        "A2+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A2+H2",
+            "origin": "A2"
+        },
+        "A3+H3": {
+            "category": "arrowHeadTail",
+            "destination": "H3",
+            "hasDirectionality": false,
+            "id": "A3+H3",
+            "origin": "A3"
+        },
+        "A4+H4": {
+            "category": "arrowHeadTail",
+            "destination": "H4",
+            "hasDirectionality": false,
+            "id": "A4+H4",
+            "origin": "A4"
+        },
+        "A5+H5": {
+            "category": "arrowHeadTail",
+            "destination": "H5",
+            "hasDirectionality": false,
+            "id": "A5+H5",
+            "origin": "A5"
+        },
+        "T1+A5+T0": {
+            "category": "interObjectLinkage",
+            "connector": "A5",
+            "destination": "T0",
+            "hasDirectionality": true,
+            "id": "T1+A5+T0",
+            "origin": "T1"
+        },
+        "T2+A4+T1": {
+            "category": "interObjectLinkage",
+            "connector": "A4",
+            "destination": "T1",
+            "hasDirectionality": true,
+            "id": "T2+A4+T1",
+            "origin": "T2"
+        },
+        "T3+A1+T5": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "T5",
+            "hasDirectionality": true,
+            "id": "T3+A1+T5",
+            "origin": "T3"
+        },
+        "T3+A3+T2": {
+            "category": "interObjectLinkage",
+            "connector": "A3",
+            "destination": "T2",
+            "hasDirectionality": true,
+            "id": "T3+A3+T2",
+            "origin": "T3"
+        },
+        "T4+A0+T0": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "T0",
+            "hasDirectionality": true,
+            "id": "T4+A0+T0",
+            "origin": "T4"
+        },
+        "T6+A2+T5": {
+            "category": "interObjectLinkage",
+            "connector": "A2",
+            "destination": "T5",
+            "hasDirectionality": true,
+            "id": "T6+A2+T5",
+            "origin": "T6"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    211,
+                    37
+                ],
+                [
+                    321,
+                    59
+                ]
+            ],
+            "replacementText": "E",
+            "value": "mistletoe bird"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    214,
+                    140
+                ],
+                [
+                    319,
+                    159
+                ]
+            ],
+            "replacementText": "G",
+            "value": "mistletoe fruit"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    228,
+                    238
+                ],
+                [
+                    305,
+                    259
+                ]
+            ],
+            "replacementText": "B",
+            "value": "mistletoe"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    224,
+                    369
+                ],
+                [
+                    301,
+                    393
+                ]
+            ],
+            "replacementText": "D",
+            "value": "eucalypts"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    21,
+                    131
+                ],
+                [
+                    125,
+                    168
+                ]
+            ],
+            "replacementText": "F",
+            "value": "external food sources"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    420,
+                    262
+                ],
+                [
+                    522,
+                    304
+                ]
+            ],
+            "replacementText": "A",
+            "value": "low intensity fire"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    429,
+                    364
+                ],
+                [
+                    524,
+                    404
+                ]
+            ],
+            "replacementText": "C",
+            "value": "other plants (fuel)"
+        }
+    }
+}

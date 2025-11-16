@@ -1,0 +1,273 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    15,
+                    103
+                ],
+                [
+                    86,
+                    112
+                ],
+                [
+                    154,
+                    92
+                ],
+                [
+                    167,
+                    69
+                ],
+                [
+                    152,
+                    43
+                ],
+                [
+                    76,
+                    35
+                ],
+                [
+                    16,
+                    50
+                ],
+                [
+                    19,
+                    102
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    205,
+                    102
+                ],
+                [
+                    204,
+                    54
+                ],
+                [
+                    259,
+                    34
+                ],
+                [
+                    317,
+                    37
+                ],
+                [
+                    325,
+                    49
+                ],
+                [
+                    348,
+                    59
+                ],
+                [
+                    352,
+                    84
+                ],
+                [
+                    288,
+                    107
+                ],
+                [
+                    207,
+                    102
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    209,
+                    200
+                ],
+                [
+                    208,
+                    250
+                ],
+                [
+                    287,
+                    259
+                ],
+                [
+                    356,
+                    239
+                ],
+                [
+                    350,
+                    222
+                ],
+                [
+                    358,
+                    212
+                ],
+                [
+                    352,
+                    205
+                ],
+                [
+                    342,
+                    189
+                ],
+                [
+                    269,
+                    182
+                ],
+                [
+                    208,
+                    199
+                ]
+            ]
+        },
+        "B3": {
+            "id": "B3",
+            "polygon": [
+                [
+                    14,
+                    254
+                ],
+                [
+                    96,
+                    261
+                ],
+                [
+                    162,
+                    239
+                ],
+                [
+                    144,
+                    223
+                ],
+                [
+                    138,
+                    210
+                ],
+                [
+                    127,
+                    203
+                ],
+                [
+                    116,
+                    188
+                ],
+                [
+                    74,
+                    183
+                ],
+                [
+                    14,
+                    203
+                ],
+                [
+                    16,
+                    251
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T0+B1",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B3": {
+            "category": "intraObjectLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T2+B3",
+            "origin": "T2"
+        },
+        "T3+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T3+B2",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    237,
+                    127
+                ],
+                [
+                    289,
+                    148
+                ]
+            ],
+            "replacementText": "D",
+            "value": "OGEE"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    24,
+                    127
+                ],
+                [
+                    154,
+                    149
+                ]
+            ],
+            "replacementText": "B",
+            "value": "FULL BULLNOSE"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    16,
+                    280
+                ],
+                [
+                    143,
+                    305
+                ]
+            ],
+            "replacementText": "C",
+            "value": "TRIPLE PENCIL"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    240,
+                    284
+                ],
+                [
+                    323,
+                    301
+                ]
+            ],
+            "replacementText": "A",
+            "value": "CHISELED"
+        }
+    }
+}

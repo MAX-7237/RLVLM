@@ -1,0 +1,277 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    387,
+                    163
+                ],
+                [
+                    455,
+                    240
+                ],
+                [
+                    462,
+                    217
+                ],
+                [
+                    388,
+                    135
+                ],
+                [
+                    387,
+                    167
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    735,
+                    222
+                ],
+                [
+                    820,
+                    160
+                ],
+                [
+                    802,
+                    145
+                ],
+                [
+                    722,
+                    212
+                ],
+                [
+                    732,
+                    217
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    1093,
+                    228
+                ],
+                [
+                    1190,
+                    172
+                ],
+                [
+                    1198,
+                    192
+                ],
+                [
+                    1108,
+                    242
+                ],
+                [
+                    1088,
+                    223
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    7,
+                    305
+                ],
+                [
+                    185,
+                    265
+                ],
+                [
+                    562,
+                    230
+                ],
+                [
+                    698,
+                    217
+                ],
+                [
+                    770,
+                    220
+                ],
+                [
+                    1160,
+                    252
+                ],
+                [
+                    1487,
+                    307
+                ],
+                [
+                    1492,
+                    307
+                ],
+                [
+                    1493,
+                    573
+                ],
+                [
+                    8,
+                    578
+                ],
+                [
+                    10,
+                    305
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A1+B0",
+            "origin": "T2"
+        },
+        "T3+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A2+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T5+I0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    22,
+                    90
+                ],
+                [
+                    527,
+                    185
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Multiple, thin (1-10 m thick), basaltic lava flows"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    340,
+                    250
+                ],
+                [
+                    722,
+                    308
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Base: ~10s-100s km2"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    773,
+                    103
+                ],
+                [
+                    1113,
+                    160
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Crater & lava Lake"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    1170,
+                    118
+                ],
+                [
+                    1475,
+                    188
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Slopes of 5-10\u00b0"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    885,
+                    458
+                ],
+                [
+                    1198,
+                    553
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Basaltic magma chamber"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    15,
+                    525
+                ],
+                [
+                    362,
+                    575
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Kenneth A. Bevis \u00a9 2013"
+        }
+    }
+}

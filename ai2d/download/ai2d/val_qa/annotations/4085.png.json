@@ -1,0 +1,349 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    262,
+                    118
+                ],
+                [
+                    357,
+                    117
+                ],
+                [
+                    358,
+                    109
+                ],
+                [
+                    259,
+                    109
+                ],
+                [
+                    259,
+                    117
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    269,
+                    155
+                ],
+                [
+                    356,
+                    156
+                ],
+                [
+                    357,
+                    148
+                ],
+                [
+                    268,
+                    145
+                ],
+                [
+                    269,
+                    156
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    254,
+                    256
+                ],
+                [
+                    356,
+                    258
+                ],
+                [
+                    356,
+                    249
+                ],
+                [
+                    254,
+                    247
+                ],
+                [
+                    254,
+                    254
+                ]
+            ]
+        },
+        "A3": {
+            "id": "A3",
+            "polygon": [
+                [
+                    207,
+                    253
+                ],
+                [
+                    353,
+                    312
+                ],
+                [
+                    356,
+                    304
+                ],
+                [
+                    209,
+                    244
+                ],
+                [
+                    205,
+                    252
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    196,
+                    91
+                ],
+                [
+                    158,
+                    98
+                ],
+                [
+                    113,
+                    121
+                ],
+                [
+                    74,
+                    172
+                ],
+                [
+                    61,
+                    233
+                ],
+                [
+                    69,
+                    285
+                ],
+                [
+                    90,
+                    321
+                ],
+                [
+                    131,
+                    355
+                ],
+                [
+                    175,
+                    372
+                ],
+                [
+                    232,
+                    372
+                ],
+                [
+                    289,
+                    345
+                ],
+                [
+                    329,
+                    293
+                ],
+                [
+                    342,
+                    237
+                ],
+                [
+                    332,
+                    174
+                ],
+                [
+                    289,
+                    117
+                ],
+                [
+                    252,
+                    100
+                ],
+                [
+                    194,
+                    89
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T1+I0",
+            "origin": "T1"
+        },
+        "T2+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+A0+B0",
+            "origin": "T2"
+        },
+        "T3+A1+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A1",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+A1+B0",
+            "origin": "T3"
+        },
+        "T4+A2+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A2",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+A2+B0",
+            "origin": "T4"
+        },
+        "T5+A3+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A3",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+A3+B0",
+            "origin": "T5"
+        },
+        "T6+I0": {
+            "category": "imageCaption",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T6+I0",
+            "origin": "T6"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    347,
+                    451
+                ],
+                [
+                    476,
+                    464
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Mining Matters II The Earth's Crust"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    50,
+                    54
+                ],
+                [
+                    263,
+                    78
+                ]
+            ],
+            "replacementText": "D",
+            "value": "The Layers of the Earth"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    360,
+                    105
+                ],
+                [
+                    566,
+                    137
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Crust - A layer of sand and rock varying from 5 to 50 km thick"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    362,
+                    142
+                ],
+                [
+                    577,
+                    237
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Mantle - A rock layer about 2850 km thick that reaches about half the distance to the centre of the earth. Parts of this layer become hot enough to liquify and become slow moving molten rock or magma. "
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    363,
+                    246
+                ],
+                [
+                    562,
+                    291
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Outer Core -  A mass of molten iron about 2200 km thick that surrounds the solid inner core."
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    361,
+                    300
+                ],
+                [
+                    583,
+                    379
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Inner Core - A mass of iron with a temperature of 3870C. Normally iron would melt at this temperature, but immense pressure on it keeps it solid. It is 2400 km in diameter."
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    53,
+                    395
+                ],
+                [
+                    355,
+                    430
+                ]
+            ],
+            "replacementText": "F",
+            "value": "Centre of the earth - The centre of the earth is approximately 6400 km below the surface."
+        }
+    }
+}

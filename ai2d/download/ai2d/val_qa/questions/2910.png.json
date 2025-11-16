@@ -1,0 +1,38 @@
+{
+    "imageName": "2910.png",
+    "questions": {
+        "What is the animal shown in the image?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "fish",
+                "dog",
+                "cat",
+                "none of the above"
+            ],
+            "correctAnswer": 0,
+            "questionId": "2910.png-0"
+        },
+        "What is the tail end of the fish in the diagram called?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "pelvic",
+                "none of the above",
+                "caudal",
+                "anal"
+            ],
+            "correctAnswer": 2,
+            "questionId": "2910.png-1"
+        },
+        "Which part is represented by the label A?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Adipose",
+                "Caudal",
+                "Pectoral",
+                "Pelvic"
+            ],
+            "correctAnswer": 2,
+            "questionId": "2910.png-2"
+        }
+    }
+}

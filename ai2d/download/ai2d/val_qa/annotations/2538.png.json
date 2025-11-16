@@ -1,0 +1,329 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    78,
+                    62
+                ],
+                [
+                    49,
+                    80
+                ],
+                [
+                    29,
+                    112
+                ],
+                [
+                    29,
+                    152
+                ],
+                [
+                    47,
+                    183
+                ],
+                [
+                    78,
+                    197
+                ],
+                [
+                    115,
+                    193
+                ],
+                [
+                    152,
+                    164
+                ],
+                [
+                    160,
+                    122
+                ],
+                [
+                    141,
+                    82
+                ],
+                [
+                    111,
+                    63
+                ],
+                [
+                    80,
+                    62
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    251,
+                    59
+                ],
+                [
+                    249,
+                    200
+                ],
+                [
+                    285,
+                    189
+                ],
+                [
+                    317,
+                    157
+                ],
+                [
+                    320,
+                    117
+                ],
+                [
+                    301,
+                    79
+                ],
+                [
+                    254,
+                    58
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    394,
+                    199
+                ],
+                [
+                    369,
+                    194
+                ],
+                [
+                    344,
+                    167
+                ],
+                [
+                    335,
+                    128
+                ],
+                [
+                    340,
+                    94
+                ],
+                [
+                    384,
+                    58
+                ],
+                [
+                    416,
+                    60
+                ],
+                [
+                    453,
+                    81
+                ],
+                [
+                    475,
+                    120
+                ],
+                [
+                    471,
+                    158
+                ],
+                [
+                    451,
+                    186
+                ],
+                [
+                    418,
+                    199
+                ],
+                [
+                    395,
+                    200
+                ]
+            ]
+        },
+        "B3": {
+            "id": "B3",
+            "polygon": [
+                [
+                    558,
+                    61
+                ],
+                [
+                    565,
+                    200
+                ],
+                [
+                    521,
+                    191
+                ],
+                [
+                    496,
+                    158
+                ],
+                [
+                    491,
+                    126
+                ],
+                [
+                    500,
+                    98
+                ],
+                [
+                    524,
+                    71
+                ],
+                [
+                    559,
+                    60
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+I0": {
+            "category": "misc",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T1+I0",
+            "origin": "T1"
+        },
+        "T2+B3": {
+            "category": "intraObjectLabel",
+            "destination": "B3",
+            "hasDirectionality": false,
+            "id": "T2+B3",
+            "origin": "T2"
+        },
+        "T3+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T3+B2",
+            "origin": "T3"
+        },
+        "T4+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T4+B1",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    25,
+                    3
+                ],
+                [
+                    457,
+                    50
+                ]
+            ],
+            "replacementText": "F",
+            "value": "2013 Moon Phases"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    475,
+                    12
+                ],
+                [
+                    623,
+                    42
+                ]
+            ],
+            "replacementText": "D",
+            "value": "EyeofHorus.biz"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    474,
+                    208
+                ],
+                [
+                    638,
+                    245
+                ]
+            ],
+            "replacementText": "E",
+            "value": "Last Quarter"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    379,
+                    208
+                ],
+                [
+                    429,
+                    237
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Full"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    160,
+                    207
+                ],
+                [
+                    335,
+                    243
+                ]
+            ],
+            "replacementText": "C",
+            "value": "First Quarter"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    50,
+                    209
+                ],
+                [
+                    126,
+                    239
+                ]
+            ],
+            "replacementText": "A",
+            "value": "New"
+        }
+    }
+}

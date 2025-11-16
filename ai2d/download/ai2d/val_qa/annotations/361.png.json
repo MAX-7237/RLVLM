@@ -1,0 +1,340 @@
+{
+    "arrowHeads": {},
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    104,
+                    351
+                ],
+                [
+                    167,
+                    334
+                ],
+                [
+                    165,
+                    326
+                ],
+                [
+                    104,
+                    342
+                ],
+                [
+                    104,
+                    348
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    467,
+                    422
+                ],
+                [
+                    476,
+                    422
+                ],
+                [
+                    511,
+                    348
+                ],
+                [
+                    501,
+                    346
+                ],
+                [
+                    465,
+                    422
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    751,
+                    417
+                ],
+                [
+                    762,
+                    420
+                ],
+                [
+                    789,
+                    346
+                ],
+                [
+                    778,
+                    346
+                ],
+                [
+                    749,
+                    417
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    35,
+                    309
+                ],
+                [
+                    36,
+                    459
+                ],
+                [
+                    228,
+                    495
+                ],
+                [
+                    300,
+                    451
+                ],
+                [
+                    300,
+                    363
+                ],
+                [
+                    259,
+                    357
+                ],
+                [
+                    157,
+                    346
+                ],
+                [
+                    150,
+                    324
+                ],
+                [
+                    136,
+                    319
+                ],
+                [
+                    36,
+                    334
+                ],
+                [
+                    35,
+                    313
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    328,
+                    355
+                ],
+                [
+                    328,
+                    438
+                ],
+                [
+                    338,
+                    447
+                ],
+                [
+                    516,
+                    480
+                ],
+                [
+                    588,
+                    440
+                ],
+                [
+                    586,
+                    369
+                ],
+                [
+                    451,
+                    351
+                ],
+                [
+                    438,
+                    328
+                ],
+                [
+                    328,
+                    351
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    609,
+                    342
+                ],
+                [
+                    612,
+                    445
+                ],
+                [
+                    799,
+                    480
+                ],
+                [
+                    870,
+                    438
+                ],
+                [
+                    868,
+                    394
+                ],
+                [
+                    868,
+                    384
+                ],
+                [
+                    745,
+                    372
+                ],
+                [
+                    716,
+                    324
+                ],
+                [
+                    685,
+                    326
+                ],
+                [
+                    607,
+                    344
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "B0+A0+B0": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "B0+A0+B0",
+            "origin": "B0"
+        },
+        "B1+A1+B1": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "B1+A1+B1",
+            "origin": "B1"
+        },
+        "B2+A2+B2": {
+            "category": "interObjectLinkage",
+            "connector": "A2",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "B2+A2+B2",
+            "origin": "B2"
+        },
+        "T0+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T1+B1",
+            "origin": "T1"
+        },
+        "T2+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T2+B2",
+            "origin": "T2"
+        },
+        "T3+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T3+I0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    54,
+                    175
+                ],
+                [
+                    315,
+                    278
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Water carries small rock particles to lakes and seas"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    342,
+                    167
+                ],
+                [
+                    612,
+                    292
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Dead organisms are buried by layers of sediment, which forms new rock."
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    689,
+                    180
+                ],
+                [
+                    935,
+                    309
+                ]
+            ],
+            "replacementText": "A",
+            "value": "The preserved remains may later be discovered and studied."
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    169,
+                    65
+                ],
+                [
+                    751,
+                    113
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Formation of a Fossil"
+        }
+    }
+}

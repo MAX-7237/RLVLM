@@ -1,0 +1,202 @@
+{
+    "arrowHeads": {},
+    "arrows": {},
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    8,
+                    36
+                ],
+                [
+                    80,
+                    17
+                ],
+                [
+                    95,
+                    15
+                ],
+                [
+                    112,
+                    10
+                ],
+                [
+                    135,
+                    20
+                ],
+                [
+                    172,
+                    35
+                ],
+                [
+                    175,
+                    87
+                ],
+                [
+                    160,
+                    344
+                ],
+                [
+                    93,
+                    395
+                ],
+                [
+                    91,
+                    389
+                ],
+                [
+                    21,
+                    352
+                ],
+                [
+                    7,
+                    39
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "T0+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        },
+        "T4+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T4+B0",
+            "origin": "T4"
+        },
+        "T5+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T5+B0",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    177,
+                    35
+                ],
+                [
+                    359,
+                    58
+                ]
+            ],
+            "replacementText": "C",
+            "value": "O (humus or organic"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    177,
+                    59
+                ],
+                [
+                    273,
+                    85
+                ]
+            ],
+            "replacementText": "D",
+            "value": "A (topsoil)"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    175,
+                    103
+                ],
+                [
+                    359,
+                    122
+                ]
+            ],
+            "replacementText": "A",
+            "value": "E (eluviated horizon)"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    176,
+                    158
+                ],
+                [
+                    283,
+                    182
+                ]
+            ],
+            "replacementText": "B",
+            "value": "B (subsoil)"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    174,
+                    220
+                ],
+                [
+                    349,
+                    246
+                ]
+            ],
+            "replacementText": "F",
+            "value": "C (parent material)"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    174,
+                    312
+                ],
+                [
+                    286,
+                    330
+                ]
+            ],
+            "replacementText": "E",
+            "value": "R (bedrock)"
+        }
+    }
+}

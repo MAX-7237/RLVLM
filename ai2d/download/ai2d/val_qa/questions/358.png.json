@@ -1,0 +1,38 @@
+{
+    "imageName": "358.png",
+    "questions": {
+        "As illustrated, what do eggs hatch into?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "smolt",
+                "fry",
+                "alevin",
+                "adult"
+            ],
+            "correctAnswer": 2,
+            "questionId": "358.png-2"
+        },
+        "In the diagram shown, what is the next life cycle after fry?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "adult",
+                "alevin",
+                "egg",
+                "smolt"
+            ],
+            "correctAnswer": 3,
+            "questionId": "358.png-1"
+        },
+        "In the life cycle illustration, what organism comes from hatched eggs?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "alevin",
+                "smolt",
+                "adult",
+                "fry"
+            ],
+            "correctAnswer": 0,
+            "questionId": "358.png-0"
+        }
+    }
+}

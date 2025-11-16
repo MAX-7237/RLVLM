@@ -1,0 +1,283 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 168.75,
+            "rectangle": [
+                [
+                    326,
+                    40
+                ],
+                [
+                    342,
+                    50
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    369,
+                    33
+                ],
+                [
+                    339,
+                    42
+                ],
+                [
+                    338,
+                    37
+                ],
+                [
+                    325,
+                    48
+                ],
+                [
+                    341,
+                    53
+                ],
+                [
+                    342,
+                    47
+                ],
+                [
+                    371,
+                    40
+                ],
+                [
+                    370,
+                    36
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    91,
+                    227
+                ],
+                [
+                    108,
+                    247
+                ],
+                [
+                    128,
+                    267
+                ],
+                [
+                    147,
+                    282
+                ],
+                [
+                    183,
+                    297
+                ],
+                [
+                    212,
+                    298
+                ],
+                [
+                    246,
+                    299
+                ],
+                [
+                    278,
+                    287
+                ],
+                [
+                    305,
+                    274
+                ],
+                [
+                    325,
+                    253
+                ],
+                [
+                    345,
+                    229
+                ],
+                [
+                    359,
+                    192
+                ],
+                [
+                    365,
+                    155
+                ],
+                [
+                    360,
+                    111
+                ],
+                [
+                    349,
+                    86
+                ],
+                [
+                    332,
+                    53
+                ],
+                [
+                    298,
+                    27
+                ],
+                [
+                    265,
+                    13
+                ],
+                [
+                    231,
+                    8
+                ],
+                [
+                    184,
+                    11
+                ],
+                [
+                    150,
+                    22
+                ],
+                [
+                    128,
+                    35
+                ],
+                [
+                    108,
+                    56
+                ],
+                [
+                    83,
+                    88
+                ],
+                [
+                    76,
+                    118
+                ],
+                [
+                    73,
+                    149
+                ],
+                [
+                    72,
+                    181
+                ],
+                [
+                    91,
+                    226
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "T0+A0+B0": {
+            "category": "intraObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T0+A0+B0",
+            "origin": "T0"
+        },
+        "T1+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T1+B0",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B0": {
+            "category": "intraObjectRegionLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T3+B0",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    371,
+                    22
+                ],
+                [
+                    429,
+                    45
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Crust"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    235,
+                    36
+                ],
+                [
+                    304,
+                    57
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Mantle"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    217,
+                    69
+                ],
+                [
+                    295,
+                    105
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Outer Core"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    214,
+                    113
+                ],
+                [
+                    266,
+                    154
+                ]
+            ],
+            "replacementText": "D",
+            "value": "Inner Core"
+        }
+    }
+}

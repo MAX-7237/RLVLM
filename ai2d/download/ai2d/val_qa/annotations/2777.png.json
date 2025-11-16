@@ -1,0 +1,354 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 135.0,
+            "rectangle": [
+                [
+                    74,
+                    144
+                ],
+                [
+                    85,
+                    155
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 90.0,
+            "rectangle": [
+                [
+                    154,
+                    35
+                ],
+                [
+                    164,
+                    45
+                ]
+            ]
+        },
+        "H2": {
+            "id": "H2",
+            "orientation": 123.75,
+            "rectangle": [
+                [
+                    238,
+                    207
+                ],
+                [
+                    250,
+                    219
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    162,
+                    21
+                ],
+                [
+                    163,
+                    46
+                ],
+                [
+                    155,
+                    41
+                ],
+                [
+                    156,
+                    46
+                ],
+                [
+                    154,
+                    18
+                ],
+                [
+                    163,
+                    18
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    77,
+                    155
+                ],
+                [
+                    160,
+                    74
+                ],
+                [
+                    160,
+                    74
+                ],
+                [
+                    240,
+                    156
+                ],
+                [
+                    245,
+                    148
+                ],
+                [
+                    159,
+                    66
+                ],
+                [
+                    74,
+                    148
+                ],
+                [
+                    75,
+                    154
+                ]
+            ]
+        },
+        "A2": {
+            "id": "A2",
+            "polygon": [
+                [
+                    235,
+                    215
+                ],
+                [
+                    258,
+                    185
+                ],
+                [
+                    284,
+                    216
+                ],
+                [
+                    273,
+                    217
+                ],
+                [
+                    262,
+                    198
+                ],
+                [
+                    243,
+                    225
+                ],
+                [
+                    233,
+                    214
+                ]
+            ]
+        }
+    },
+    "blobs": {},
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A0+H1",
+            "origin": "A0"
+        },
+        "A1+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A1+H0",
+            "origin": "A1"
+        },
+        "A2+H2": {
+            "category": "arrowHeadTail",
+            "destination": "H2",
+            "hasDirectionality": false,
+            "id": "A2+H2",
+            "origin": "A2"
+        },
+        "T1+A0+T2": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "T2",
+            "hasDirectionality": true,
+            "id": "T1+A0+T2",
+            "origin": "T1"
+        },
+        "T2+A1+T5": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "T5",
+            "hasDirectionality": true,
+            "id": "T2+A1+T5",
+            "origin": "T2"
+        },
+        "T5+A2+T6": {
+            "category": "interObjectLinkage",
+            "connector": "A2",
+            "destination": "T6",
+            "hasDirectionality": true,
+            "id": "T5+A2+T6",
+            "origin": "T5"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    239,
+                    25
+                ],
+                [
+                    285,
+                    41
+                ]
+            ],
+            "replacementText": "A",
+            "value": "2 ATP"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    126,
+                    0
+                ],
+                [
+                    191,
+                    19
+                ]
+            ],
+            "replacementText": "G",
+            "value": "Glucose"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    117,
+                    52
+                ],
+                [
+                    200,
+                    69
+                ]
+            ],
+            "replacementText": "E",
+            "value": "2 Pyruvate"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    1,
+                    87
+                ],
+                [
+                    68,
+                    121
+                ]
+            ],
+            "replacementText": "C",
+            "value": "34 more ATP"
+        },
+        "T4": {
+            "id": "T4",
+            "rectangle": [
+                [
+                    0,
+                    173
+                ],
+                [
+                    142,
+                    188
+                ]
+            ],
+            "replacementText": "H",
+            "value": "aerobic respiration"
+        },
+        "T5": {
+            "id": "T5",
+            "rectangle": [
+                [
+                    213,
+                    171
+                ],
+                [
+                    306,
+                    188
+                ]
+            ],
+            "replacementText": "I",
+            "value": "fermentation"
+        },
+        "T6": {
+            "id": "T6",
+            "rectangle": [
+                [
+                    142,
+                    226
+                ],
+                [
+                    250,
+                    264
+                ]
+            ],
+            "replacementText": "F",
+            "value": "alcohol + CO2 (yeast, plants)"
+        },
+        "T7": {
+            "id": "T7",
+            "rectangle": [
+                [
+                    273,
+                    226
+                ],
+                [
+                    345,
+                    264
+                ]
+            ],
+            "replacementText": "D",
+            "value": "lactate (animals)"
+        },
+        "T8": {
+            "id": "T8",
+            "rectangle": [
+                [
+                    182,
+                    82
+                ],
+                [
+                    247,
+                    143
+                ]
+            ],
+            "replacementText": "B",
+            "value": "no oxygen"
+        },
+        "T9": {
+            "id": "T9",
+            "rectangle": [
+                [
+                    84,
+                    83
+                ],
+                [
+                    131,
+                    130
+                ]
+            ],
+            "replacementText": "J",
+            "value": "oxygen"
+        }
+    }
+}

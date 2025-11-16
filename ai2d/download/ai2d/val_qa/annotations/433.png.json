@@ -1,0 +1,462 @@
+{
+    "arrowHeads": {
+        "H0": {
+            "id": "H0",
+            "orientation": 270.0,
+            "rectangle": [
+                [
+                    62,
+                    66
+                ],
+                [
+                    70,
+                    78
+                ]
+            ]
+        },
+        "H1": {
+            "id": "H1",
+            "orientation": 270.0,
+            "rectangle": [
+                [
+                    61,
+                    190
+                ],
+                [
+                    70,
+                    203
+                ]
+            ]
+        }
+    },
+    "arrows": {
+        "A0": {
+            "id": "A0",
+            "polygon": [
+                [
+                    61,
+                    67
+                ],
+                [
+                    64,
+                    96
+                ],
+                [
+                    72,
+                    97
+                ],
+                [
+                    70,
+                    63
+                ],
+                [
+                    64,
+                    65
+                ]
+            ]
+        },
+        "A1": {
+            "id": "A1",
+            "polygon": [
+                [
+                    63,
+                    191
+                ],
+                [
+                    64,
+                    221
+                ],
+                [
+                    72,
+                    221
+                ],
+                [
+                    71,
+                    187
+                ],
+                [
+                    62,
+                    188
+                ]
+            ]
+        }
+    },
+    "blobs": {
+        "B0": {
+            "id": "B0",
+            "polygon": [
+                [
+                    38,
+                    39
+                ],
+                [
+                    39,
+                    29
+                ],
+                [
+                    51,
+                    31
+                ],
+                [
+                    56,
+                    23
+                ],
+                [
+                    67,
+                    19
+                ],
+                [
+                    68,
+                    27
+                ],
+                [
+                    82,
+                    23
+                ],
+                [
+                    82,
+                    21
+                ],
+                [
+                    92,
+                    27
+                ],
+                [
+                    89,
+                    33
+                ],
+                [
+                    97,
+                    37
+                ],
+                [
+                    95,
+                    46
+                ],
+                [
+                    78,
+                    46
+                ],
+                [
+                    71,
+                    45
+                ],
+                [
+                    68,
+                    42
+                ],
+                [
+                    53,
+                    38
+                ],
+                [
+                    48,
+                    39
+                ],
+                [
+                    39,
+                    40
+                ]
+            ]
+        },
+        "B1": {
+            "id": "B1",
+            "polygon": [
+                [
+                    55,
+                    106
+                ],
+                [
+                    50,
+                    105
+                ],
+                [
+                    39,
+                    97
+                ],
+                [
+                    58,
+                    96
+                ],
+                [
+                    64,
+                    93
+                ],
+                [
+                    64,
+                    97
+                ],
+                [
+                    80,
+                    94
+                ],
+                [
+                    93,
+                    101
+                ],
+                [
+                    75,
+                    109
+                ],
+                [
+                    75,
+                    124
+                ],
+                [
+                    67,
+                    135
+                ],
+                [
+                    71,
+                    145
+                ],
+                [
+                    71,
+                    165
+                ],
+                [
+                    60,
+                    169
+                ],
+                [
+                    61,
+                    154
+                ],
+                [
+                    61,
+                    150
+                ],
+                [
+                    61,
+                    145
+                ],
+                [
+                    61,
+                    140
+                ],
+                [
+                    61,
+                    137
+                ],
+                [
+                    59,
+                    130
+                ],
+                [
+                    59,
+                    121
+                ],
+                [
+                    59,
+                    116
+                ],
+                [
+                    56,
+                    108
+                ]
+            ]
+        },
+        "B2": {
+            "id": "B2",
+            "polygon": [
+                [
+                    44,
+                    233
+                ],
+                [
+                    67,
+                    224
+                ],
+                [
+                    79,
+                    215
+                ],
+                [
+                    87,
+                    218
+                ],
+                [
+                    87,
+                    226
+                ],
+                [
+                    91,
+                    246
+                ],
+                [
+                    80,
+                    263
+                ],
+                [
+                    66,
+                    264
+                ],
+                [
+                    70,
+                    254
+                ],
+                [
+                    62,
+                    243
+                ],
+                [
+                    61,
+                    257
+                ],
+                [
+                    53,
+                    259
+                ],
+                [
+                    48,
+                    248
+                ],
+                [
+                    53,
+                    245
+                ],
+                [
+                    53,
+                    236
+                ],
+                [
+                    47,
+                    241
+                ],
+                [
+                    43,
+                    235
+                ]
+            ]
+        }
+    },
+    "containers": {},
+    "imageConsts": {
+        "I0": {
+            "id": "I0"
+        }
+    },
+    "meaningfulSpaces": {},
+    "relationships": {
+        "A0+H0": {
+            "category": "arrowHeadTail",
+            "destination": "H0",
+            "hasDirectionality": false,
+            "id": "A0+H0",
+            "origin": "A0"
+        },
+        "A1+H1": {
+            "category": "arrowHeadTail",
+            "destination": "H1",
+            "hasDirectionality": false,
+            "id": "A1+H1",
+            "origin": "A1"
+        },
+        "B1+A0+B0": {
+            "category": "interObjectLinkage",
+            "connector": "A0",
+            "destination": "B0",
+            "hasDirectionality": true,
+            "id": "B1+A0+B0",
+            "origin": "B1"
+        },
+        "B2+A1+B1": {
+            "category": "interObjectLinkage",
+            "connector": "A1",
+            "destination": "B1",
+            "hasDirectionality": true,
+            "id": "B2+A1+B1",
+            "origin": "B2"
+        },
+        "T0+I0": {
+            "category": "imageTitle",
+            "destination": "I0",
+            "hasDirectionality": false,
+            "id": "T0+I0",
+            "origin": "T0"
+        },
+        "T1+B1": {
+            "category": "intraObjectLabel",
+            "destination": "B1",
+            "hasDirectionality": false,
+            "id": "T1+B1",
+            "origin": "T1"
+        },
+        "T2+B0": {
+            "category": "intraObjectLabel",
+            "destination": "B0",
+            "hasDirectionality": false,
+            "id": "T2+B0",
+            "origin": "T2"
+        },
+        "T3+B2": {
+            "category": "intraObjectLabel",
+            "destination": "B2",
+            "hasDirectionality": false,
+            "id": "T3+B2",
+            "origin": "T3"
+        }
+    },
+    "text": {
+        "T0": {
+            "id": "T0",
+            "rectangle": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    132,
+                    14
+                ]
+            ],
+            "replacementText": "D",
+            "value": "MARINE FOOD CHAIN"
+        },
+        "T1": {
+            "id": "T1",
+            "rectangle": [
+                [
+                    35,
+                    168
+                ],
+                [
+                    94,
+                    183
+                ]
+            ],
+            "replacementText": "C",
+            "value": "Copepods"
+        },
+        "T2": {
+            "id": "T2",
+            "rectangle": [
+                [
+                    23,
+                    46
+                ],
+                [
+                    115,
+                    64
+                ]
+            ],
+            "replacementText": "B",
+            "value": "Cholera bacteria"
+        },
+        "T3": {
+            "id": "T3",
+            "rectangle": [
+                [
+                    16,
+                    264
+                ],
+                [
+                    117,
+                    278
+                ]
+            ],
+            "replacementText": "A",
+            "value": "Microscopic algae"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "imageName": "730.png",
+    "questions": {
+        "What is the name of the stage depicted at label B?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "Butterfly",
+                "Chrysalis",
+                "Eggs",
+                "Caterpillar"
+            ],
+            "correctAnswer": 1,
+            "questionId": "730.png-0"
+        },
+        "What stage best corresponds to the chrysalis?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "D",
+                "F",
+                "E",
+                "B"
+            ],
+            "correctAnswer": 3,
+            "questionId": "730.png-2"
+        },
+        "When a caterpillar changes into a butterfly, the insect is going through ___.": {
+            "abcLabel": false,
+            "answerTexts": [
+                "None of the above",
+                "Metaphors",
+                "Metamorphosis",
+                "Morpheus"
+            ],
+            "correctAnswer": 2,
+            "questionId": "730.png-1"
+        }
+    }
+}

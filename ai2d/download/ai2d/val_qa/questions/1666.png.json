@@ -1,0 +1,49 @@
+{
+    "imageName": "1666.png",
+    "questions": {
+        "What is a solar eclipse?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "sun, moon, and earth line up, with the earth in the middle",
+                "sun, moon, and earth line up, with the moon in the middle",
+                "sun, moon, and earth line up, with the sun in the middle",
+                "sun, moon, and earth line up, with the moon in the outside"
+            ],
+            "correctAnswer": 1,
+            "questionId": "1666.png-0"
+        },
+        "What is between the Earth and the Sun during a solar eclipse?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "A meteor.",
+                "Venus.",
+                "The Moon.",
+                "Nothing."
+            ],
+            "correctAnswer": 2,
+            "questionId": "1666.png-1"
+        },
+        "What is the phenomenon when the sun, moon, and earth line up, with the moon in the middle known as?": {
+            "abcLabel": true,
+            "answerTexts": [
+                "summer solstice",
+                "equator",
+                "solar eclipse",
+                "winter"
+            ],
+            "correctAnswer": 2,
+            "questionId": "1666.png-2"
+        },
+        "When does the solar eclipse occur?": {
+            "abcLabel": false,
+            "answerTexts": [
+                "When the Moon is perfectly aligned between the Earth and the Sun.",
+                "When the Earth is perfectly aligned between the Sun and the Moon.",
+                "When the Earth is partially aligned between the Sun and the Moon.",
+                "When the Moon is partially aligned between the Earth and the Sun."
+            ],
+            "correctAnswer": 0,
+            "questionId": "1666.png-3"
+        }
+    }
+}
